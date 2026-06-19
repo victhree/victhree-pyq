@@ -1,0 +1,144 @@
+/* VicThree Defence — PYQ Library. Navy #0B1F3A / Gold #C9A24B. Mobile-first. */
+:root{
+  --navy:#0B1F3A; --navy-2:#11294b; --navy-3:#17345e;
+  --gold:#C9A24B; --gold-soft:#e3c987; --gold-dim:#9c7d39;
+  --ink:#1b2430; --paper:#f6f7f9; --card:#ffffff; --line:#e2e6ec;
+  --muted:#6b7585; --good:#1f8b4c; --good-bg:#e8f6ee; --bad:#c0392b; --bad-bg:#fcebe9;
+  --shadow:0 1px 3px rgba(11,31,58,.08),0 4px 16px rgba(11,31,58,.06);
+  --radius:14px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;
+  color:var(--ink);background:var(--paper);line-height:1.5;font-size:16px;
+}
+a{color:var(--navy-3)}
+img{max-width:100%;display:block}
+
+/* ---------- Header / banner ---------- */
+.header{background:linear-gradient(135deg,var(--navy),var(--navy-3));color:#fff;border-bottom:3px solid var(--gold)}
+.banner-wrap{max-width:980px;margin:0 auto}
+.banner{width:100%;max-height:260px;object-fit:cover;display:none}
+.banner.show{display:block}
+.brand{padding:18px 16px 14px;text-align:center}
+.brand .v3{display:inline-flex;align-items:center;gap:10px;justify-content:center}
+.brand .badge{
+  width:38px;height:38px;border-radius:9px;border:2px solid var(--gold);
+  display:flex;align-items:center;justify-content:center;font-weight:800;color:var(--gold);
+  font-size:15px;letter-spacing:.5px;background:rgba(201,162,75,.08)
+}
+.brand h1{margin:0;font-size:20px;letter-spacing:.3px}
+.brand .by{color:var(--gold-soft);font-size:13px;margin-top:2px;font-weight:600}
+.brand .sub{color:#c7d2e2;font-size:12.5px;margin-top:6px}
+/* when the banner image is present it already carries the logo + name — hide the duplicate text block */
+.header.has-banner .brand{padding:8px 16px 10px}
+.header.has-banner .brand .v3{display:none}
+
+/* ---------- Nav ---------- */
+.nav{display:flex;gap:8px;justify-content:center;padding:0 12px 14px;flex-wrap:wrap}
+.nav a{
+  text-decoration:none;color:#dfe7f2;font-weight:600;font-size:14px;
+  padding:8px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.18)
+}
+.nav a.active{background:var(--gold);color:var(--navy);border-color:var(--gold)}
+
+/* ---------- Layout ---------- */
+.wrap{max-width:980px;margin:0 auto;padding:14px 12px 60px}
+.stats{
+  text-align:center;color:var(--muted);font-size:13px;margin:2px 0 14px;font-weight:600
+}
+.stats b{color:var(--navy)}
+
+/* ---------- Filters ---------- */
+.filters{
+  background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow);padding:12px;display:grid;gap:10px;margin-bottom:14px
+}
+.filters .row{display:grid;gap:10px}
+.field{display:flex;flex-direction:column;gap:4px}
+.field label{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);font-weight:700}
+select,input[type=search],button{font-family:inherit;font-size:15px}
+select,input[type=search]{
+  width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);
+  appearance:none;-webkit-appearance:none
+}
+select:focus,input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
+.filters .actions{display:flex;gap:8px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.btn{
+  cursor:pointer;border:none;border-radius:10px;padding:10px 16px;font-weight:700;font-size:14px;
+  background:var(--gold);color:var(--navy);transition:filter .12s
+}
+.btn:hover{filter:brightness(1.05)}
+.btn.ghost{background:transparent;color:var(--navy);border:1px solid var(--line)}
+.btn.block{width:100%;padding:14px;font-size:16px}
+.result-count{font-size:13px;color:var(--muted);font-weight:700}
+
+/* ---------- Question card ---------- */
+.qcard{
+  background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow);padding:14px 14px 12px;margin-bottom:12px
+}
+.qtop{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.tag{
+  display:inline-flex;align-items:center;gap:6px;background:var(--gold);color:var(--navy);
+  font-weight:800;font-size:12px;padding:4px 10px;border-radius:999px;letter-spacing:.2px
+}
+.tag.topic{background:rgba(11,31,58,.06);color:var(--navy)}
+.qmeta{display:flex;gap:6px;flex-wrap:wrap}
+.qstem{font-weight:600;margin:2px 0 8px}
+.qnum{color:var(--gold-dim);font-weight:800;margin-right:4px}
+.subs{margin:0 0 10px;padding:0;list-style:none;display:grid;gap:3px}
+.subs li{font-size:14.5px;color:#33414f;padding-left:2px}
+.opts{display:grid;gap:6px;margin:0 0 10px}
+.opt{
+  display:flex;gap:8px;align-items:flex-start;padding:8px 10px;border:1px solid var(--line);
+  border-radius:10px;font-size:15px;background:#fff
+}
+.opt .ol{font-weight:800;color:var(--navy-3);min-width:18px}
+.opt.correct{background:var(--good-bg);border-color:#bfe3cd}
+.opt.correct .ol{color:var(--good)}
+.opt.chosen-wrong{background:var(--bad-bg);border-color:#f2c9c4}
+.opt.chosen-wrong .ol{color:var(--bad)}
+.reveal{border-top:1px dashed var(--line);padding-top:10px;margin-top:2px}
+.reveal .ans{font-weight:800;color:var(--good);margin-bottom:4px}
+.reveal .ans.none{color:var(--gold-dim)}
+.expl{font-size:14.5px;color:#33414f}
+.note{font-size:13px;color:var(--gold-dim);background:rgba(201,162,75,.1);padding:8px 10px;border-radius:8px;margin-top:8px}
+.show-btn{margin-top:2px}
+
+.empty{text-align:center;color:var(--muted);padding:40px 10px;font-weight:600}
+.loading{text-align:center;color:var(--muted);padding:40px 10px}
+
+/* ---------- Quiz ---------- */
+.quiz-intro{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px 16px;text-align:center;margin-bottom:14px}
+.quiz-intro h2{margin:0 0 6px;color:var(--navy)}
+.quiz-intro p{color:var(--muted);margin:0 0 14px;font-size:14px}
+.quizbar{
+  position:sticky;top:0;z-index:5;background:rgba(246,247,249,.95);backdrop-filter:blur(6px);
+  display:flex;align-items:center;justify-content:space-between;gap:10px;
+  padding:10px 12px;border:1px solid var(--line);border-radius:12px;margin-bottom:12px;box-shadow:var(--shadow)
+}
+.quizbar .prog{font-weight:700;font-size:14px;color:var(--navy)}
+.quiz-opt{cursor:pointer}
+.quiz-opt input{margin-right:8px;accent-color:var(--gold)}
+.scorecard{
+  background:linear-gradient(135deg,var(--navy),var(--navy-3));color:#fff;border-radius:var(--radius);
+  padding:22px 16px;text-align:center;margin-bottom:14px;border:2px solid var(--gold)
+}
+.scorecard .big{font-size:42px;font-weight:800;color:var(--gold)}
+.scorecard .pct{font-size:15px;color:#cdd8e8;margin-top:4px}
+.scorecard .meta{font-size:13px;color:#aebbcf;margin-top:8px}
+
+/* ---------- Tablet/desktop ---------- */
+@media(min-width:640px){
+  .brand h1{font-size:26px}
+  .filters .row.cols{grid-template-columns:1fr 1fr}
+  .filters .row.cols3{grid-template-columns:1fr 1fr 1fr}
+  .banner{max-height:300px}
+}
+@media(min-width:860px){
+  .filters .row.cols{grid-template-columns:1fr 1fr 1fr 1fr}
+}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:18px 12px 30px}
+footer .gold{color:var(--gold-dim);font-weight:700}

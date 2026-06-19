@@ -1,0 +1,352 @@
+{
+    "brand":  "VicThree Defence",
+    "owner":  "by Anmol Sharma",
+    "tagline":  "CDS Previous Year Questions â€” Topic-wise",
+    "updated":  "",
+    "totals":  {
+                   "questions":  333,
+                   "answered":  329,
+                   "subjects":  1,
+                   "yearMin":  2016,
+                   "yearMax":  2025
+               },
+    "subjects":  [
+                     {
+                         "key":  "geography",
+                         "name":  "Geography",
+                         "file":  "data/geography.json",
+                         "count":  333,
+                         "answered":  329,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Physical Geography",
+                                            "count":  43
+                                        },
+                                        {
+                                            "name":  "Climatology \u0026 Oceanography",
+                                            "count":  86
+                                        },
+                                        {
+                                            "name":  "Environmental Geography \u0026 Sustainability",
+                                            "count":  47
+                                        },
+                                        {
+                                            "name":  "Indian Geography",
+                                            "count":  69
+                                        },
+                                        {
+                                            "name":  "World \u0026 Regional Geography",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "Human, Economic \u0026 Agricultural Geography",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Miscellaneous \u0026 Mapping",
+                                            "count":  29
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Climatology \u0026 Oceanography":  [
+                                                                                   {
+                                                                                       "name":  "Atmosphere",
+                                                                                       "count":  12
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Climate types \u0026 classification",
+                                                                                       "count":  14
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Clouds, Rainfall \u0026 Humidity",
+                                                                                       "count":  19
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Cyclones \u0026 Storms",
+                                                                                       "count":  2
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Marine resources \u0026 ports",
+                                                                                       "count":  12
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Monsoon",
+                                                                                       "count":  4
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Ocean currents",
+                                                                                       "count":  3
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Salinity, Sea level \u0026 Coral reefs",
+                                                                                       "count":  2
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Solstice, Equinox \u0026 Seasons",
+                                                                                       "count":  3
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Tides",
+                                                                                       "count":  1
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Winds",
+                                                                                       "count":  14
+                                                                                   }
+                                                                               ],
+                                           "Indian Geography":  [
+                                                                    {
+                                                                        "name":  "Indian Agriculture \u0026 Crops",
+                                                                        "count":  7
+                                                                    },
+                                                                    {
+                                                                        "name":  "Indian Minerals \u0026 Industries",
+                                                                        "count":  8
+                                                                    },
+                                                                    {
+                                                                        "name":  "Indian Rivers",
+                                                                        "count":  25
+                                                                    },
+                                                                    {
+                                                                        "name":  "Indian Soils",
+                                                                        "count":  5
+                                                                    },
+                                                                    {
+                                                                        "name":  "Indian States \u0026 UTs",
+                                                                        "count":  7
+                                                                    },
+                                                                    {
+                                                                        "name":  "Indian Transport \u0026 Waterways",
+                                                                        "count":  6
+                                                                    },
+                                                                    {
+                                                                        "name":  "Natural vegetation",
+                                                                        "count":  1
+                                                                    },
+                                                                    {
+                                                                        "name":  "Physiography (Himalayas, Plateaux, Coasts)",
+                                                                        "count":  10
+                                                                    }
+                                                                ],
+                                           "Miscellaneous \u0026 Mapping":  [
+                                                                                {
+                                                                                    "name":  "Latitude, Longitude \u0026 Time",
+                                                                                    "count":  3
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Other",
+                                                                                    "count":  26
+                                                                                }
+                                                                            ],
+                                           "Physical Geography":  [
+                                                                      {
+                                                                          "name":  "Earthquakes",
+                                                                          "count":  13
+                                                                      },
+                                                                      {
+                                                                          "name":  "Interior of Earth",
+                                                                          "count":  2
+                                                                      },
+                                                                      {
+                                                                          "name":  "Landforms",
+                                                                          "count":  10
+                                                                      },
+                                                                      {
+                                                                          "name":  "Rocks",
+                                                                          "count":  5
+                                                                      },
+                                                                      {
+                                                                          "name":  "Volcanoes",
+                                                                          "count":  6
+                                                                      },
+                                                                      {
+                                                                          "name":  "Weathering \u0026 Erosion",
+                                                                          "count":  7
+                                                                      }
+                                                                  ],
+                                           "World \u0026 Regional Geography":  [
+                                                                                   {
+                                                                                       "name":  "Africa",
+                                                                                       "count":  3
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Asia \u0026 SAARC",
+                                                                                       "count":  4
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Australia \u0026 Oceania",
+                                                                                       "count":  1
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Continents \u0026 Countries",
+                                                                                       "count":  12
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Europe",
+                                                                                       "count":  3
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Important locations \u0026 landmarks",
+                                                                                       "count":  3
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Straits, Seas \u0026 Canals",
+                                                                                       "count":  6
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "World Rivers \u0026 Lakes",
+                                                                                       "count":  1
+                                                                                   }
+                                                                               ],
+                                           "Environmental Geography \u0026 Sustainability":  [
+                                                                                                 {
+                                                                                                     "name":  "Biodiversity \u0026 conservation",
+                                                                                                     "count":  13
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Climate change \u0026 emissions",
+                                                                                                     "count":  10
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Conservation \u0026 treaties",
+                                                                                                     "count":  3
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Disaster preparedness \u0026 institutions",
+                                                                                                     "count":  2
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Droughts \u0026 Desertification",
+                                                                                                     "count":  1
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Earthquakes \u0026 Tsunami",
+                                                                                                     "count":  1
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Ecosystems",
+                                                                                                     "count":  8
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Floods \u0026 Cloudbursts",
+                                                                                                     "count":  1
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Pollution",
+                                                                                                     "count":  4
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Sustainable development \u0026 SDGs",
+                                                                                                     "count":  4
+                                                                                                 }
+                                                                                             ],
+                                           "Human, Economic \u0026 Agricultural Geography":  [
+                                                                                                 {
+                                                                                                     "name":  "Cropping patterns \u0026 Irrigation",
+                                                                                                     "count":  1
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Crops (sugar, cotton, jute, coconut, tea)",
+                                                                                                     "count":  2
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Energy resources",
+                                                                                                     "count":  2
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Population \u0026 Migration",
+                                                                                                     "count":  17
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Urbanization \u0026 Settlements",
+                                                                                                     "count":  2
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "name":  "Water resources",
+                                                                                                     "count":  2
+                                                                                                 }
+                                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  19
+                                        }
+                                    ]
+                     }
+                 ]
+}
