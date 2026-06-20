@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  333,
-                   "answered":  329,
-                   "subjects":  1,
+                   "questions":  723,
+                   "answered":  714,
+                   "subjects":  2,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -345,6 +345,449 @@
                                         {
                                             "name":  "CDS 2025-II",
                                             "count":  19
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "history",
+                         "name":  "History",
+                         "file":  "data/history.json",
+                         "count":  390,
+                         "answered":  385,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Ancient India",
+                                            "count":  111
+                                        },
+                                        {
+                                            "name":  "Medieval India",
+                                            "count":  86
+                                        },
+                                        {
+                                            "name":  "Modern India",
+                                            "count":  175
+                                        },
+                                        {
+                                            "name":  "World History",
+                                            "count":  18
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "World History":  [
+                                                                 {
+                                                                     "name":  "American Revolution",
+                                                                     "count":  3
+                                                                 },
+                                                                 {
+                                                                     "name":  "Ancient \u0026 Medieval World",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "Chinese History",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "European Imperialism \u0026 World Trade",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "French Revolution \u0026 Enlightenment",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "Industrial Revolution",
+                                                                     "count":  4
+                                                                 },
+                                                                 {
+                                                                     "name":  "Japanese History",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "Russian Revolution \u0026 WWII",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "Scientific Revolution",
+                                                                     "count":  1
+                                                                 }
+                                                             ],
+                                           "Modern India":  [
+                                                                {
+                                                                    "name":  "Archaeology \u0026 Numismatics",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Census in India",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Christian Missions \u0026 Education",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Colonial Education Commissions",
+                                                                    "count":  1
+                                                                },
+                                                                {
+                                                                    "name":  "Colonial Foreign Policy \u0026 Expansion",
+                                                                    "count":  4
+                                                                },
+                                                                {
+                                                                    "name":  "Colonial-era Institutions, Infrastructure \u0026 Governance",
+                                                                    "count":  9
+                                                                },
+                                                                {
+                                                                    "name":  "Constitution-Making \u0026 Partition (1946-50)",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Cripps \u0026 Cabinet Mission",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Cultural \u0026 Artistic Revival",
+                                                                    "count":  1
+                                                                },
+                                                                {
+                                                                    "name":  "Depressed-Class Movements \u0026 Poona Pact",
+                                                                    "count":  7
+                                                                },
+                                                                {
+                                                                    "name":  "Early Political Associations",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Historiography \u0026 Indian Historians",
+                                                                    "count":  10
+                                                                },
+                                                                {
+                                                                    "name":  "INC Sessions \u0026 Political Ideas",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Justice Party \u0026 Non-Brahmin Movement",
+                                                                    "count":  1
+                                                                },
+                                                                {
+                                                                    "name":  "Labour Movement",
+                                                                    "count":  5
+                                                                },
+                                                                {
+                                                                    "name":  "Land Revenue Systems (Permanent Settlement, Ryotwari)",
+                                                                    "count":  11
+                                                                },
+                                                                {
+                                                                    "name":  "Liberal Federation, Swarajists \u0026 Socialist Parties",
+                                                                    "count":  4
+                                                                },
+                                                                {
+                                                                    "name":  "Mahatma Gandhi -- Philosophy \u0026 Movements",
+                                                                    "count":  12
+                                                                },
+                                                                {
+                                                                    "name":  "Major Events of the National Movement",
+                                                                    "count":  28
+                                                                },
+                                                                {
+                                                                    "name":  "Moderates \u0026 Early Phase of National Movement",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Non-Cooperation, Civil Disobedience \u0026 Salt Satyagraha",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Peasant \u0026 Tribal Uprisings",
+                                                                    "count":  9
+                                                                },
+                                                                {
+                                                                    "name":  "Pioneering Women \u0026 Autobiographies",
+                                                                    "count":  1
+                                                                },
+                                                                {
+                                                                    "name":  "Pre-1947 Constitutional Acts",
+                                                                    "count":  11
+                                                                },
+                                                                {
+                                                                    "name":  "Press \u0026 Nationalist Journalism",
+                                                                    "count":  4
+                                                                },
+                                                                {
+                                                                    "name":  "Provincial Elections \u0026 Ministries",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Quit India Movement",
+                                                                    "count":  1
+                                                                },
+                                                                {
+                                                                    "name":  "Revolt of 1857",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Revolutionary Movement (incl. Ghadar)",
+                                                                    "count":  5
+                                                                },
+                                                                {
+                                                                    "name":  "Sati, Widow Remarriage \u0026 Women\u0027s Reform",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Sikh Reform \u0026 Akali Movement",
+                                                                    "count":  3
+                                                                },
+                                                                {
+                                                                    "name":  "Socio-Religious Reform Movements \u0026 Reformers",
+                                                                    "count":  16
+                                                                },
+                                                                {
+                                                                    "name":  "Subhas Chandra Bose \u0026 INA",
+                                                                    "count":  2
+                                                                },
+                                                                {
+                                                                    "name":  "Women \u0026 Franchise",
+                                                                    "count":  1
+                                                                }
+                                                            ],
+                                           "Medieval India":  [
+                                                                  {
+                                                                      "name":  "Architecture \u0026 Monuments -- Sultanate to Mughal",
+                                                                      "count":  4
+                                                                  },
+                                                                  {
+                                                                      "name":  "Bhakti \u0026 Regional Literature",
+                                                                      "count":  8
+                                                                  },
+                                                                  {
+                                                                      "name":  "Bhakti, Sufism \u0026 Composite Culture",
+                                                                      "count":  8
+                                                                  },
+                                                                  {
+                                                                      "name":  "Delhi Sultanate",
+                                                                      "count":  5
+                                                                  },
+                                                                  {
+                                                                      "name":  "European Travellers \u0026 Foreign Accounts",
+                                                                      "count":  5
+                                                                  },
+                                                                  {
+                                                                      "name":  "Later Mughals",
+                                                                      "count":  3
+                                                                  },
+                                                                  {
+                                                                      "name":  "Maratha Period",
+                                                                      "count":  8
+                                                                  },
+                                                                  {
+                                                                      "name":  "Military \u0026 Warfare",
+                                                                      "count":  4
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mughal Cultural Life, Painting \u0026 Music",
+                                                                      "count":  4
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mughal Emperors \u0026 Court",
+                                                                      "count":  3
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mughal Period -- Administration",
+                                                                      "count":  1
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mughal Period -- Agrarian System",
+                                                                      "count":  7
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mughal-era Science \u0026 Medicine",
+                                                                      "count":  3
+                                                                  },
+                                                                  {
+                                                                      "name":  "Pratiharas \u0026 Eastern India (Gajapatis)",
+                                                                      "count":  2
+                                                                  },
+                                                                  {
+                                                                      "name":  "Rajputs",
+                                                                      "count":  1
+                                                                  },
+                                                                  {
+                                                                      "name":  "Regional Kingdoms (Travancore, Kashmir, Gonds, Ahoms)",
+                                                                      "count":  5
+                                                                  },
+                                                                  {
+                                                                      "name":  "Sanskrit \u0026 Persian Literature",
+                                                                      "count":  3
+                                                                  },
+                                                                  {
+                                                                      "name":  "Science (Kerala School, Astronomy)",
+                                                                      "count":  1
+                                                                  },
+                                                                  {
+                                                                      "name":  "Trade \u0026 Merchant Guilds",
+                                                                      "count":  1
+                                                                  },
+                                                                  {
+                                                                      "name":  "Vijayanagara Empire",
+                                                                      "count":  10
+                                                                  }
+                                                              ],
+                                           "Ancient India":  [
+                                                                 {
+                                                                     "name":  "Architecture \u0026 Religious Sites",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "Cholas",
+                                                                     "count":  8
+                                                                 },
+                                                                 {
+                                                                     "name":  "Cultural Contacts \u0026 Foreign Accounts",
+                                                                     "count":  5
+                                                                 },
+                                                                 {
+                                                                     "name":  "Gupta \u0026 Post-Gupta Period",
+                                                                     "count":  6
+                                                                 },
+                                                                 {
+                                                                     "name":  "Gupta-era Architecture (Ajanta, Sanchi)",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "Heterodox Sects -- Buddhism, Jainism \u0026 Ajivikas",
+                                                                     "count":  8
+                                                                 },
+                                                                 {
+                                                                     "name":  "Indus Valley Civilisation",
+                                                                     "count":  8
+                                                                 },
+                                                                 {
+                                                                     "name":  "Kushana",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "Mahajanapadas",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "Mathematics \u0026 Sciences",
+                                                                     "count":  1
+                                                                 },
+                                                                 {
+                                                                     "name":  "Mauryan Art, Architecture \u0026 Society",
+                                                                     "count":  5
+                                                                 },
+                                                                 {
+                                                                     "name":  "Mauryan Empire",
+                                                                     "count":  11
+                                                                 },
+                                                                 {
+                                                                     "name":  "Pallavas",
+                                                                     "count":  2
+                                                                 },
+                                                                 {
+                                                                     "name":  "Polity, Society \u0026 Marriage Systems",
+                                                                     "count":  4
+                                                                 },
+                                                                 {
+                                                                     "name":  "Pre-history \u0026 Stone Age",
+                                                                     "count":  6
+                                                                 },
+                                                                 {
+                                                                     "name":  "Religion, Philosophy \u0026 Bhakti",
+                                                                     "count":  13
+                                                                 },
+                                                                 {
+                                                                     "name":  "Sangam Age \u0026 South Indian History",
+                                                                     "count":  11
+                                                                 },
+                                                                 {
+                                                                     "name":  "Sanskrit Literature \u0026 Scholarship",
+                                                                     "count":  11
+                                                                 },
+                                                                 {
+                                                                     "name":  "Vedic Age \u0026 Early Aryans",
+                                                                     "count":  7
+                                                                 }
+                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  23
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  23
                                         }
                                     ]
                      }

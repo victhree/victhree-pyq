@@ -45,17 +45,37 @@ function refreshDependentFilters(keepTopic, keepPaper) {
   fillSelect(els.paper, papers, 'All years / papers');
   if (keepTopic && [...els.topic.options].some(o => o.value === keepTopic)) els.topic.value = keepTopic;
   if (keepPaper && [...els.paper.options].some(o => o.value === keepPaper)) els.paper.value = keepPaper;
+  refreshSubtopics();
+}
+
+/* subtopic dropdown depends on the selected subject + topic */
+function refreshSubtopics(keepSub) {
+  const subjName = currentSubject();
+  const topic = els.topic.value;
+  const counts = {};
+  VT.questions.forEach(q => {
+    if (subjName && q.subject !== subjName) return;
+    if (topic !== '__all__' && q.topic !== topic) return;
+    if (!q.subtopic) return;
+    counts[q.subtopic] = (counts[q.subtopic] || 0) + 1;
+  });
+  const opts = Object.keys(counts).sort()
+    .map(s => ({ value: s, label: `${s} (${counts[s]})` }));
+  fillSelect(els.subtopic, opts, 'All subtopics');
+  if (keepSub && [...els.subtopic.options].some(o => o.value === keepSub)) els.subtopic.value = keepSub;
 }
 
 function getFiltered() {
   const subjName = currentSubject();
   const topic = els.topic.value;
+  const subtopic = els.subtopic.value;
   const paper = els.paper.value;
   const q = els.search.value.trim().toLowerCase();
 
   let list = VT.questions.filter(item => {
     if (subjName && item.subject !== subjName) return false;
     if (topic !== '__all__' && item.topic !== topic) return false;
+    if (subtopic !== '__all__' && item.subtopic !== subtopic) return false;
     if (paper !== '__all__' && item.paper !== paper) return false;
     if (q) {
       const hay = (item.stem + ' ' + (item.subs || []).join(' ') + ' ' +
@@ -90,11 +110,12 @@ function questionCard(item) {
   }</div>`;
 
   const topicTag = `<span class="tag topic">${esc(item.topic)}${item.subtopic ? ' · ' + esc(item.subtopic) : ''}</span>`;
+  const warnTag = item.defective ? `<span class="tag warn">⚠ Verify vs original</span>` : '';
 
   return `<article class="qcard" data-id="${esc(item.id)}">
     <div class="qtop">
       <span class="tag">★ ${esc(item.ref)}</span>
-      <span class="qmeta">${topicTag}</span>
+      <span class="qmeta">${warnTag}${topicTag}</span>
     </div>
     <div class="qstem">${esc(item.stem)}</div>
     ${subsHtml}
@@ -167,7 +188,8 @@ function onResultsClick(e) {
 function debounce(fn, ms) { let t; return () => { clearTimeout(t); t = setTimeout(fn, ms); }; }
 
 async function init() {
-  els.subject = $('f-subject'); els.topic = $('f-topic'); els.paper = $('f-paper');
+  els.subject = $('f-subject'); els.topic = $('f-topic'); els.subtopic = $('f-subtopic');
+  els.paper = $('f-paper');
   els.sort = $('f-sort'); els.search = $('f-search'); els.results = $('results');
   els.rcount = $('rcount');
   initBanner();
@@ -184,7 +206,8 @@ async function init() {
   refreshDependentFilters();
 
   els.subject.addEventListener('change', () => { refreshDependentFilters(); applyFilters(); });
-  els.topic.addEventListener('change', applyFilters);
+  els.topic.addEventListener('change', () => { refreshSubtopics(); applyFilters(); });
+  els.subtopic.addEventListener('change', applyFilters);
   els.paper.addEventListener('change', applyFilters);
   els.sort.addEventListener('change', applyFilters);
   els.search.addEventListener('input', debounce(applyFilters, 180));

@@ -85,6 +85,7 @@ select:focus,input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
   font-weight:800;font-size:12px;padding:4px 10px;border-radius:999px;letter-spacing:.2px
 }
 .tag.topic{background:rgba(11,31,58,.06);color:var(--navy)}
+.tag.warn{background:#fdecec;color:#9a2a2a;border:1px solid #f3c0c0}
 .qmeta{display:flex;gap:6px;flex-wrap:wrap}
 .qstem{font-weight:600;margin:2px 0 8px}
 .qnum{color:var(--gold-dim);font-weight:800;margin-right:4px}
