@@ -8,7 +8,8 @@ $dataDir="$root\docs\data"
 $subjectOrder=@('Geography','History','Polity','Economics','General Science','English','Current Affairs','Elementary Mathematics')
 # bucket display order per subject (extend as needed)
 $bucketOrder=@('Physical Geography','Climatology & Oceanography','Environmental Geography & Sustainability','Indian Geography','World & Regional Geography','Human, Economic & Agricultural Geography','Miscellaneous & Mapping',
- 'Ancient India','Medieval India','Modern India','World History')
+ 'Ancient India','Medieval India','Modern India','World History',
+ 'Historical Constitutional Development','Constitutional Framework','Fundamental Rights, Duties & DPSPs','Union Executive','Parliament','Judiciary','Federalism & State Government','Local Government','Constitutional & Statutory Bodies','Elections & Representation','Emergency & Special Provisions','Governance & Public Policy','Amendments, Committees & Commissions','International & Comparative Polity')
 
 $files = Get-ChildItem $dataDir -Filter *.json | Where-Object { $_.Name -ne 'index.json' }
 $subjects=@()

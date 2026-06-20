@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  723,
-                   "answered":  714,
-                   "subjects":  2,
+                   "questions":  1035,
+                   "answered":  1020,
+                   "subjects":  3,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -788,6 +788,425 @@
                                         {
                                             "name":  "CDS 2025-II",
                                             "count":  23
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "polity",
+                         "name":  "Polity",
+                         "file":  "data/polity.json",
+                         "count":  312,
+                         "answered":  306,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Historical Constitutional Development",
+                                            "count":  29
+                                        },
+                                        {
+                                            "name":  "Constitutional Framework",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Fundamental Rights, Duties \u0026 DPSPs",
+                                            "count":  53
+                                        },
+                                        {
+                                            "name":  "Union Executive",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "Parliament",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "Judiciary",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "Federalism \u0026 State Government",
+                                            "count":  31
+                                        },
+                                        {
+                                            "name":  "Local Government",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "Constitutional \u0026 Statutory Bodies",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "Elections \u0026 Representation",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "Emergency \u0026 Special Provisions",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Governance \u0026 Public Policy",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Amendments, Committees \u0026 Commissions",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "International \u0026 Comparative Polity",
+                                            "count":  10
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Governance \u0026 Public Policy":  [
+                                                                                   {
+                                                                                       "name":  "Civil services \u0026 administrative reforms",
+                                                                                       "count":  7
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Welfare schemes with governance focus",
+                                                                                       "count":  5
+                                                                                   }
+                                                                               ],
+                                           "Constitutional \u0026 Statutory Bodies":  [
+                                                                                          {
+                                                                                              "name":  "CAG",
+                                                                                              "count":  2
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "Election Commission",
+                                                                                              "count":  6
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "Finance Commission",
+                                                                                              "count":  6
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "Lokpal / Lokayukta",
+                                                                                              "count":  1
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "National Commissions (SC/ST/Women/BC etc.)",
+                                                                                              "count":  4
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "NHRC \u0026 Human Rights bodies",
+                                                                                              "count":  4
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "NITI Aayog / Planning Commission",
+                                                                                              "count":  7
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "Tribunals",
+                                                                                              "count":  1
+                                                                                          },
+                                                                                          {
+                                                                                              "name":  "UPSC \u0026 Public Service Commissions",
+                                                                                              "count":  2
+                                                                                          }
+                                                                                      ],
+                                           "Union Executive":  [
+                                                                   {
+                                                                       "name":  "Attorney General",
+                                                                       "count":  1
+                                                                   },
+                                                                   {
+                                                                       "name":  "President",
+                                                                       "count":  8
+                                                                   },
+                                                                   {
+                                                                       "name":  "Prime Minister \u0026 Council of Ministers",
+                                                                       "count":  4
+                                                                   },
+                                                                   {
+                                                                       "name":  "Vice-President",
+                                                                       "count":  2
+                                                                   }
+                                                               ],
+                                           "Amendments, Committees \u0026 Commissions":  [
+                                                                                             {
+                                                                                                 "name":  "Committees \u0026 Commissions",
+                                                                                                 "count":  2
+                                                                                             },
+                                                                                             {
+                                                                                                 "name":  "Constitutional Amendments",
+                                                                                                 "count":  6
+                                                                                             },
+                                                                                             {
+                                                                                                 "name":  "Goods and Services Tax (101st Amendment)",
+                                                                                                 "count":  8
+                                                                                             }
+                                                                                         ],
+                                           "Parliament":  [
+                                                              {
+                                                                  "name":  "Lok Sabha",
+                                                                  "count":  1
+                                                              },
+                                                              {
+                                                                  "name":  "Members of Parliament (qualifications, disqualification, MPLADS)",
+                                                                  "count":  7
+                                                              },
+                                                              {
+                                                                  "name":  "Money Bill \u0026 Finance Bills",
+                                                                  "count":  6
+                                                              },
+                                                              {
+                                                                  "name":  "Parliament -- general \u0026 powers",
+                                                                  "count":  2
+                                                              },
+                                                              {
+                                                                  "name":  "Parliamentary Committees",
+                                                                  "count":  3
+                                                              },
+                                                              {
+                                                                  "name":  "Parliamentary procedures (Joint sitting, Motions, Voting)",
+                                                                  "count":  9
+                                                              },
+                                                              {
+                                                                  "name":  "Rajya Sabha",
+                                                                  "count":  3
+                                                              },
+                                                              {
+                                                                  "name":  "Territory \u0026 Union (territorial transfer, States reorganisation)",
+                                                                  "count":  1
+                                                              }
+                                                          ],
+                                           "Elections \u0026 Representation":  [
+                                                                                   {
+                                                                                       "name":  "Delimitation",
+                                                                                       "count":  1
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Electoral system \u0026 Model Code of Conduct",
+                                                                                       "count":  6
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Political parties",
+                                                                                       "count":  13
+                                                                                   }
+                                                                               ],
+                                           "Judiciary":  [
+                                                             {
+                                                                 "name":  "High Courts",
+                                                                 "count":  3
+                                                             },
+                                                             {
+                                                                 "name":  "Judicial review, PIL \u0026 landmark cases",
+                                                                 "count":  7
+                                                             },
+                                                             {
+                                                                 "name":  "Supreme Court",
+                                                                 "count":  4
+                                                             }
+                                                         ],
+                                           "Fundamental Rights, Duties \u0026 DPSPs":  [
+                                                                                           {
+                                                                                               "name":  "DPSPs",
+                                                                                               "count":  4
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "Fundamental Duties",
+                                                                                               "count":  5
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "Fundamental Rights",
+                                                                                               "count":  26
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "Rights issues \u0026 social legislation",
+                                                                                               "count":  10
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "Writs (Habeas Corpus, Mandamus, etc.)",
+                                                                                               "count":  8
+                                                                                           }
+                                                                                       ],
+                                           "International \u0026 Comparative Polity":  [
+                                                                                           {
+                                                                                               "name":  "Comparative constitutions \u0026 political concepts",
+                                                                                               "count":  7
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "UN System",
+                                                                                               "count":  3
+                                                                                           }
+                                                                                       ],
+                                           "Emergency \u0026 Special Provisions":  [
+                                                                                       {
+                                                                                           "name":  "National / President\u0027s / Financial Emergency",
+                                                                                           "count":  8
+                                                                                       },
+                                                                                       {
+                                                                                           "name":  "Special status provisions (Articles 370, 371)",
+                                                                                           "count":  1
+                                                                                       }
+                                                                                   ],
+                                           "Local Government":  [
+                                                                    {
+                                                                        "name":  "73rd \u0026 74th Amendments",
+                                                                        "count":  2
+                                                                    },
+                                                                    {
+                                                                        "name":  "Panchayati Raj",
+                                                                        "count":  12
+                                                                    }
+                                                                ],
+                                           "Constitutional Framework":  [
+                                                                            {
+                                                                                "name":  "Citizenship",
+                                                                                "count":  4
+                                                                            },
+                                                                            {
+                                                                                "name":  "Preamble",
+                                                                                "count":  4
+                                                                            },
+                                                                            {
+                                                                                "name":  "Schedules",
+                                                                                "count":  15
+                                                                            },
+                                                                            {
+                                                                                "name":  "Territory \u0026 Union (territorial transfer, States reorganisation)",
+                                                                                "count":  1
+                                                                            }
+                                                                        ],
+                                           "Federalism \u0026 State Government":  [
+                                                                                      {
+                                                                                          "name":  "Centre-State relations \u0026 Lists",
+                                                                                          "count":  10
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Chief Minister",
+                                                                                          "count":  2
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Governor",
+                                                                                          "count":  6
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Special provisions for States",
+                                                                                          "count":  7
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "State Legislature",
+                                                                                          "count":  6
+                                                                                      }
+                                                                                  ],
+                                           "Historical Constitutional Development":  [
+                                                                                         {
+                                                                                             "name":  "Cabinet Mission / Objectives Resolution / Constituent Assembly",
+                                                                                             "count":  12
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Charter Acts",
+                                                                                             "count":  1
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Constitutional evolution \u0026 Acts repealed",
+                                                                                             "count":  1
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Government of India Acts",
+                                                                                             "count":  6
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Indian Councils Acts",
+                                                                                             "count":  1
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Indian Independence Act",
+                                                                                             "count":  2
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Morley-Minto / Montagu-Chelmsford Reforms",
+                                                                                             "count":  1
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Regulating Act",
+                                                                                             "count":  1
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Simon Commission / Round Table / Communal Award / Poona Pact",
+                                                                                             "count":  4
+                                                                                         }
+                                                                                     ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  23
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  23
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  10
                                         }
                                     ]
                      }

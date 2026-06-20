@@ -11,6 +11,7 @@ function $(id){ return document.getElementById(id); }
 function gradeablePool() {
   return VT.questions.filter(q =>
     (!quizSubject || q.subject === quizSubject) &&
+    !q.defective &&
     q.answer && LETTERS.includes(q.answer) &&
     (q.options || []).filter(o => o !== '').length === 4
   );
