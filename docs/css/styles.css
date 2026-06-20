@@ -30,7 +30,11 @@ img{max-width:100%;display:block}
 }
 .brand h1{margin:0;font-size:20px;letter-spacing:.3px}
 .brand .by{color:var(--gold-soft);font-size:13px;margin-top:2px;font-weight:600}
-.brand .sub{color:#fff;font-size:20px;font-weight:800;letter-spacing:.2px;margin-top:8px}
+.brand .sub{
+  color:#fff;font-family:Georgia,'Times New Roman',serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:1px;line-height:1.15;
+  font-size:clamp(26px,7.5vw,44px);margin-top:10px
+}
 /* when the banner image is present it already carries the logo + name — hide the duplicate text block */
 .header.has-banner .brand{padding:8px 16px 10px}
 .header.has-banner .brand .v3{display:none}
