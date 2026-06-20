@@ -5,7 +5,7 @@
     "updated":  "",
     "totals":  {
                    "questions":  1035,
-                   "answered":  1020,
+                   "answered":  1019,
                    "subjects":  3,
                    "yearMin":  2016,
                    "yearMax":  2025
@@ -796,7 +796,7 @@
                          "name":  "Polity",
                          "file":  "data/polity.json",
                          "count":  312,
-                         "answered":  306,
+                         "answered":  305,
                          "yearMin":  2016,
                          "yearMax":  2025,
                          "topics":  [
