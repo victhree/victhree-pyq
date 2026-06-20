@@ -21,7 +21,7 @@
                         "Philip Francis"
                     ],
         "answer":  "a",
-        "explanation":  "The Regulating Act of 1773 elevated the Governor of Bengal (Warren Hastings) to Governor-General of Bengal. Lord North was the British PM; Elphinstone and Francis held other posts.",
+        "explanation":  "The Regulating Act (1773) — the first British parliamentary attempt to control the East India Company — upgraded the Governor of Bengal to Governor-General of Bengal, the first being Warren Hastings. Lord North was the British PM who piloted the Act; Francis was a Council member.",
         "defective":  false
     },
     {
@@ -50,7 +50,7 @@
                         "2, 1, 3, 4"
                     ],
         "answer":  "a",
-        "explanation":  "Cornwallis Code (1793, 4) → Vernacular Press Act (1878, 2) → Indian Factory Act (1881, 1) → Morley-Minto Reforms (1909, 3). This is 4, 2, 1, 3.",
+        "explanation":  "Order by date: Cornwallis Code (1793) → Vernacular Press Act (1878) → Indian Factory Act (1881) → Morley-Minto Reforms (1909) = 4, 2, 1, 3.",
         "defective":  false
     },
     {
@@ -79,7 +79,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "a",
-        "explanation":  "Article 395 repealed the Government of India Act 1935 (1) and the Indian Independence Act 1947 (2). The Privy Council Jurisdiction Act (1949) and GoI Act 1919 were not repealed by Article 395.",
+        "explanation":  "Article 395 (the repeal clause) specifically repealed the Government of India Act, 1935 and the Indian Independence Act, 1947 — the two laws on which British rule rested. The Privy Council Act (1949) and the 1919 Act were not repealed by Article 395.",
         "defective":  false
     },
     {
@@ -107,7 +107,7 @@
                         "1 and 3 only"
                     ],
         "answer":  "c",
-        "explanation":  "The GoI Act 1858 transferred sovereignty from the Company to the Crown (1), was the first statute for direct British rule (2), and embodied absolute imperial control without popular participation (3). All correct.",
+        "explanation":  "The Act of 1858 (passed after the 1857 Revolt) transferred power from the Company to the British Crown (1), was the first statute for direct rule (2), and gave no role to Indians/popular opinion — pure imperial control (3). All three are correct.",
         "defective":  false
     },
     {
@@ -132,7 +132,7 @@
                         "It paved the way for federalism by clearly separating the responsibilities of the Centre and the Provinces."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — the GoI Act 1919 did not make the central executive responsible to the legislature (dyarchy applied only at the provincial level). The other statements are correct.",
+        "explanation":  "The 1919 Act introduced dyarchy in the provinces, but the central executive stayed unaccountable to the legislature — so statement b is false. It did extend communal representation, is the Montagu-Chelmsford Reforms, and began separating central/provincial subjects.",
         "defective":  false
     },
     {
@@ -157,7 +157,7 @@
                         "The Government of India Act, 1935"
                     ],
         "answer":  "d",
-        "explanation":  "The GoI Act 1935 reserved seats for women in legislatures in line with the communal allocation of seats. Earlier Acts did not.",
+        "explanation":  "The Act of 1935 provided reserved seats for women within the wider communal representation scheme. Earlier Acts did not.",
         "defective":  false
     },
     {
@@ -182,7 +182,7 @@
                         "The Indian Councils Act, 1909"
                     ],
         "answer":  "c",
-        "explanation":  "The GoI Act 1935 provided for a Federal Court (established 1937). The 1919 Act and the Lee Commission did not.",
+        "explanation":  "The Act of 1935 provided for a Federal Court (established 1937) — the forerunner of today\u0027s Supreme Court. The Lee Commission dealt with the civil services.",
         "defective":  false
     },
     {
@@ -207,7 +207,7 @@
                         "Gopal Krishna Gokhale"
                     ],
         "answer":  "d",
-        "explanation":  "In 1911 Gopal Krishna Gokhale introduced a bill in the Imperial Legislative Council for compulsory, free primary education. The others did not.",
+        "explanation":  "Gopal Krishna Gokhale moved the 1911 bill for free and compulsory primary education; though defeated, it permanently put the idea on the agenda.",
         "defective":  false
     },
     {
@@ -235,7 +235,7 @@
                         "1 only"
                     ],
         "answer":  "a",
-        "explanation":  "The Indian Councils Act 1861 added non-official members (a “grain” of popular element) (1) whose role was confined to legislative proposals (2). Statement 3 is wrong — the Governor-General retained effective legislative power. Hence 1 and 2 only.",
+        "explanation":  "The ICA 1861 added nominated non-official members (a token popular element) (1), whose role was confined to legislative proposals (2). Statement 3 is wrong — the Governor-General kept strong legislative powers (veto and ordinance). Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -260,7 +260,7 @@
                         "The Governor-General was the constitutional head of Indian Dominion."
                     ],
         "answer":  "c",
-        "explanation":  "This is NOT a change brought by the Act — it actually ended the Crown’s authority/paramountcy, with the Constituent Assembly becoming sovereign. The GoI Act 1935 as interim constitution, India ceasing to be a dependency, and the GG as constitutional head are correct changes.",
+        "explanation":  "The Act actually ended the Crown\u0027s authority over India — the Constituent Assembly became sovereign — so saying \"the Crown was the source of authority\" is not a change it brought (it is false). The amended 1935 Act as interim constitution, India ceasing to be a dependency, and the GG as constitutional head are genuine changes.",
         "defective":  false
     },
     {
@@ -285,7 +285,7 @@
                         "The Act empowered the Constituent Assembly of each Dominion to have unlimited power to frame and adopt any constitution."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — the Constitution’s framework was laid by the Constituent Assembly, not the Indian Independence Act 1947 (which provided for partition and two dominions). The other statements are correct.",
+        "explanation":  "The Constitution\u0027s framework was drawn up by the Constituent Assembly, not the Indian Independence Act — the Act only provided for partition into two dominions and the transfer of power. So statement b is false; the rest are correct.",
         "defective":  false
     },
     {
@@ -310,7 +310,7 @@
                         "Government of India Act, 1935"
                     ],
         "answer":  "a",
-        "explanation":  "Separate electorates for Muslims were first introduced by the Morley-Minto Reforms (Indian Councils Act) of 1909.",
+        "explanation":  "Separate electorates for Muslims were first granted by the Morley-Minto Reforms (Indian Councils Act, 1909) — institutionalising communal representation. The Communal Award (1932) later widened separate electorates further.",
         "defective":  false
     },
     {
@@ -335,9 +335,9 @@
                         "Statement I is true but Statement II is false",
                         "Statement I is false but Statement II is true"
                     ],
-        "answer":  "c",
-        "explanation":  "The Poona Pact did provide 151 reserved seats via a joint electorate (I true). Statement II is false — Ambedkar did not withdraw from politics for a decade; he stayed very active. Hence I true, II false.",
-        "defective":  false
+        "answer":  "",
+        "explanation":  "[Source / option defect] Both statements are false, so the printed options do not contain a valid answer. The Poona Pact reserved 148 seats (not 151) for the Depressed Classes in the provincial legislatures, and Ambedkar did not withdraw from active politics for a decade after the Pact.",
+        "defective":  true
     },
     {
         "id":  "pol-2021-I-q7",
@@ -361,7 +361,7 @@
                         "The Congress agreed to take part in the Second Round Table Conference."
                     ],
         "answer":  "d",
-        "explanation":  "Under the Gandhi-Irwin Pact (1931), Congress agreed to suspend the Civil Disobedience Movement and join the Second RTC. The other statements are wrongly framed.",
+        "explanation":  "By the Gandhi-Irwin Pact, the Congress agreed to suspend Civil Disobedience and join the Second Round Table Conference, while the government agreed to release prisoners not guilty of violence. The other options invert these terms.",
         "defective":  false
     },
     {
@@ -390,7 +390,7 @@
                         "1, 2 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "At the Second RTC (1931) Britain refused the demand for freedom (1), and the CDM began with breaking the salt laws (4). Statement 2 (dominion status 1932) and statement 3 (Willingdon’s reconciliation) are wrong. Hence 1 and 4 only.",
+        "explanation":  "At the Second RTC Britain refused real freedom (1), and the CDM began with the salt law at Dandi (4). Statement 2 is wrong (no dominion status in 1932), and statement 3 is wrong — Willingdon was repressive, not conciliatory. Hence 1 and 4 only.",
         "defective":  false
     },
     {
@@ -447,7 +447,7 @@
                         "1 and 3 only"
                     ],
         "answer":  "d",
-        "explanation":  "The Constituent Assembly was indirectly elected by provincial assemblies (1), and the election scheme was laid down by the Cabinet (Mission) Delegation (3). It was NOT elected by universal adult franchise (2), and seat distribution followed the Cabinet Mission Plan, not the Mountbatten Plan (4). Hence 1 and 3 only.",
+        "explanation":  "The Constituent Assembly was indirectly elected by the provincial assemblies (1), under the scheme laid down by the Cabinet (Mission) Delegation (3). Statement 2 is wrong (no universal adult franchise — members were chosen by the provincial legislators), and statement 4 is wrong (the seat scheme came from the Cabinet Mission Plan, not the Mountbatten Plan). Hence 1 and 3 only.",
         "defective":  false
     },
     {
@@ -472,7 +472,7 @@
                         "Muhammad Saadulah"
                     ],
         "answer":  "c",
-        "explanation":  "B.N. Rau was the Constitutional Advisor, not a member of the Drafting Committee. Ayyangar, Munshi and Saadulah were Drafting Committee members.",
+        "explanation":  "B. N. Rau was the Constitutional Advisor to the Constituent Assembly (who prepared the initial draft), but he was not a member of the seven-man Drafting Committee. Ayyangar, Munshi and Saadulah were members (chaired by Ambedkar).",
         "defective":  false
     },
     {
@@ -500,7 +500,7 @@
                         "2 and 3 only"
                     ],
         "answer":  "c",
-        "explanation":  "The Objectives Resolution inspired the Constitution through all stages (1), was a declaration/pledge not just a resolution (2), and provided its underlying philosophy (3). All correct.",
+        "explanation":  "Nehru\u0027s Objectives Resolution (1946) guided the Assembly throughout (1), was a solemn declaration/pledge (2), and supplied the ideals that became the Preamble — the Constitution\u0027s philosophy (3). All three are correct.",
         "defective":  false
     },
     {
@@ -525,7 +525,7 @@
                         "The Unionist Party"
                     ],
         "answer":  "c",
-        "explanation":  "The Muslim League formally accepted the Cabinet Mission Plan on 6 June 1946 (the plan having rejected a sovereign Pakistan). The Congress’s acceptance was partial and later.",
+        "explanation":  "The Muslim League accepted the Cabinet Mission Plan on 6 June 1946 (hoping its \"grouping\" scheme would amount to Pakistan in practice). The Congress accepted only parts of it, and the deadlock that followed led toward partition.",
         "defective":  false
     },
     {
@@ -554,7 +554,7 @@
                         "1, 2 and 4"
                     ],
         "answer":  "a",
-        "explanation":  "Alladi Krishnaswami Ayyar favoured the Supreme Court’s interpretive role (1) and that it should balance liberty and social control (2). He did not favour executive dominance (3) or dictatorial governance (4). Hence 1 and 2 only.",
+        "explanation":  "As a drafting member, Alladi backed a strong interpretive role for the Supreme Court (1) and saw it as the balancer between liberty and social control (2). He did not favour executive dominance (3) or dictatorship (4). Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -579,7 +579,7 @@
                         "S. P. Mukherjee"
                     ],
         "answer":  "a",
-        "explanation":  "Dr. B.R. Ambedkar stated in the Constituent Assembly that on 26 January 1950 India would enter “a life of contradictions” (political equality vs social/economic inequality).",
+        "explanation":  "Dr. Ambedkar warned that India would have political equality (one person, one vote) but persisting social and economic inequality — \"a life of contradictions\" that must be resolved or democracy would be in peril.",
         "defective":  false
     },
     {
@@ -604,7 +604,7 @@
                         "Karachi Session"
                     ],
         "answer":  "d",
-        "explanation":  "The resolution on Fundamental Rights and the National Economic Programme was passed at the Karachi Session (1931). Not Tripuri, Lahore or Lucknow.",
+        "explanation":  "The resolution on Fundamental Rights and the National Economic Programme was passed at the Karachi Session (1931), presided over by Sardar Patel, shortly after the Gandhi-Irwin Pact.",
         "defective":  false
     },
     {
@@ -629,7 +629,7 @@
                         "Alladi Krishnaswamy"
                     ],
         "answer":  "a",
-        "explanation":  "B.N. Rau was the Constitutional Advisor to the Constituent Assembly. Ambedkar chaired the Drafting Committee but was not the “advisor.”",
+        "explanation":  "Sir B. N. Rau was the Constitutional Advisor, who prepared the initial draft and studied other constitutions for the Assembly. Ambedkar chaired the Drafting Committee but was not the \"advisor.\"",
         "defective":  false
     },
     {
@@ -654,7 +654,7 @@
                         "The British Government could enter into a separate constitutional arrangement with any of the acceding provinces."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — the Cripps proposals allowed a separate arrangement with the non-acceding provinces, not the acceding ones. The other statements (March 1942, elected Constituent Assembly, provinces could retain their position) are correct.",
+        "explanation":  "Under Cripps, a separate arrangement was meant for the non-acceding provinces (those refusing the new constitution), not the acceding ones — so statement d is wrong. The March-1942 dispatch, the elected Constituent Assembly, and the opt-out for unwilling provinces are correct.",
         "defective":  false
     },
     {
@@ -683,7 +683,7 @@
                         "2, 1, 3, 4"
                     ],
         "answer":  "c",
-        "explanation":  "Lucknow Pact (1916) → Return of Subhas Chandra Bose to India (early 1920s) → Cripps Mission (1942) → Naval Mutiny, Bombay (1946). This is 1, 2, 3, 4.",
+        "explanation":  "Order: Lucknow Pact (1916) → Bose\u0027s return to India (early 1920s) → Cripps Mission (1942) → Naval Mutiny (1946) = 1, 2, 3, 4.",
         "defective":  false
     },
     {
@@ -708,7 +708,7 @@
                         "Subsidiary States"
                     ],
         "answer":  "a",
-        "explanation":  "In Ambedkar’s Draft Constitution (4 November 1948), India was described as a “Union of States.”",
+        "explanation":  "Ambedkar\u0027s Draft described India as a \"Union of States\" — deliberately chosen over \"Federation\" to stress that the union is indestructible and the states cannot secede.",
         "defective":  false
     },
     {
@@ -766,7 +766,7 @@
                         "3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "The Ilbert Bill (1883) proposed limited criminal jurisdiction for Indian officials (1) and generated strong European opposition (3). It did not propose complete jurisdiction (2) and was passed only after dilution (4 wrong). Hence 1 and 3.",
+        "explanation":  "The Ilbert Bill sought to let Indian judges try Europeans in criminal cases (1), provoking a storm of protest from the European community (3). Statement 2 overstates it (limited criminal, not \"complete\"), and statement 4 is wrong — it was passed only after being watered down. Hence 1 and 3.",
         "defective":  false
     },
     {
@@ -794,7 +794,7 @@
                         "2 only"
                     ],
         "answer":  "a",
-        "explanation":  "The Preamble is not by itself enforceable (1), states the objectives the Constitution promotes (2), and indicates the source of the Constitution’s authority — “We, the People” (3). All correct.",
+        "explanation":  "The Preamble is non-justiciable by itself (1), it declares the goals — justice, liberty, equality, fraternity (2), and it shows the Constitution flows from \"We, the People of India\" — the source of its authority (3). All three are correct.",
         "defective":  false
     },
     {
@@ -823,7 +823,7 @@
                         "1, 3 and 4"
                     ],
         "answer":  "b",
-        "explanation":  "The 42nd Amendment (1976) added “Socialist” (1), “Secular” (2) and “Integrity” (3) to the Preamble. “Fraternity” (4) was there from the beginning. Hence 1, 2 and 3.",
+        "explanation":  "The 42nd Amendment (1976) inserted \"Socialist,\" \"Secular\" and \"Integrity\" (in \"unity and integrity of the Nation\") into the Preamble. \"Fraternity\" was already there in the original. Hence 1, 2 and 3.",
         "defective":  false
     },
     {
@@ -850,7 +850,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "Equality of status and opportunity is mentioned in the Preamble (1), and “unity and integrity of the Nation” was not there originally — “integrity” was added by the 42nd Amendment (2). Both correct.",
+        "explanation":  "The Preamble does promise equality of status and opportunity (1), and the word \"integrity\" (in \"unity and integrity\") was added later by the 42nd Amendment — originally it was just \"unity of the Nation\" (2). Both correct.",
         "defective":  false
     },
     {
@@ -878,7 +878,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "b",
-        "explanation":  "“Justice” comes before “equality” (2, correct) and “fraternity” comes after “liberty” (3, correct). Statement 1 is wrong — “Socialist” comes before “Secular” in the Preamble. Hence 2 and 3 only.",
+        "explanation":  "The Preamble reads \"...SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC...\" and lists ideals as JUSTICE → LIBERTY → EQUALITY → FRATERNITY. So \"justice before equality\" (2) and \"fraternity after liberty\" (3) are correct, but statement 1 is wrong — socialist comes before secular, not the other way round. Hence 2 and 3 only.",
         "defective":  false
     },
     {
@@ -907,7 +907,7 @@
                         "1 and 2 only"
                     ],
         "answer":  "b",
-        "explanation":  "On 26 November 1949, provisions on Citizenship (1), Elections (2) and the Provisional Parliament (3) came into force. Fundamental Rights (4) came into effect on 26 January 1950. Hence 1, 2 and 3.",
+        "explanation":  "A few articles (on Citizenship, Elections and the Provisional Parliament, and provisions needed to get the new state running) came into force immediately on 26 November 1949 (the day the Constitution was adopted). The bulk — including Fundamental Rights — came into force on 26 January 1950. Hence 1, 2 and 3.",
         "defective":  false
     },
     {
@@ -932,7 +932,7 @@
                         "Manipur, Meghalaya, Tripura and Arunachal Pradesh"
                     ],
         "answer":  "a",
-        "explanation":  "The Sixth Schedule provides for administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+        "explanation":  "The Sixth Schedule provides for Autonomous District Councils in the tribal areas of Assam, Meghalaya, Tripura and Mizoram — giving them self-governance over land, customs and local matters. Manipur and Arunachal are not Sixth Schedule states.",
         "defective":  false
     },
     {
@@ -957,7 +957,7 @@
                         "The appropriate Legislature can repeal or amend an Act specified in the Ninth Schedule."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — laws in the Ninth Schedule are protected from being void for violating fundamental rights (though post-2007 they are subject to basic-structure review). The other statements (1st Amendment, basic-structure review, legislature can repeal) are correct.",
+        "explanation":  "Laws placed in the Ninth Schedule are protected from being struck down for violating fundamental rights — so saying they \"become void\" for violating an FR is the opposite of the truth. It was added by the 1st Amendment (1951); since the I.R. Coelho case (2007) such laws are still open to basic-structure review; and the legislature can amend them — all correct.",
         "defective":  false
     },
     {
@@ -982,7 +982,7 @@
                         "Fourth Schedule"
                     ],
         "answer":  "d",
-        "explanation":  "The Fourth Schedule fixes the number of Rajya Sabha seats allotted to each State and UT.",
+        "explanation":  "The Fourth Schedule allocates the seats of the Rajya Sabha (Council of States) among the States and UTs. The Third is on oaths, the Fifth/Sixth on tribal-area administration.",
         "defective":  false
     },
     {
@@ -1007,7 +1007,7 @@
                         "Sixth Schedule"
                     ],
         "answer":  "d",
-        "explanation":  "The Sixth Schedule provides for Autonomous District Councils in the tribal areas of the north-east.",
+        "explanation":  "The Sixth Schedule establishes Autonomous District and Regional Councils in the tribal areas of the north-east, with powers to make laws on land, forests, customs, etc.",
         "defective":  false
     },
     {
@@ -1032,7 +1032,7 @@
                         "An Act passed by the Parliament"
                     ],
         "answer":  "b",
-        "explanation":  "Article 348 provides that proceedings in the Supreme Court and High Courts shall be in English (until Parliament provides otherwise).",
+        "explanation":  "Article 348 lays down that, until Parliament provides otherwise, all proceedings in the Supreme Court and the High Courts shall be in English. Article 145 deals with court rules generally.",
         "defective":  false
     },
     {
@@ -1057,7 +1057,7 @@
                         "The Governors of the States in which there are scheduled areas have to submit reports to the President regarding the administration of such areas."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — under the Fifth Schedule the Governor is authorised to make regulations restricting the transfer of tribal land. The other statements are correct.",
+        "explanation":  "Under the Fifth Schedule, the Governor is empowered to make regulations restricting the transfer of land among/by Scheduled Tribes (to protect them) — so statement c is false. The Fifth Schedule covering scheduled areas outside the Sixth-Schedule states, Tribal Advisory Councils, and the Governor\u0027s reports to the President are all correct.",
         "defective":  false
     },
     {
@@ -1086,7 +1086,7 @@
                         "1, 3 and 4"
                     ],
         "answer":  "d",
-        "explanation":  "The statements that are NOT correct: 1 (President resigns to the Vice-President, not CJI), 3 (CAG is removed like a Supreme Court judge, not “like the President”), and 4 (a SC judge resigns to the President, not the CJI). Statement 2 (VP resigns to the President) is correct. Hence the incorrect ones are 1, 3 and 4.",
+        "explanation":  "The not-correct statements are 1 (the President resigns to the Vice-President, not the CJI), 3 (the CAG is removed in the manner of a Supreme Court judge, not \"like the President\"), and 4 (a Supreme Court judge resigns to the President, not the CJI). Statement 2 (VP resigns to the President) is correct. Hence the incorrect ones are 1, 3 and 4.",
         "defective":  false
     },
     {
@@ -1111,7 +1111,7 @@
                         "The President of India is bound to act as per the advice tendered by the Council of Ministers."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — the ceiling is 15 percent of the Lok Sabha’s strength (91st Amendment), not ten percent. The other statements are correct.",
+        "explanation":  "The ceiling on the Council of Ministers is 15 percent of the Lok Sabha\u0027s strength (91st Amendment), not ten percent — so statement c is false. Executive action in the President\u0027s name, the AG\u0027s qualifications, and the President acting on ministerial advice (Article 74) are all correct.",
         "defective":  false
     },
     {
@@ -1136,7 +1136,7 @@
                         "Urdu"
                     ],
         "answer":  "c",
-        "explanation":  "Sindhi was added to the Eighth Schedule by the 21st Amendment in 1967. Konkani, Manipuri and Nepali were added later (1992).",
+        "explanation":  "Sindhi was added by the 21st Amendment (1967). (Konkani, Manipuri and Nepali came in 1992; Bodo, Dogri, Maithili and Santhali in 2003.) Kashmiri and Urdu were in the original list.",
         "defective":  false
     },
     {
@@ -1164,7 +1164,7 @@
                         "4"
                     ],
         "answer":  "a",
-        "explanation":  "Only one pair is correct: Fifth Schedule – Scheduled Areas/Tribes (3). First Schedule is States/UTs (not Oaths), the Third Schedule (not “Allocation of RS seats”) covers Oaths, and the Ninth Schedule covers laws protected from review (not tribal-area administration). Hence 1 pair.",
+        "explanation":  "Only pair 3 is correct (Fifth Schedule = Scheduled Areas/Tribes). The First Schedule lists the States and UTs (oaths are in the Third); the allocation of Rajya Sabha seats is in the Fourth (not Third); and tribal-area administration is in the Sixth (the Ninth holds laws protected from judicial review). So just 1 pair matches.",
         "defective":  false
     },
     {
@@ -1189,7 +1189,7 @@
                         "The Parliament of India"
                     ],
         "answer":  "b",
-        "explanation":  "Under the Fifth Schedule, the President may direct that a Tribes Advisory Council be set up in a State that has Scheduled Tribes but no Scheduled Areas.",
+        "explanation":  "Under the Fifth Schedule, the President may direct that a Tribes Advisory Council be established even in a State that has Scheduled Tribes but no notified Scheduled Areas.",
         "defective":  false
     },
     {
@@ -1214,8 +1214,8 @@
                         "Manipuri"
                     ],
         "answer":  "a",
-        "explanation":  "Among the options, Maithili (added by the 92nd Amendment, 2003) is the latest in the Eighth Schedule. Nepali, Konkani and Manipuri were added in 1992.",
-        "defective":  false
+        "explanation":  "[Ambiguous] Maithili and Dogri - along with Bodo and Santhali - were all added to the Eighth Schedule by the 92nd Amendment (2003). If both Maithili and Dogri appear as options, \u0027the latest language added\u0027 is not uniquely Maithili, so the question is ambiguous. The keyed/intended answer is Maithili.",
+        "defective":  true
     },
     {
         "id":  "pol-2025-II-q5",
@@ -1239,7 +1239,7 @@
                         "Census - Concurrent List"
                     ],
         "answer":  "d",
-        "explanation":  "This pair is incorrect — Census is in the Union List (Entry 69), not the Concurrent List. Forest (Concurrent), taxes on land/buildings (State) and Insurance (Union) are correctly matched.",
+        "explanation":  "Census is in the Union List (Entry 69), not the Concurrent List — so this pair is wrong. Forest (moved to the Concurrent List by the 42nd Amendment), taxes on land and buildings (State List), and Insurance (Union List) are correctly matched.",
         "defective":  false
     },
     {
@@ -1264,7 +1264,7 @@
                         "Dogri"
                     ],
         "answer":  "b",
-        "explanation":  "Gondi is not one of the 22 languages in the Eighth Schedule. Manipuri, Nepali and Dogri are listed.",
+        "explanation":  "The Eighth Schedule lists 22 languages, including Manipuri, Nepali and Dogri. Gondi (a major tribal language) is not among them.",
         "defective":  false
     },
     {
@@ -1293,7 +1293,7 @@
                         "1 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "Indian citizenship is lost by renunciation (1) or voluntary acquisition of another country’s citizenship (2). Marrying a foreigner (3) or criticising the government (4) does not cause loss of citizenship. Hence 1 and 2 only.",
+        "explanation":  "Under the Citizenship Act, citizenship is lost by renunciation (1) or voluntary acquisition of foreign citizenship (2) (and by termination/deprivation). Merely marrying a foreigner (3) or criticising the government (4) does not cost one\u0027s citizenship. Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -1318,7 +1318,7 @@
                         "Part VI"
                     ],
         "answer":  "b",
-        "explanation":  "Citizenship provisions (Articles 5–11) fall under Part II of the Constitution, so the Citizenship Amendment Act relates to Part II.",
+        "explanation":  "Citizenship is dealt with in Part II (Articles 5–11) of the Constitution, so laws on citizenship relate to Part II. Part I is the Union and its territory, Part IV the DPSPs, Part VI the States.",
         "defective":  false
     },
     {
@@ -1343,7 +1343,7 @@
                         "14th August, 1947"
                     ],
         "answer":  "a",
-        "explanation":  "The Citizenship Act, 1955 deals with the acquisition/determination of citizenship on or after 26 January 1950 (the commencement of the Constitution).",
+        "explanation":  "Articles 5–11 cover citizenship at the commencement of the Constitution; the Citizenship Act, 1955 governs acquisition and loss of citizenship after 26 January 1950.",
         "defective":  false
     },
     {
@@ -1368,7 +1368,7 @@
                         "The Fifth Schedule Areas"
                     ],
         "answer":  "c",
-        "explanation":  "The CAA 2019 exempted the tribal areas under the Sixth Schedule (and the Inner Line Permit areas) from its purview.",
+        "explanation":  "The CAA 2019 exempted the tribal areas under the Sixth Schedule (Assam, Meghalaya, Tripura, Mizoram) and the Inner Line Permit areas, to protect indigenous communities.",
         "defective":  false
     },
     {
@@ -1393,7 +1393,7 @@
                         "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament and ratification by sixteen State Legislatures"
                     ],
         "answer":  "c",
-        "explanation":  "The 2015 land-boundary exchange with Bangladesh was effected by the 100th Constitutional Amendment Act, amending the First Schedule under Parliament’s amending power. It did not require ratification by sixteen state legislatures (so option d is wrong).",
+        "explanation":  "Ceding territory to another country requires amending the First Schedule through a constitutional amendment (the 100th Amendment, 2015) — i.e. Parliament\u0027s amending power under Article 368. It did not require ratification by sixteen state legislatures, so option d is wrong; and a mere executive agreement (a) is insufficient.",
         "defective":  false
     },
     {
@@ -1421,7 +1421,7 @@
                         "2 and 3 only"
                     ],
         "answer":  "c",
-        "explanation":  "Creating a new state/altering boundaries is done under Article 3 by a simple majority of Parliament (3, correct). It does not require an Article 368 amendment (1) or ratification by half the states (2). Hence 3 only.",
+        "explanation":  "Reorganising states is done under Article 3 by an ordinary law passed by a simple majority (3) — it is not a Article-368 amendment (1 wrong) and needs no ratification by the states (2 wrong; the affected state\u0027s view is only sought, not binding). Hence 3 only.",
         "defective":  false
     },
     {
@@ -1450,7 +1450,7 @@
                         "1 and 4 only"
                     ],
         "answer":  "c",
-        "explanation":  "Article 19 (1), Article 15 (3) and Article 16 (4) are available only to citizens. Article 21 (2) is available to all persons. Hence 1, 3 and 4.",
+        "explanation":  "Some rights are available only to citizens — Articles 19, 15 and 16. Article 21 (life and liberty) is available to all persons (citizens and foreigners alike), so it is excluded. Hence 1, 3 and 4.",
         "defective":  false
     },
     {
@@ -1475,7 +1475,7 @@
                         "Protection under Article 32 also applies to the enforcement of ordinary law which has nothing to do with the fundamental rights."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — Article 32 is available only for the enforcement of Fundamental Rights, not ordinary law. The other statements are correct.",
+        "explanation":  "Article 32 is the right to constitutional remedies — it can be invoked only to enforce Fundamental Rights, not ordinary legal rights. So statement d is false. Article 32 being itself a fundamental right (Ambedkar\u0027s \"heart and soul\") and not barred by delay are correct.",
         "defective":  false
     },
     {
@@ -1503,7 +1503,7 @@
                         "2 only"
                     ],
         "answer":  "b",
-        "explanation":  "Indefinite detention of undertrials violates Article 21 (1), and the right to life cannot be violated even by the State (2). Statement 3 is wrong — a woman’s right to reproductive choice IS a dimension of personal liberty. Hence 1 and 2 only.",
+        "explanation":  "Indefinite detention of undertrials violates Article 21 (1), and the right to life is inviolable even by the State (2). Statement 3 is wrong — the Supreme Court has held that a woman\u0027s reproductive choice IS part of personal liberty under Article 21. Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -1528,7 +1528,7 @@
                         "Every community has the right to manage its own affairs in matters of religion."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — there is no exception for “minor communities”; every religious denomination has the right to manage its own religious affairs (Article 26). The other statements are correct.",
+        "explanation":  "Article 26 grants every religious denomination the right to manage its own religious affairs — there is no exception for \"minor communities,\" so statement a is false. The rights to own property and to establish religious/charitable institutions are correctly stated.",
         "defective":  false
     },
     {
@@ -1553,7 +1553,7 @@
                         "The right to protection against arrest is not available to a person in jail pursuant to a judicial order."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — Article 22 requires production before a magistrate within 24 hours, not one week. The other statements are correct.",
+        "explanation":  "Article 22 requires an arrested person to be produced before a magistrate within 24 hours (excluding travel time), not one week — so statement c is false. The rights to be told the grounds of arrest and to legal counsel, and the exclusion of those held under judicial orders, are correct.",
         "defective":  false
     },
     {
@@ -1581,7 +1581,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "c",
-        "explanation":  "DPSPs promote social and economic democracy (1), and FRs are subject to reasonable restrictions (2). Statement 3 is wrong — secularism is not a basic feature of the constitution of any country. Hence 1 and 2 only.",
+        "explanation":  "The DPSPs aim at social and economic democracy (1), and most Fundamental Rights carry reasonable restrictions (2). Statement 3 is wrong — secularism is a basic feature of the Indian Constitution, not of \"any country\" universally. Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -1609,7 +1609,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "d",
-        "explanation":  "Article 21 (right to life and dignity) has been interpreted to include the rights of transgenders (1), conjoined (craniopagus) twins (2), and mentally retarded women to bear a child (3). All three.",
+        "explanation":  "Through expansive judicial interpretation, Article 21 (life and dignity) has been read to protect transgender rights (NALSA case) (1), the rights of conjoined (craniopagus) twins (2), and the reproductive rights of mentally challenged women (3). All three.",
         "defective":  false
     },
     {
@@ -1634,7 +1634,7 @@
                         "Article 17"
                     ],
         "answer":  "b",
-        "explanation":  "Article 15(2) prohibits denial of access to wells, tanks, bathing ghats, etc. maintained out of State funds. (Article 17 abolishes untouchability more broadly.)",
+        "explanation":  "Article 15(2) bars discrimination in access to shops, public restaurants, wells, tanks, bathing ghats, roads, etc. maintained from State funds. (Article 17 abolishes untouchability more broadly; 14 is equality before law; 16 is equality in public employment.)",
         "defective":  false
     },
     {
@@ -1659,7 +1659,7 @@
                         "Article 368 is not applicable for the amendment of Constitution of the State."
                     ],
         "answer":  "c",
-        "explanation":  "Before the 2019 reorganisation, Article 19(1)(f) and Article 31(2) continued to apply to Jammu \u0026 Kashmir (the right to property survived there even after the 44th Amendment removed it elsewhere). DPSPs did not automatically extend to J\u0026K, Article 35A operated under Article 370, and Article 368\u0027s amending power applied to J\u0026K only with modifications.",
+        "explanation":  "This question concerns the pre-2019 special status of J\u0026K (abrogated in August 2019, so it is now obsolete). The other statements were broadly true at the time (DPSPs did not apply, Article 35A gave special resident rights, and Article 368 did not amend the J\u0026K Constitution), making option (c) the doubtful/\"not correct\" one. Verify against the official key.",
         "defective":  false
     },
     {
@@ -1684,7 +1684,7 @@
                         "Practice any profession, or to carry on any occupation, trade or business"
                     ],
         "answer":  "c",
-        "explanation":  "Workers’ participation in management (Article 43A) is a Directive Principle, not a Fundamental Right. The others (Article 23, Article 24, Article 19) are Fundamental Rights.",
+        "explanation":  "Workers\u0027 participation in management is a Directive Principle (Article 43A), not a Fundamental Right. The other three are FRs — Article 23 (against trafficking/forced labour), Article 24 (against child labour) and Article 19(1)(g) (profession/trade).",
         "defective":  false
     },
     {
@@ -1709,7 +1709,7 @@
                         "Article 23"
                     ],
         "answer":  "a",
-        "explanation":  "Article 20(2) protects against double jeopardy (being prosecuted/punished twice for the same offence).",
+        "explanation":  "Article 20(2) embodies the rule against double jeopardy — no one shall be prosecuted and punished for the same offence more than once. (Article 20 also covers no ex-post-facto law and no self-incrimination.)",
         "defective":  false
     },
     {
@@ -1734,7 +1734,7 @@
                         "That the petitioner has not asked for the proper writ applicable to his/her case"
                     ],
         "answer":  "c",
-        "explanation":  "The Supreme Court can refuse relief under Article 32 if no Fundamental Right has been infringed (since Article 32 is itself a remedy only for FR violations).",
+        "explanation":  "Since Article 32 is a remedy only for Fundamental Rights, the Court will refuse relief if no fundamental right has been violated. The mere availability of another remedy, factual disputes, or naming the wrong writ are not, by themselves, grounds to refuse under Article 32.",
         "defective":  false
     },
     {
@@ -1759,7 +1759,7 @@
                         "Article 16 and Article 17"
                     ],
         "answer":  "a",
-        "explanation":  "Articles 31A and 31C are explicit exceptions that save certain laws from challenge under Articles 14 and 19.",
+        "explanation":  "Articles 31A and 31C are saving provisions that shield certain laws (e.g. for land reform, or to give effect to DPSPs) from challenge under Articles 14 and 19. (Article 31B works with the Ninth Schedule.)",
         "defective":  false
     },
     {
@@ -1784,7 +1784,7 @@
                         "Article 22"
                     ],
         "answer":  "a",
-        "explanation":  "Article 14 guarantees equality before the law and equal protection of the laws within the territory of India.",
+        "explanation":  "Article 14 guarantees both equality before the law (a British concept) and equal protection of the laws (an American concept) to all persons within India.",
         "defective":  false
     },
     {
@@ -1813,7 +1813,7 @@
                         "2 only"
                     ],
         "answer":  "c",
-        "explanation":  "Protection against self-incrimination (Article 20, 2) and freedom of conscience (Article 25, 3) are available to all persons including non-citizens. Freedom of speech (1, Article 19) and non-discrimination in employment (4, Article 16) are citizen-only. Hence 2 and 3 only.",
+        "explanation":  "Rights available to all persons include protection against self-incrimination (Article 20, 2) and freedom of conscience/religion (Article 25, 3). Freedom of speech (Article 19, 1) and non-discrimination in employment (Article 16, 4) are citizen-only rights. Hence 2 and 3 only.",
         "defective":  false
     },
     {
@@ -1838,7 +1838,7 @@
                         "It refers to the Government of India, Parliament of India, Governments and Legislatures of each State, and all local or other authorities within the territory of India."
                     ],
         "answer":  "d",
-        "explanation":  "Article 12 defines “State” broadly to include the Union and State governments and legislatures, plus all local and other authorities within India.",
+        "explanation":  "Article 12 deliberately defines \"the State\" broadly — including the Union and State governments and legislatures plus all local and \"other\" authorities (statutory and government-controlled bodies) — so that Fundamental Rights can be enforced against the whole machinery of government. Options a–c each leave out limbs.",
         "defective":  false
     },
     {
@@ -1863,7 +1863,7 @@
                         "Article 243 E"
                     ],
         "answer":  "c",
-        "explanation":  "Article 243D provides for reservation of seats (including for women) in Panchayats.",
+        "explanation":  "Article 243D provides for reservation of seats in Panchayats — for SCs/STs in proportion to population and not less than one-third for women (since raised to one-half in many states).",
         "defective":  false
     },
     {
@@ -1891,7 +1891,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "d",
-        "explanation":  "Freedom of speech (Article 19) can be restricted on grounds of defamation (1), decency or morality (2) and incitement to an offence (3) — all valid reasonable restrictions. Hence 1, 2 and 3.",
+        "explanation":  "Article 19(2) lists the grounds on which free speech can be reasonably restricted — including defamation, decency or morality, and incitement to an offence (also sovereignty/integrity, security, public order, contempt of court, etc.). All three apply.",
         "defective":  false
     },
     {
@@ -1916,7 +1916,7 @@
                         "Writ jurisdiction of High Courts is wider than the Supreme Court of India."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — Article 21A (Right to Education) was inserted by the 86th Amendment, not the 85th. The other statements are correct.",
+        "explanation":  "Article 21A (Right to Education) was inserted by the 86th Amendment (2002), not the 85th — so statement a is false. Article 22 does cover preventive detention, Article 32 (constitutional remedies) is in Part III, and the High Courts\u0027 writ power (Article 226, for \"any purpose\") is indeed wider than the Supreme Court\u0027s (Article 32, only for FRs).",
         "defective":  false
     },
     {
@@ -1941,7 +1941,7 @@
                         "A person, having held office as the President, shall be eligible for election to that office for the second term."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — only the elected members of both Houses of Parliament and the elected members of State Legislative Assemblies (plus Delhi and Puducherry) vote; nominated members and MLCs do not. The other statements are correct.",
+        "explanation":  "The President is elected by an electoral college of the elected members of both Houses of Parliament and the elected members of State Legislative Assemblies (plus Delhi and Puducherry) — not \"all MPs and all members of all State legislatures\" (nominated members and MLCs are excluded). So statement c is false; the rest are correct.",
         "defective":  false
     },
     {
@@ -1966,7 +1966,7 @@
                         "Parliament cannot empower, even by law, any court other than the Supreme Court of India the power to issue writs within local limits of its jurisdiction."
                     ],
         "answer":  "c",
-        "explanation":  "Article 30 grants only religious and linguistic minorities the right to establish and administer educational institutions — this is correct. The others misstate the RTE age (it is up to 14), Article 26 (not absolute), and writ powers.",
+        "explanation":  "Article 30 gives only religious and linguistic minorities the right to establish and administer educational institutions — statement c is correct. The others are wrong: RTE is up to age 14 (not 11); Article 26 is subject to public order/morality/health (not absolute); and Parliament can empower other courts to issue writs (Article 32(3)).",
         "defective":  false
     },
     {
@@ -1991,7 +1991,7 @@
                         "86th Amendment Act"
                     ],
         "answer":  "d",
-        "explanation":  "Article 21A (Right to Education) was inserted by the 86th Amendment Act, 2002.",
+        "explanation":  "The 86th Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children aged 6–14 a Fundamental Right (and adding a related Directive Principle and Fundamental Duty).",
         "defective":  false
     },
     {
@@ -2017,7 +2017,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "Part III rights can be enforced against the action of a government authority (1) and also against its inaction (2). Both correct.",
+        "explanation":  "Fundamental Rights can be enforced against the State\u0027s action (1) and, increasingly through PIL, against its inaction/failure to act (2) — e.g. failing to protect rights or implement safeguards. Both statements are correct.",
         "defective":  false
     },
     {
@@ -2042,7 +2042,7 @@
                         "Article 32"
                     ],
         "answer":  "d",
-        "explanation":  "Dr. Ambedkar called Article 32 (right to constitutional remedies) the “heart and soul” of the Constitution.",
+        "explanation":  "Ambedkar called Article 32 (the Right to Constitutional Remedies) the \"heart and soul\" of the Constitution, because it lets citizens directly approach the Supreme Court to enforce their Fundamental Rights — without it, the rights would be empty.",
         "defective":  false
     },
     {
@@ -2069,7 +2069,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "d",
-        "explanation":  "Answer: d) Neither 1 nor 2. The Right to Work is a Directive Principle under Article 41 (not a Fundamental Right). The 86th Amendment inserted Article 21A (education as a Fundamental Right) and substituted Article 45 - it did not simply add the Right to Education to the DPSP chapter.",
+        "explanation":  "Statement 2 is clearly wrong — the Right to Work is only a Directive Principle (Article 41), not a Fundamental Right. Statement 1 is misleading — the 86th Amendment made education a Fundamental Right (Article 21A) and only modified Article 45 in the DPSP chapter, so it did not \"add the Right to Education to the DPSP chapter.\" Hence neither is fully correct (statement 1\u0027s wording is debatable; verify the official key).",
         "defective":  false
     },
     {
@@ -2098,7 +2098,7 @@
                         "2 and 4 only"
                     ],
         "answer":  "c",
-        "explanation":  "Under Article 12, “State” includes Parliament (1), State Governments (2), State Legislatures (3) and all local authorities (4). All four.",
+        "explanation":  "Article 12\u0027s broad definition of \"the State\" covers the Union government and Parliament, State governments and legislatures, and all local authorities (and \"other authorities\"). All four are included.",
         "defective":  false
     },
     {
@@ -2123,7 +2123,7 @@
                         "Quo Warranto"
                     ],
         "answer":  "a",
-        "explanation":  "Habeas Corpus (“you may have the body”) secures the release of a person unlawfully arrested/detained.",
+        "explanation":  "Habeas Corpus (\"you may have the body\") orders that a detained person be produced before the court so it can check whether the detention is lawful — the classic safeguard against illegal arrest. Mandamus, certiorari and quo warranto serve other purposes.",
         "defective":  false
     },
     {
@@ -2148,7 +2148,7 @@
                         "Prohibition"
                     ],
         "answer":  "b",
-        "explanation":  "A writ to secure the release of a person illegally detained is Habeas Corpus.",
+        "explanation":  "Habeas Corpus is the remedy against unlawful detention — the court can order the person\u0027s release if the detention has no legal basis.",
         "defective":  false
     },
     {
@@ -2173,7 +2173,7 @@
                         "Certiorari"
                     ],
         "answer":  "d",
-        "explanation":  "Certiorari is issued to quash the order of a lower court or tribunal that has acted without/in excess of jurisdiction.",
+        "explanation":  "Certiorari (\"to be certified/informed\") is issued by a higher court to quash an order already passed by a lower court/tribunal that acted without or in excess of jurisdiction. (Prohibition stops proceedings before the order is passed.)",
         "defective":  false
     },
     {
@@ -2198,7 +2198,7 @@
                         "The appointment is in tune with a statutory provision"
                     ],
         "answer":  "d",
-        "explanation":  "This is not a condition for Quo Warranto — the writ requires a contravention of the Constitution/statute in the appointment. A valid appointment gives no ground for the writ.",
+        "explanation":  "Quo Warranto (\"by what authority?\") challenges a person\u0027s right to hold a public office, and requires that the appointment breached the Constitution/a statute. So an appointment that conforms to the law (option d) gives no ground for the writ.",
         "defective":  false
     },
     {
@@ -2223,7 +2223,7 @@
                         "There has been a contravention of the Constitution or a Statute in appropriating such person to that office."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — for Quo Warranto the office must be a substantive public office. The statement reverses the actual condition.",
+        "explanation":  "For Quo Warranto the office must be a substantive public office of a permanent character — so saying it \"must not be substantive\" reverses the actual condition. The others (public office, created by statute/Constitution, and an unlawful appointment) are genuine conditions.",
         "defective":  false
     },
     {
@@ -2248,7 +2248,7 @@
                         "the Supreme Court, High Courts and Lower Courts"
                     ],
         "answer":  "c",
-        "explanation":  "Writs are issued by the Supreme Court (Article 32) and the High Courts (Article 226) only; lower courts cannot issue writs.",
+        "explanation":  "Only the Supreme Court (Article 32) and the High Courts (Article 226) can issue writs. Lower/subordinate courts have no writ jurisdiction.",
         "defective":  false
     },
     {
@@ -2273,7 +2273,7 @@
                         "Quo Warranto"
                     ],
         "answer":  "a",
-        "explanation":  "“Habeas Corpus” literally means “you may have the body.”",
+        "explanation":  "\"Habeas Corpus\" literally translates to \"you may have the body\" — the writ that brings a detained person before the court to test the legality of the detention.",
         "defective":  false
     },
     {
@@ -2325,7 +2325,7 @@
                         "The Directive Principles are directed in making India an advanced capitalist country of the world."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — the DPSPs aim at a welfare/socialist state and social-economic justice, not a capitalist country. The other statements are correct.",
+        "explanation":  "The DPSPs aim at a welfare/socialist state and socio-economic justice — not a capitalist country — so statement d is false. Their non-enforceability, their being \"fundamental in governance,\" and the State\u0027s duty to apply them (Article 37) are all correct.",
         "defective":  false
     },
     {
@@ -2350,7 +2350,7 @@
                         "Rajni Kothari"
                     ],
         "answer":  "b",
-        "explanation":  "Granville Austin famously described the Fundamental Rights and Directive Principles together as the “conscience of the Constitution,” aimed at furthering social revolution/transformation.",
+        "explanation":  "Granville Austin famously described the Fundamental Rights and Directive Principles together as the \"conscience of the Constitution,\" aimed at achieving a social revolution — transforming Indian society. The others did not frame them this way.",
         "defective":  false
     },
     {
@@ -2375,7 +2375,7 @@
                         "Part-VII"
                     ],
         "answer":  "a",
-        "explanation":  "The provision to separate the judiciary from the executive (Article 50) is a Directive Principle in Part IV.",
+        "explanation":  "This is Article 50, a Directive Principle in Part IV — directing the separation of the judiciary from the executive to secure judicial independence.",
         "defective":  false
     },
     {
@@ -2400,7 +2400,7 @@
                         "Encourage settlement of international disputes by arbitration"
                     ],
         "answer":  "c",
-        "explanation":  "Article 51 mentions promoting international peace, maintaining just relations, respecting international law and encouraging arbitration — but not the use of UN peacekeeping forces. Hence (c) is not part of Article 51.",
+        "explanation":  "Article 51 (Promotion of International Peace) directs the State to promote peace, maintain just relations, foster respect for international law and encourage settlement of disputes by arbitration — it says nothing about using UN peacekeeping forces, so option c is not part of it.",
         "defective":  false
     },
     {
@@ -2425,7 +2425,7 @@
                         "To promote village and cottage industries"
                     ],
         "answer":  "d",
-        "explanation":  "Promoting village/cottage industries is a Directive Principle, not a Fundamental Duty. Respecting the flag, defending the country and educating one’s child are duties.",
+        "explanation":  "Promoting village and cottage industries is a Directive Principle (Article 43), not a Fundamental Duty. Respecting the flag, defending the country, and providing education to one\u0027s child (added by the 86th Amendment) are Fundamental Duties.",
         "defective":  false
     },
     {
@@ -2450,7 +2450,7 @@
                         "To promote international peace and security"
                     ],
         "answer":  "d",
-        "explanation":  "Promoting international peace and security is a Directive Principle (Article 51), not a Fundamental Duty. Safeguarding public property, protecting the environment and developing scientific temper are duties.",
+        "explanation":  "Promoting international peace is a Directive Principle (Article 51), not a Fundamental Duty. Safeguarding public property, protecting the environment and developing scientific temper are all Fundamental Duties (Article 51A).",
         "defective":  false
     },
     {
@@ -2475,7 +2475,7 @@
                         "To promote peace and harmony"
                     ],
         "answer":  "b",
-        "explanation":  "The 86th Amendment (2002) added the duty (Article 51A(k)) of a parent/guardian to provide education opportunities to their child between 6 and 14 years.",
+        "explanation":  "The 86th Amendment (which made education a Fundamental Right) also added the duty (Article 51A(k)) of a parent/guardian to provide education opportunities to their child aged 6–14. The \"excellence\" duty was in the original list (1976).",
         "defective":  false
     },
     {
@@ -2500,7 +2500,7 @@
                         "To develop the spirit of inquiry and reform"
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — the duty is to value and preserve the rich heritage of our composite culture, not a “unitary national culture.” The others are genuine duties.",
+        "explanation":  "The Fundamental Duty is to value and preserve the rich heritage of our composite culture — not a \"unitary national culture,\" so statement c is wrongly worded. Rendering national service, renouncing practices derogatory to women, and developing the scientific temper/inquiry are genuine duties.",
         "defective":  false
     },
     {
@@ -2525,7 +2525,7 @@
                         "Provisions for the functioning of the State Governments"
                     ],
         "answer":  "b",
-        "explanation":  "Part IV-A of the Constitution (Article 51A) deals with the Fundamental Duties of citizens.",
+        "explanation":  "Part IV-A (Article 51A), added by the 42nd Amendment (1976), lists the Fundamental Duties of citizens. Public Service Commissions are dealt with in Part XIV.",
         "defective":  false
     },
     {
@@ -2550,7 +2550,7 @@
                         "The Act includes not just wives but also women in marriage-like relationships."
                     ],
         "answer":  "c",
-        "explanation":  "This is not true — under the PWDV Act 2005, relief can also be sought against other respondents (e.g. relatives of the husband/partner), not only the husband or male live-in partner. The other statements are correct.",
+        "explanation":  "Under the Protection of Women from Domestic Violence Act, 2005, relief is provided to an aggrieved woman, and an application can be made by the aggrieved person, a Protection Officer, or any other person on her behalf. Option b is loosely worded on who may apply, but option c is the intended correct answer.",
         "defective":  false
     },
     {
@@ -2578,7 +2578,7 @@
                         "2 and 3 only"
                     ],
         "answer":  "c",
-        "explanation":  "Article 17 (1), the Protection of Civil Rights Act 1955 (2) and the SC/ST (Prevention of Atrocities) Act 1989 (3) all protect Scheduled Caste rights. All three.",
+        "explanation":  "All three protect SCs — Article 17 abolishes untouchability, the Protection of Civil Rights Act, 1955 punishes its practice, and the SC/ST (Prevention of Atrocities) Act, 1989 addresses atrocities. Hence 1, 2 and 3.",
         "defective":  false
     },
     {
@@ -2606,7 +2606,7 @@
                         "3 only"
                     ],
         "answer":  "a",
-        "explanation":  "The RTE Act provides free and compulsory education for ages 6–14 (1), requires qualified teachers and basic infrastructure (2), and mandates quality education without discrimination (3). All correct.",
+        "explanation":  "The RTE Act, 2009 mandates free and compulsory schooling for ages 6–14 (1), prescribes norms for qualified teachers and infrastructure (2), and aims at quality, non-discriminatory education (3). All three are correct.",
         "defective":  false
     },
     {
@@ -2634,7 +2634,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "The State can make special provisions for SC/ST admissions in government institutions (1), state-aided private institutions (2) and unaided private institutions (3). It cannot do so for minority institutions under Article 30 (4). Hence 1, 2 and 3 only.",
+        "explanation":  "The 93rd Amendment lets the State reserve seats in government, aided and unaided private institutions (1, 2, 3). But it specifically excludes minority educational institutions under Article 30 (to protect minority rights) — so statement 4 is wrong. Hence 1, 2 and 3 only.",
         "defective":  false
     },
     {
@@ -2659,7 +2659,7 @@
                         "It is not enforceable by a Court yet the Constitution requires that as a principle it should be fundamental in the governance of our country."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — the Uniform Civil Code (Article 44) is a Directive Principle, not a Fundamental Right. The other statements are correct.",
+        "explanation":  "The Uniform Civil Code is a Directive Principle (Article 44), not a Fundamental Right — so statement a is false. It is something the State should \"endeavour to secure,\" is non-justiciable, yet is fundamental in governance — the other statements are correct.",
         "defective":  false
     },
     {
@@ -2684,7 +2684,7 @@
                         "India is a signatory to the Universal Declaration of Human Rights."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — Article 17 of the UDHR includes the right to own property. The other statements about the UDHR are correct.",
+        "explanation":  "Article 17 of the UDHR does include the right to own property — so saying it is \"not a part\" is false. The 10 December 1948 adoption (Human Rights Day), the resemblance to Indian Fundamental Rights, and India being a signatory are all correct.",
         "defective":  false
     },
     {
@@ -2710,7 +2710,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "a",
-        "explanation":  "The ICCPR provides the right to recognition everywhere as a person before the law (1, correct). Statement 2 is wrong — India ratified the ICCPR (in 1979). Hence 1 only.",
+        "explanation":  "The ICCPR does guarantee recognition as a person before the law (1, correct). Statement 2 is wrong — India ratified the ICCPR in 1979. Hence 1 only.",
         "defective":  false
     },
     {
@@ -2737,7 +2737,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "Free legal aid is provided under the DPSP (Article 39A) (1), and the police must inform the nearest Legal Aid Committee after an arrest (2). Both correct.",
+        "explanation":  "Free legal aid is a Directive Principle (Article 39A) (1), and the Supreme Court has directed that the police must inform the nearest Legal Aid Committee immediately upon arrest so the accused can get counsel (2). Both correct.",
         "defective":  false
     },
     {
@@ -2764,7 +2764,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "a",
-        "explanation":  "Answer: a) 1 only. The UDHR recognises the right to seek and enjoy asylum from persecution (statement 1, correct). On nationality, UDHR Article 15 bars arbitrary deprivation of nationality and denial of the right to change nationality - so the other statement is incorrectly framed.",
+        "explanation":  "The UDHR (Article 14) grants the right to seek asylum from persecution (the exception being non-political crimes) — statement 1 is broadly correct. Statement 2 is awkwardly/incorrectly worded regarding nationality (Article 15 simply bars arbitrary deprivation of nationality and protects the right to change it). Hence 1 only — verify the official key.",
         "defective":  false
     },
     {
@@ -2791,7 +2791,7 @@
                         "1 only"
                     ],
         "answer":  "c",
-        "explanation":  "The Special Marriage Act protects inter-religious marriage (1), the right to marry a person of one’s choice is part of Article 21 (2), and the UDHR also recognises marital rights of consenting adults (3). All three.",
+        "explanation":  "The Special Marriage Act allows inter-religious/inter-caste civil marriage (1), the Supreme Court has held the right to marry a person of one\u0027s choice is part of Article 21 liberty (2), and the UDHR affirms the right of consenting adults to marry (3). All three are correct.",
         "defective":  false
     },
     {
@@ -2818,8 +2818,8 @@
                         "1 and 3 only",
                         "3 only"
                     ],
-        "answer":  "a",
-        "explanation":  "The executive power of the Union vests in the President (1), is exercised through subordinate officers (2), and the supreme command of the defence forces vests in the President (3). All correct.",
+        "answer":  "c",
+        "explanation":  "Article 53 vests the executive power of the Union in the President, who may exercise it either directly or through officers subordinate to him. So any statement that it is exercised only through subordinate officers is wrong; statements 1 and 3 are correct, giving 1 and 3 only.",
         "defective":  false
     },
     {
@@ -2848,7 +2848,7 @@
                         "3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "The President’s electoral college = elected members of both Houses of Parliament (1), Legislative Assemblies of States (2), and the Assemblies of Delhi and Puducherry (4). Legislative Councils (3) do not participate. Hence 1, 2 and 4.",
+        "explanation":  "The President\u0027s electoral college = elected members of both Houses of Parliament (1), the State Legislative Assemblies (2), and the Assemblies of the UTs of Delhi and Puducherry (4). Legislative Councils (3) do not participate. Hence 1, 2 and 4.",
         "defective":  false
     },
     {
@@ -2873,7 +2873,7 @@
                         "Article 363"
                     ],
         "answer":  "c",
-        "explanation":  "Article 361 provides that the President is not answerable to any court for the exercise of the powers of his office.",
+        "explanation":  "Article 361 grants the President (and Governors) immunity — they are not answerable to any court for the exercise of their official powers/duties. Article 53 vests executive power, Article 74 deals with the Council of Ministers\u0027 aid and advice.",
         "defective":  false
     },
     {
@@ -2899,7 +2899,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "d",
-        "explanation":  "Statement 1 is wrong — the Advocate General of a State is appointed by the Governor (not the President). Statement 2 is also wrong. Hence neither.",
+        "explanation":  "Statement 1 is wrong — the Advocate General of a State is appointed by the Governor (Article 165), not the President. Statement 2 is also incorrect/garbled. Hence neither is correct.",
         "defective":  false
     },
     {
@@ -2924,7 +2924,7 @@
                         "The President shall, notwithstanding the expiration of his/her term, continue to hold office until his/her successor enters upon his/her office."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — the President resigns by writing to the Vice-President, not the Speaker. The other statements about the term are correct.",
+        "explanation":  "The President resigns by writing to the Vice-President (not the Speaker) — so statement c is false. The five-year term, removal by impeachment, and holding over until a successor enters office are all correct.",
         "defective":  false
     },
     {
@@ -2949,7 +2949,7 @@
                         "Proportional Representation and the First-Past-the-Post System"
                     ],
         "answer":  "c",
-        "explanation":  "The President is elected by proportional representation by means of a single transferable vote.",
+        "explanation":  "The President is elected by proportional representation by means of a single transferable vote (with secret ballot) — voters rank candidates and a fixed quota must be reached. First-past-the-post is not used.",
         "defective":  false
     },
     {
@@ -2974,7 +2974,7 @@
                         "List System"
                     ],
         "answer":  "b",
-        "explanation":  "The electoral system for the President is proportional representation by single transferable vote.",
+        "explanation":  "As above, the President is elected by proportional representation through a single transferable vote — the most precise description among the options.",
         "defective":  false
     },
     {
@@ -2999,7 +2999,7 @@
                         "The system of proportional representation by means of single transferable vote is followed."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — under the proviso to Article 58(2), a Union/State Minister (and the President, VP, Governor) is not deemed to hold an office of profit, so a Union Minister IS eligible. The other statements are correct.",
+        "explanation":  "A sitting Union Minister IS eligible to be elected President — under the proviso to Article 58(2), ministers (and the President, VP, Governors) are not treated as holding an \"office of profit.\" So statement a is false. The electoral-college composition, exclusion of MLCs, and the STV method are correct.",
         "defective":  false
     },
     {
@@ -3024,7 +3024,7 @@
                         "The Vice President of India shall be ex officio Chairman of the Council of States and shall not hold any office of pro t."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — the VP is elected by all members of both Houses (elected and nominated), not just the elected ones. The other statements are correct.",
+        "explanation":  "The Vice-President is elected by all members of both Houses (elected and nominated) — not just the \"elected\" members — so statement a is false. The STV method, the bar on being a sitting legislator, and the VP being ex-officio Rajya Sabha Chairman are correct.",
         "defective":  false
     },
     {
@@ -3049,7 +3049,7 @@
                         "His term of office isfive years."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — the Vice-President IS eligible for re-election. The other statements (35 years minimum age, electoral college of both Houses, five-year term) are correct.",
+        "explanation":  "The Vice-President is eligible for re-election (there is no bar) — so statement a is false. The 35-year minimum age, the electoral college of both Houses, and the five-year term are all correct.",
         "defective":  false
     },
     {
@@ -3074,7 +3074,7 @@
                         "15% of the total number of members of the Lok Sabha"
                     ],
         "answer":  "d",
-        "explanation":  "The Council of Ministers (including PM) cannot exceed 15% of the total strength of the Lok Sabha (91st Amendment).",
+        "explanation":  "The 91st Amendment (2003) capped the Council of Ministers (including the PM) at 15% of the strength of the Lok Sabha (House of the People) — to curb jumbo ministries. It is reckoned against the Lok Sabha, not \"Parliament.\"",
         "defective":  false
     },
     {
@@ -3099,7 +3099,7 @@
                         "Namal Rajapaksa"
                     ],
         "answer":  "c",
-        "explanation":  "In August 2020, Mahinda Rajapaksa was sworn in as PM of Sri Lanka for the fourth time.",
+        "explanation":  "Mahinda Rajapaksa took oath as Sri Lanka\u0027s PM for the fourth time in August 2020 (his brother Gotabaya was then President). The others did not hold the PM office at that time.",
         "defective":  false
     },
     {
@@ -3124,7 +3124,7 @@
                         "A person from outside the Parliament can never be appointed a member of the Cabinet."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — a non-member can be appointed a minister/Cabinet member but must become a member of either House within six months. The other descriptions of the Cabinet are correct.",
+        "explanation":  "A non-member can be made a minister/Cabinet member, but must become a member of either House within six months — so \"can never\" is false. The Cabinet being drawn from and responsible to Parliament, surviving on its confidence, are correct.",
         "defective":  false
     },
     {
@@ -3149,7 +3149,7 @@
                         "Article 81"
                     ],
         "answer":  "a",
-        "explanation":  "Article 78 requires the PM to furnish to the President information about decisions of the Council of Ministers and proposals for legislation.",
+        "explanation":  "Article 78 lays down the PM\u0027s duties towards the President — communicating Cabinet decisions, furnishing information he asks for, and submitting matters for the Council\u0027s consideration on his request. Article 74 is on aid and advice; 75 on ministers\u0027 appointment; 81 on Lok Sabha composition.",
         "defective":  false
     },
     {
@@ -3178,7 +3178,7 @@
                         "1 only"
                     ],
         "answer":  "c",
-        "explanation":  "The statement that is NOT correct is 3 — the Attorney General is not a whole-time/full-time counsel of the Government (he can do private practice, with restrictions). Statements 1, 2 and 4 are correct.",
+        "explanation":  "The statement that is not correct is 3 — the AG is not a whole-time/full-time government counsel; he is not a full-time salaried employee and may take up private practice (with restrictions). Statements 1, 2 and 4 correctly describe him.",
         "defective":  false
     },
     {
@@ -3228,7 +3228,7 @@
                         "authorizing Parliament to legislate on a subject in the State List"
                     ],
         "answer":  "d",
-        "explanation":  "The Rajya Sabha has exclusive power under Article 249 to authorise Parliament to legislate on a State-List subject (and under Article 312 to create All India Services). The other options are not its exclusive jurisdiction.",
+        "explanation":  "Under Article 249, only the Rajya Sabha (as the chamber representing the states) can pass a resolution allowing Parliament to make a law on a State-List subject in the national interest (and under Article 312, to create All India Services). The other matters are not its exclusive domain.",
         "defective":  false
     },
     {
@@ -3253,7 +3253,7 @@
                         "Karnataka"
                     ],
         "answer":  "b",
-        "explanation":  "Among the options, Bihar has the most Rajya Sabha seats (16). Andhra Pradesh (11), Rajasthan (10) and Karnataka (12) have fewer.",
+        "explanation":  "Among the options, Bihar has the most Rajya Sabha seats (16) — its seats reflect its large population. (Uttar Pradesh has the most overall at 31, but it is not listed.) Andhra Pradesh (11), Rajasthan (10) and Karnataka (12) have fewer.",
         "defective":  false
     },
     {
@@ -3278,7 +3278,7 @@
                         "State Service"
                     ],
         "answer":  "d",
-        "explanation":  "The President nominates Rajya Sabha members for distinction in Literature, Science, Art and Social Service — “State Service” is not a category.",
+        "explanation":  "The President nominates 12 Rajya Sabha members distinguished in literature, science, art and social service. \"State Service\" is not a category for nomination.",
         "defective":  false
     },
     {
@@ -3303,7 +3303,7 @@
                         "Five"
                     ],
         "answer":  "a",
-        "explanation":  "The Rajya Sabha can hold up a Money Bill for a maximum of 14 days (two weeks).",
+        "explanation":  "The Rajya Sabha can detain a Money Bill for a maximum of 14 days (two weeks), after which it is deemed passed — the Rajya Sabha can only make recommendations, which the Lok Sabha may accept or reject.",
         "defective":  false
     },
     {
@@ -3328,7 +3328,7 @@
                         "Bill to alter the boundaries of any State"
                     ],
         "answer":  "c",
-        "explanation":  "Money Bills (and the Budget/Annual Financial Statement money components) must originate in the Lok Sabha, so they cannot be introduced first in the Rajya Sabha.",
+        "explanation":  "Money Bills (and the Budget/Annual Financial Statement\u0027s money proposals) must originate in the Lok Sabha — so they cannot be introduced first in the Rajya Sabha. Constitutional amendments and ordinary bills (like a boundary-alteration bill) can begin in either House.",
         "defective":  false
     },
     {
@@ -3353,7 +3353,7 @@
                         "Article 113"
                     ],
         "answer":  "c",
-        "explanation":  "Article 112 requires the Annual Financial Statement (Budget) — estimated receipts and expenditure — to be laid before Parliament each financial year.",
+        "explanation":  "Article 112 provides for the Annual Financial Statement (the Budget) to be laid before Parliament. Article 110 defines a Money Bill, and 113 deals with the procedure for demands for grants.",
         "defective":  false
     },
     {
@@ -3378,7 +3378,7 @@
                         "Custody of the Consolidated Fund of India or the Contingency Fund of India"
                     ],
         "answer":  "c",
-        "explanation":  "Under Article 110, a Money Bill does not include fines/charges imposed by a local authority for local purposes. The other items are Money-Bill matters.",
+        "explanation":  "Article 110 specifically excludes local taxes/fines imposed by local authorities for local purposes from the definition of a Money Bill — so option c is not a Money-Bill matter. Taxation, appropriation from the Consolidated Fund and custody of the funds are Money-Bill matters.",
         "defective":  false
     },
     {
@@ -3403,7 +3403,7 @@
                         "The Council of States has no power to discuss the Money Bill."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — the Rajya Sabha can discuss and make recommendations on a Money Bill (it just cannot reject or amend it). The other statements are correct.",
+        "explanation":  "The Rajya Sabha can discuss a Money Bill and make recommendations (within 14 days) — it just cannot reject or amend it. So statement d is false. A Money Bill originating only in the Lok Sabha, the Rajya Sabha\u0027s inability to reject/amend it, and the Speaker\u0027s final say on what is a Money Bill are all correct.",
         "defective":  false
     },
     {
@@ -3428,7 +3428,7 @@
                         "Advance Account"
                     ],
         "answer":  "b",
-        "explanation":  "A Vote on Account is an advance grant to meet government expenditure for part of the new financial year until the full budget/demands are passed.",
+        "explanation":  "A Vote on Account lets the government draw money from the Consolidated Fund for a couple of months to keep running until the full Budget (demands for grants) is passed. A Vote of Credit is for unexpected/large demands; the Appropriation Bill authorises the actual withdrawals.",
         "defective":  false
     },
     {
@@ -3455,7 +3455,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "d",
-        "explanation":  "Both statements are wrong — the Committee on Estimates is a standing committee (not ad hoc), and the Committee on Railway Convention is an ad hoc committee (not standing). Hence neither.",
+        "explanation":  "Both are reversed — the Committee on Estimates is a standing (permanent) committee, and the Committee on Railway Convention is an ad hoc committee. So neither statement is correct.",
         "defective":  false
     },
     {
@@ -3480,7 +3480,7 @@
                         "In case a member of any other Committee constituted by the Government is elected to the PAC, the Speaker of the Lok Sabha decides whether he should continue to be a member of the former Committee."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — the PAC Chairperson is appointed by the Speaker (by convention from the opposition), not elected by members. The other statements are correct.",
+        "explanation":  "The PAC Chairperson is appointed by the Speaker (by convention from the Opposition), not \"elected by the members\" — so statement c is false. The PAC has 15 Lok Sabha + 7 Rajya Sabha members, examines accounts/CAG reports, and the Speaker\u0027s role in overlapping memberships are correct.",
         "defective":  false
     },
     {
@@ -3505,7 +3505,7 @@
                         "The Committee on the Welfare of Scheduled Castes and Scheduled Tribes"
                     ],
         "answer":  "c",
-        "explanation":  "The Estimates Committee consists solely of Lok Sabha members (30) and has no Rajya Sabha members. The other committees include Rajya Sabha members.",
+        "explanation":  "The Estimates Committee is composed entirely of 30 Lok Sabha members and has no Rajya Sabha members. The PAC, the Committee on Public Undertakings and the SC/ST Welfare Committee all include Rajya Sabha members.",
         "defective":  false
     },
     {
@@ -3533,7 +3533,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "c",
-        "explanation":  "A joint sitting can resolve a deadlock only on an Ordinary Bill (3). Money Bills (1) and Constitutional Amendment Bills (2) cannot go to a joint sitting. Hence 3 only.",
+        "explanation":  "A joint sitting (Article 108) is available only for an Ordinary Bill deadlock. Money Bills don\u0027t need it (the Lok Sabha prevails anyway), and Constitutional Amendment Bills require each House to pass them separately by special majority — no joint sitting. Hence 3 only.",
         "defective":  false
     },
     {
@@ -3562,7 +3562,7 @@
                         "3 only"
                     ],
         "answer":  "b",
-        "explanation":  "The casting vote is exercised by the presiding officer/Speaker (1) only in the case of a tie/equality of votes (3). Statement 2 is wrong (the Speaker does not vote in the first instance), and statement 4 (“always” status quo) is too absolute. Hence 1 and 3 only.",
+        "explanation":  "The casting vote is exercised by the presiding officer (Speaker) (1), and only in case of a tie (3). Statement 2 is wrong — the Speaker does not vote in the first instance (he votes only to break a tie), and statement 4 (\"always\" status quo) is too absolute. Hence 1 and 3 only.",
         "defective":  false
     },
     {
@@ -3587,7 +3587,7 @@
                         "That the Bill be referred to a Joint Committee of the House without the concurrence of the other House"
                     ],
         "answer":  "d",
-        "explanation":  "A bill cannot be referred to a Joint Committee without the other House’s concurrence, so this motion cannot be made. The other three motions are permissible on introduction of an ordinary bill.",
+        "explanation":  "A bill can be referred to a Joint Committee only with the other House\u0027s concurrence — so a motion to refer it to a joint committee without that concurrence is not permissible (d). The other three motions (consideration, circulation, Select Committee) are valid.",
         "defective":  false
     },
     {
@@ -3612,7 +3612,7 @@
                         "a political party."
                     ],
         "answer":  "b",
-        "explanation":  "A no-confidence motion is moved against the entire Council of Ministers (the government), not against an individual minister, the PM personally, or a party.",
+        "explanation":  "A no-confidence motion (in the Lok Sabha) is directed against the entire Council of Ministers (the government as a whole, which is collectively responsible), not a single minister, the PM personally, or a party.",
         "defective":  false
     },
     {
@@ -3637,7 +3637,7 @@
                         "While the office of the Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — the Speaker of the Lok Sabha resigns by writing to the Deputy Speaker, not the President. The other statements are correct.",
+        "explanation":  "The Speaker resigns by writing to the Deputy Speaker (not the President) — so statement b is false. Vacating office on ceasing to be a member, removal by an effective majority resolution, and the Deputy Speaker filling a vacancy are correct.",
         "defective":  false
     },
     {
@@ -3665,7 +3665,7 @@
                         "4"
                     ],
         "answer":  "d",
-        "explanation":  "All four — M.A. Ayyangar, G.S. Dhillon, Balram Jakhar and P.A. Sangma — served as Speaker of the Lok Sabha.",
+        "explanation":  "All four — M. A. Ayyangar, G. S. Dhillon, Balram Jakhar and P. A. Sangma — served as Speaker of the Lok Sabha at different times. Hence 4.",
         "defective":  false
     },
     {
@@ -3700,7 +3700,7 @@
                         "3 1 4 2"
                     ],
         "answer":  "a",
-        "explanation":  "Manohar Gajanan Joshi → 13th Lok Sabha (2), Somnath Chatterjee → 14th (1), Meira Kumar → 15th (4), Sumitra Mahajan → 16th (3). This gives A-2, B-1, C-4, D-3.",
+        "explanation":  "Manohar Joshi → 13th Lok Sabha (2); Somnath Chatterjee → 14th (1); Meira Kumar → 15th (4); Sumitra Mahajan → 16th (3). So A-2, B-1, C-4, D-3.",
         "defective":  false
     },
     {
@@ -3725,7 +3725,7 @@
                         "The Chair has absolute discretion to refuse consent."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — an adjournment motion can be raised only on a matter of urgent public importance involving the Union government, not a State subject. The other statements are correct.",
+        "explanation":  "An adjournment motion can be raised only on a matter of urgent public importance involving the Union government — not a State subject — so statement c is false. Its purpose, its extraordinary nature (it involves an element of censure), and the Chair\u0027s discretion are correct.",
         "defective":  false
     },
     {
@@ -3750,7 +3750,7 @@
                         "A Censure Motion need not be based on specific grounds or charges."
                     ],
         "answer":  "c",
-        "explanation":  "Correct — a no-confidence motion can be moved only in the Lok Sabha. The others are wrong (no-confidence is against the whole Council, need not state grounds; a censure motion must state grounds).",
+        "explanation":  "A no-confidence motion can be moved only in the Lok Sabha (since the government is responsible to it) — so statement c is correct. The others are wrong: no-confidence is against the whole Council (not an individual minister) and need not state grounds, while a Censure Motion must state specific charges.",
         "defective":  false
     },
     {
@@ -3779,7 +3779,7 @@
                         "1, 2 and 3 only"
                     ],
         "answer":  "b",
-        "explanation":  "All four are disqualifications: holding an office of profit (1), being an undischarged insolvent (2), defection under the Tenth Schedule (3), and being of unsound mind (4). Hence all four.",
+        "explanation":  "All four are grounds of disqualification — holding an office of profit (1), being an undischarged insolvent (2), defection under the Tenth Schedule (3), and being of unsound mind (4) (along with non-citizenship). Hence all four.",
         "defective":  false
     },
     {
@@ -3804,7 +3804,7 @@
                         "The annual entitlement per MP is s5 crore."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — under MPLADS, MPs only recommend works; the district authority sanctions and executes them. The other statements are correct.",
+        "explanation":  "Under MPLADS, MPs only recommend works — the district authority sanctions and executes them — so statement a is false. The scheme being fully GoI-funded, nominated MPs recommending works anywhere, and the ₹5 crore annual entitlement are correct.",
         "defective":  false
     },
     {
@@ -3833,7 +3833,7 @@
                         "1 and 4 only"
                     ],
         "answer":  "b",
-        "explanation":  "Answer: b) 1 and 2 only. Parliamentary freedom of speech is not controlled by Article 19(1)(a); Article 105 protects speech and votes given in Parliament (not private speech outside it), and MPs do not enjoy general immunity from criminal prosecution.",
+        "explanation":  "Parliamentary privileges (freedom of speech in the House under Article 105) are not limited by the ordinary free-speech restrictions (1) but are read subject to fundamental safeguards like Articles 20-22 and 32 (2). Statements 3 and 4 are too broad — the immunity covers only things said/votes given in the House, not general civil/criminal acts or private speech. Hence 1 and 2 only — verify the official key.",
         "defective":  false
     },
     {
@@ -3857,8 +3857,8 @@
                         "The Member abstains from voting in the House without prior permission",
                         "The Member holds the office of the Chairman of the Board of Directors of the National Coal Development Corporation Ltd."
                     ],
-        "answer":  "c",
-        "explanation":  "Abstaining from voting is not a ground for disqualification. Acquiring foreign citizenship (a) and holding certain offices of profit (b, d) are disqualifications.",
+        "answer":  "b",
+        "explanation":  "The office of Chairperson of the National Commission for Women is exempted from disqualification under the Parliament (Prevention of Disqualification) Act, so holding it does not disqualify an MP. Abstaining from voting, or voting against the party whip, can attract Tenth Schedule (anti-defection) consequences depending on prior permission or condonation.",
         "defective":  false
     },
     {
@@ -3887,7 +3887,7 @@
                         "1, 2 and 4 only"
                     ],
         "answer":  "d",
-        "explanation":  "Read as Article 19 (as amended), the freedoms include speech (1), peaceful assembly (2) and free movement (4). The right to acquire/dispose of property (3) was removed by the 44th Amendment. Hence 1, 2 and 4 only.",
+        "explanation":  "Article 19 (originally with seven freedoms) now has six, after the right to property [19(1)(f)] was removed by the 44th Amendment. So speech (1), assembly (2) and free movement (4) remain, but acquiring/disposing of property (3) is no longer in Article 19. Hence 1, 2 and 4 only.",
         "defective":  false
     },
     {
@@ -3912,7 +3912,7 @@
                         "The concerned Political Party"
                     ],
         "answer":  "b",
-        "explanation":  "Disqualification of a Lok Sabha member on the ground of defection (Tenth Schedule) is decided by the Speaker of the Lok Sabha.",
+        "explanation":  "Under the Tenth Schedule (Anti-Defection Law), disqualification on the ground of defection is decided by the presiding officer — the Speaker of the Lok Sabha (subject to judicial review). The President decides only other disqualifications, on the EC\u0027s opinion.",
         "defective":  false
     },
     {
@@ -3940,7 +3940,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "c",
-        "explanation":  "The Speaker can refer a question of privilege for investigation (1), and such a question gets priority in the List of Business (2). Statement 3 is wrong — MP immunity from arrest applies only to civil cases, not preventive arrest/detention. Hence 1 and 2 only.",
+        "explanation":  "The Speaker may refer a question of privilege to the Committee of Privileges (1), and such questions take priority in the day\u0027s business (2). Statement 3 is wrong — an MP\u0027s freedom from arrest is only in civil cases; it does not cover criminal matters or preventive detention. Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -3965,7 +3965,7 @@
                         "Lok Sabha has seats reserved for SCs and STs."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — Rajya Sabha members representing states are indirectly elected by the elected members of the State Legislative Assemblies. The other statements are correct.",
+        "explanation":  "Rajya Sabha members representing the states are indirectly elected — by the elected members of the State Legislative Assemblies (by STV) — not directly by the people. So statement a is false. The direct election of UT Lok Sabha members, 12 nominated Rajya Sabha members, and SC/ST reservation in the Lok Sabha are correct.",
         "defective":  false
     },
     {
@@ -3990,7 +3990,7 @@
                         "Lotus - Peacock"
                     ],
         "answer":  "b",
-        "explanation":  "In the new Parliament building, the Lok Sabha chamber is themed on the peacock (national bird) and the Rajya Sabha on the lotus (national flower).",
+        "explanation":  "In the new Parliament building, the Lok Sabha chamber carries the peacock (national bird) theme and the Rajya Sabha the lotus (national flower) theme. (The Central Lounge has a banyan-tree theme.)",
         "defective":  false
     },
     {
@@ -4015,7 +4015,7 @@
                         "The Supreme Court has the exclusive power to issue writs to protect the fundamental rights of the people."
                     ],
         "answer":  "d",
-        "explanation":  "This is not true — High Courts also issue writs (Article 226), with even wider scope than the Supreme Court (Article 32). So the power is not “exclusive” to the SC.",
+        "explanation":  "The power to issue writs for fundamental rights is not exclusive to the Supreme Court — the High Courts also issue writs under Article 226 (with even wider scope). So statement d is false. The SC\u0027s original jurisdiction in centre-state disputes, advisory jurisdiction (Article 143) and review power are correct.",
         "defective":  false
     },
     {
@@ -4044,7 +4044,7 @@
                         "3 and 4 only"
                     ],
         "answer":  "a",
-        "explanation":  "The Supreme Court has original jurisdiction in centre-state disputes (1), appellate power over High Courts (2), power to pass decrees/orders for complete justice — Article 142 (3), and advisory jurisdiction (4). All four.",
+        "explanation":  "The Supreme Court has original jurisdiction in centre-state disputes (1, Article 131), appellate jurisdiction over High Courts (2), the power to do \"complete justice\" (3, Article 142), and advisory jurisdiction (4, Article 143). All four.",
         "defective":  false
     },
     {
@@ -4069,7 +4069,7 @@
                         "advisory jurisdiction"
                     ],
         "answer":  "a",
-        "explanation":  "The Supreme Court’s power to decide disputes between states is its original jurisdiction (Article 131).",
+        "explanation":  "Disputes between states, or between the Centre and states, fall under the Supreme Court\u0027s original jurisdiction (Article 131) — meaning they go straight to the Supreme Court, not on appeal.",
         "defective":  false
     },
     {
@@ -4094,7 +4094,7 @@
                         "Fundamental Rights"
                     ],
         "answer":  "a",
-        "explanation":  "Answer: a) Judicial Review. The Subhash Sharma case is more directly linked to judicial appointments and the independence of the judiciary; since \u0027independence of the judiciary\u0027 is not among the options, Judicial Review is the closest available answer.",
+        "explanation":  "The Subhash Sharma case (1991) dealt with judicial appointments and the independence/role of the judiciary, and was referred to a larger bench, leading to the Second Judges case — it is associated with judicial review/independence of the judiciary among the listed basic features. (The mapping is imperfect; verify with the official key.)",
         "defective":  false
     },
     {
@@ -4119,7 +4119,7 @@
                         "At least twenty years as a Sub-Judicial Magistrate"
                     ],
         "answer":  "d",
-        "explanation":  "This is not a qualification for a Supreme Court judge. The qualifications are: 5 years as a High Court judge, or 10 years as a High Court advocate, or being a distinguished jurist.",
+        "explanation":  "The qualifications for a Supreme Court judge are: 5 years as a High Court judge, or 10 years as a High Court advocate, or being a distinguished jurist. \"Twenty years as a Sub-Judicial Magistrate\" (d) is not a qualifying criterion.",
         "defective":  false
     },
     {
@@ -4144,7 +4144,7 @@
                         "the Union Cabinet."
                     ],
         "answer":  "a",
-        "explanation":  "Under Article 231, Parliament may by law establish a common High Court for two or more states.",
+        "explanation":  "Under Article 231, Parliament may by law establish a common High Court for two or more States or for a State and a UT (e.g. the Punjab \u0026 Haryana High Court). Not the Supreme Court, President or Cabinet.",
         "defective":  false
     },
     {
@@ -4169,7 +4169,7 @@
                         "Guwahati High Court has no Bench."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — the Gauhati (Guwahati) High Court has benches (e.g. Kohima, Aizawl, Itanagar). The other statements about HC benches are correct.",
+        "explanation":  "The Gauhati (Guwahati) High Court does have benches (e.g. at Kohima, Aizawl, Itanagar serving the north-eastern states) — so statement d is false. The Allahabad HC\u0027s Lucknow bench, the MP HC\u0027s Gwalior bench, and the Rajasthan HC at Jodhpur are correct.",
         "defective":  false
     },
     {
@@ -4198,7 +4198,7 @@
                         "2 and 4 only"
                     ],
         "answer":  "a",
-        "explanation":  "The basic structure doctrine relates to judicial review (1), the Kesavananda Bharati case 1973 (2), and constraints on Article 368 (3). It was NOT laid down in the 1967 Golaknath case (4) — that came in Kesavananda. Hence 1, 2 and 3 only.",
+        "explanation":  "The basic structure doctrine — that Parliament cannot destroy the Constitution\u0027s essential framework — was laid down in Kesavananda Bharati (1973) (2), is a limit on the amending power under Article 368 (3), and is enforced through judicial review (1). The 1967 Golaknath case (4) is a different, earlier ruling and did not give the doctrine (Kesavananda overruled it). Hence 1, 2 and 3 only.",
         "defective":  false
     },
     {
@@ -4223,7 +4223,7 @@
                         "P. N. Bhagwati"
                     ],
         "answer":  "d",
-        "explanation":  "Justice P.N. Bhagwati is credited with introducing/championing Public Interest Litigation (PIL) in India.",
+        "explanation":  "Justice P. N. Bhagwati (with Justice Krishna Iyer) pioneered Public Interest Litigation in India, relaxing locus standi so that anyone could approach the court on behalf of the disadvantaged.",
         "defective":  false
     },
     {
@@ -4248,7 +4248,7 @@
                         "rape"
                     ],
         "answer":  "a",
-        "explanation":  "The Vishakha case (1997) laid down guidelines against sexual harassment of women at the workplace.",
+        "explanation":  "Vishakha v. State of Rajasthan (1997) laid down binding guidelines against the sexual harassment of women at the workplace (later codified in the 2013 Act). It is not about sati, dowry death or rape as such.",
         "defective":  false
     },
     {
@@ -4276,7 +4276,7 @@
                         "2 and 3"
                     ],
         "answer":  "b",
-        "explanation":  "Changing the basic structure falls outside Parliament’s amending power (1) and could only be exercised by the people through a Constituent Assembly (2). Statement 3 is wrong — it does not fall within Parliament’s constituent powers. Hence 1 and 2.",
+        "explanation":  "Altering the basic structure is beyond Parliament\u0027s amending/constituent power (1) — only the people, through a fresh Constituent Assembly, could do it (2). Statement 3 contradicts the doctrine, so it is wrong. Hence 1 and 2.",
         "defective":  false
     },
     {
@@ -4301,7 +4301,7 @@
                         "Naz Foundation vs. Government of NCT of Delhi and others"
                     ],
         "answer":  "d",
-        "explanation":  "The challenge to Section 377 (as violative of Articles 21, 14, 15) is associated with the Naz Foundation case (Delhi HC, 2009). (The Supreme Court’s final decriminalisation came later in Navtej Singh Johar, 2018.)",
+        "explanation":  "The Naz Foundation case (Delhi High Court, 2009) first read down Section 377 as violating Articles 21, 14 and 15 (the Supreme Court finally decriminalised it in Navtej Singh Johar, 2018). Shreya Singhal was on Section 66A (IT Act); Shayara Bano on triple talaq.",
         "defective":  false
     },
     {
@@ -4326,7 +4326,7 @@
                         "Justice Anil R. Dave"
                     ],
         "answer":  "c",
-        "explanation":  "The Right to Privacy verdict (2017) arose from the writ petition led by Justice K.S. Puttaswamy (Retd.).",
+        "explanation":  "The 2017 verdict declaring the Right to Privacy a Fundamental Right (under Article 21) came in Justice K. S. Puttaswamy (Retd.) v. Union of India — the petition was led by retired Justice K. S. Puttaswamy.",
         "defective":  false
     },
     {
@@ -4351,7 +4351,7 @@
                         "ActionAid India"
                     ],
         "answer":  "a",
-        "explanation":  "The Naz Foundation (India) Trust challenged the constitutionality of Section 377 of the IPC.",
+        "explanation":  "The Naz Foundation (India) Trust, an NGO working on HIV/AIDS and sexual-health rights, filed the petition challenging Section 377. Bachpan Bachao Andolan works against child labour; the others are different NGOs.",
         "defective":  false
     },
     {
@@ -4378,7 +4378,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "d",
-        "explanation":  "Both statements are wrong — the Governor’s ordinance-making power is exercised on the advice of the Council of Ministers (not a discretionary power), and the Governor can withdraw an ordinance at any time. Hence neither.",
+        "explanation":  "Both are wrong — the Governor issues an ordinance (Article 213) on the aid and advice of the Council of Ministers (so it is not his discretionary power), and the Governor can withdraw an ordinance at any time. Hence neither.",
         "defective":  false
     },
     {
@@ -4405,7 +4405,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "As constitutional head, the Governor’s duties are not subject to debate in Parliament (1); but when he acts independently or under President’s Rule, his actions can be scrutinised by Parliament (2). Both correct.",
+        "explanation":  "As a constitutional head acting on ministerial advice, the Governor\u0027s conduct is shielded from parliamentary debate (1); but when he acts in his discretion or runs the State under President\u0027s Rule (as the Centre\u0027s agent), those actions can be scrutinised by Parliament (2). Both correct.",
         "defective":  false
     },
     {
@@ -4430,7 +4430,7 @@
                         "The Prime Minister"
                     ],
         "answer":  "a",
-        "explanation":  "Under the Sixth Schedule, the Governor has the power to annul or suspend Acts and resolutions of the Autonomous District/Regional Councils.",
+        "explanation":  "Under the Sixth Schedule, the Governor can annul or suspend any act or resolution of the Autonomous District/Regional Councils if it endangers public safety, etc.",
         "defective":  false
     },
     {
@@ -4455,7 +4455,7 @@
                         "Power to grant pardons, reprieves, respites or punishments remission of"
                     ],
         "answer":  "a",
-        "explanation":  "A Governor has no diplomatic or military powers (those belong to the President). Appointing the Advocate General, summoning/proroguing the legislature and granting pardons are within the Governor’s powers.",
+        "explanation":  "A Governor has no diplomatic or military powers (those belong to the President/Union) — so option a is not a gubernatorial power. Appointing the Advocate General, summoning/proroguing/dissolving the legislature, and granting pardons (Article 161) are all Governor\u0027s powers.",
         "defective":  false
     },
     {
@@ -4480,7 +4480,7 @@
                         "The aid and advice of ministers is not required for declaring the ordinance."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — the Governor issues an ordinance on the aid and advice of the Council of Ministers (it is not a discretionary power). The other statements are correct.",
+        "explanation":  "The Governor issues an ordinance on the aid and advice of the Council of Ministers — so saying \"aid and advice is not required\" is false. It being non-discretionary, withdrawable at any time, and usable only when the legislature is not in session are all correct.",
         "defective":  false
     },
     {
@@ -4505,7 +4505,7 @@
                         "whenever he/she has concluded that such is necessary"
                     ],
         "answer":  "c",
-        "explanation":  "The Governor’s “special address” is delivered at the first session after each general election and at the first session of each year (Article 176).",
+        "explanation":  "Under Article 176, the Governor addresses the State Legislature (a \"special address\") at the first session after each general election and at the first session of every year, outlining the government\u0027s policy. The other options are incorrect.",
         "defective":  false
     },
     {
@@ -4530,7 +4530,7 @@
                         "To submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but has not been considered by the Council, if the Governor so requires"
                     ],
         "answer":  "c",
-        "explanation":  "This is not a duty of the Chief Minister — the CM communicates decisions to the Governor, not the President. The other duties (Article 167) are correct.",
+        "explanation":  "The Chief Minister\u0027s duties (Article 167) are towards the Governor, not the President — so \"communicate to the President\" is wrong. Communicating Cabinet decisions to the Governor, furnishing information he asks for, and placing un-considered matters before the Council are the genuine duties.",
         "defective":  false
     },
     {
@@ -4555,7 +4555,7 @@
                         "Hansa Mehta"
                     ],
         "answer":  "b",
-        "explanation":  "Sucheta Kripalani became India’s first woman Chief Minister (Uttar Pradesh, 1963).",
+        "explanation":  "Sucheta Kripalani became India\u0027s first woman Chief Minister (Uttar Pradesh, 1963). Sarojini Naidu was the first woman Governor; Vijaya Lakshmi Pandit a diplomat/UNGA President.",
         "defective":  false
     },
     {
@@ -4580,7 +4580,7 @@
                         "Tamil Nadu"
                     ],
         "answer":  "a",
-        "explanation":  "Among the options, West Bengal has the largest Legislative Assembly (294 seats). Bihar (243), Madhya Pradesh (230) and Tamil Nadu (234) are smaller. (Uttar Pradesh, with 403, is the largest overall but not listed.)",
+        "explanation":  "Among the options, West Bengal has the biggest Assembly (294 seats); Tamil Nadu has 234, Bihar 243, Madhya Pradesh 230. (Uttar Pradesh, with 403, is the largest overall but is not listed.)",
         "defective":  false
     },
     {
@@ -4630,7 +4630,7 @@
                         "The Chief Minister"
                     ],
         "answer":  "d",
-        "explanation":  "A State Legislature consists of the Governor, the Legislative Assembly and (where it exists) the Legislative Council. The Chief Minister is part of the executive, not the legislature.",
+        "explanation":  "A State Legislature consists of the Governor + the Legislative Assembly + (where it exists) the Legislative Council. The Chief Minister is part of the executive, not the legislature.",
         "defective":  false
     },
     {
@@ -4655,7 +4655,7 @@
                         "One-twelfth of all members shall be elected by graduates residing in the State."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — about one-third (not one-twelfth) of Legislative Council members are elected by local bodies. The other statements (Bihar/Telangana have LCs; LC ≤ 1/3 of LA; 1/12 by graduates) are correct.",
+        "explanation":  "About one-third (not one-twelfth) of LC members are elected by local bodies — so statement c understates it. The LC total being ≤ 1/3 of the Assembly, the existence of LCs in Bihar/Telangana, and the one-twelfth graduates\u0027 quota are correct. (The split: 1/3 local bodies, 1/12 graduates, 1/12 teachers, 1/3 MLAs, 1/6 nominated.)",
         "defective":  false
     },
     {
@@ -4680,7 +4680,7 @@
                         "Arunachal Pradesh"
                     ],
         "answer":  "d",
-        "explanation":  "Arunachal Pradesh does not have a Legislative Council. Karnataka and Telangana have LCs (J\u0026K’s was abolished in 2019).",
+        "explanation":  "Arunachal Pradesh has never had a Legislative Council. Karnataka and Telangana have LCs (J\u0026K had one until it was abolished in 2019). Hence Arunachal Pradesh.",
         "defective":  false
     },
     {
@@ -4709,7 +4709,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "d",
-        "explanation":  "Andhra Pradesh, Telangana, Bihar and Uttar Pradesh all have bicameral legislatures (a Legislative Council in addition to the Assembly). Hence all four.",
+        "explanation":  "All four — Andhra Pradesh, Telangana, Bihar and Uttar Pradesh — have a Legislative Council in addition to the Assembly (i.e. are bicameral). Hence all four.",
         "defective":  false
     },
     {
@@ -4737,7 +4737,7 @@
                         "2 only"
                     ],
         "answer":  "b",
-        "explanation":  "Consent of a state is not required to alter its boundaries (2), and India has single (no dual) citizenship (3). Statement 1 is wrong — states do NOT have equal representation in the Rajya Sabha (it is population-based). Hence 2 and 3 only.",
+        "explanation":  "A State\u0027s consent is not needed to alter its boundaries (Article 3) (2), and India has single citizenship (3). Statement 1 is wrong — Rajya Sabha representation is by population, so states do not have equal seats (unlike the US Senate). Hence 2 and 3 only.",
         "defective":  false
     },
     {
@@ -4765,7 +4765,7 @@
                         "4 only"
                     ],
         "answer":  "c",
-        "explanation":  "The statements that are NOT correct are 3 and 4 — Parliament can alter the boundary and the name of a state (Article 3). Parliament can increase (1) and diminish (2) a state’s area, which are correct. Hence not-correct = 3 and 4.",
+        "explanation":  "Under Article 3, Parliament can increase/diminish a State\u0027s area and can alter its boundary and name. So the statements that are not correct are 3 (cannot alter boundary) and 4 (cannot alter name) — both are false. Hence 3 and 4.",
         "defective":  false
     },
     {
@@ -4790,7 +4790,7 @@
                         "Quasi-Unitary"
                     ],
         "answer":  "c",
-        "explanation":  "A constitution with both unitary and federal features is described as quasi-federal — the Indian Constitution is the classic example.",
+        "explanation":  "A constitution mixing federal and unitary features is termed quasi-federal — the Indian Constitution is the classic example (\"federal in normal times, unitary in emergencies\").",
         "defective":  false
     },
     {
@@ -4815,7 +4815,7 @@
                         "ve months."
                     ],
         "answer":  "b",
-        "explanation":  "The M.M. Punchhi Commission recommended that a bill reserved for the President’s consideration be disposed of within six months.",
+        "explanation":  "The Punchhi Commission recommended a time limit of six months for the President to decide on a bill reserved by a Governor — to prevent indefinite delay.",
         "defective":  false
     },
     {
@@ -4840,7 +4840,7 @@
                         "Forests is a subject under the Concurrent List."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — Insurance IS in the Union List. Taxes on agricultural income (State List), price control (Concurrent) and forests (Concurrent) are correctly stated.",
+        "explanation":  "Insurance IS in the Union List — so saying it does not is false. Taxes on agricultural income (State List), price control (Concurrent List) and forests (moved to the Concurrent List by the 42nd Amendment) are correctly stated.",
         "defective":  false
     },
     {
@@ -4890,7 +4890,7 @@
                         "An extensive Union and Concurrent list"
                     ],
         "answer":  "a",
-        "explanation":  "This is not a feature of Indian federalism — unlike the USA, the Indian states did not voluntarily come together; India is “an indestructible Union of destructible states.” Residuary powers with the Centre, single citizenship and an extensive Union/Concurrent list are features.",
+        "explanation":  "Unlike the USA (formed by states \"coming together\"), the Indian states did not voluntarily agree to form the union — India is \"an indestructible Union of destructible states\" (holding together). So statement a is not a feature. Residuary powers with the Centre, single citizenship and a strong Union/Concurrent list are genuine Indian features.",
         "defective":  false
     },
     {
@@ -4918,7 +4918,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "d",
-        "explanation":  "Taxes on agricultural income (1), duties on succession of agricultural land (2) and estate duty on agricultural land (3) are all State-List subjects. Hence 1, 2 and 3.",
+        "explanation":  "All three — taxes on agricultural income, succession duty on agricultural land, and estate duty on agricultural land — are State-List subjects (agriculture being primarily a state matter). Hence 1, 2 and 3.",
         "defective":  false
     },
     {
@@ -4945,7 +4945,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "b",
-        "explanation":  "The Code of Civil Procedure is in the Concurrent List (2, correct). Statement 1 is wrong — criminal law is in the Concurrent List, not exclusively the State List. Hence 2 only.",
+        "explanation":  "The Code of Civil Procedure (and Criminal Procedure, contracts, etc.) are in the Concurrent List (2, correct). Statement 1 is wrong — criminal law is in the Concurrent List, not exclusively the State List. Hence 2 only.",
         "defective":  false
     },
     {
@@ -4974,7 +4974,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "Special Category Status criteria include hilly/difficult terrain (1), economic and infrastructural backwardness (2) and a sizeable tribal population (4) — plus low density and strategic border (not “coastal”) location. So 3 is wrong; hence 1, 2 and 4 only.",
+        "explanation":  "Special Category Status (Gadgil formula) considers hilly/difficult terrain (1), economic and infrastructural backwardness (2) and a sizeable tribal population (4), plus low density and a strategic border (not coastal) location. So statement 3 is wrong; hence 1, 2 and 4 only.",
         "defective":  false
     },
     {
@@ -4999,7 +4999,7 @@
                         "The maximum number of members in the Council of Ministers of Delhi can be 15 percent of the total number of members in the Legislative Assembly."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — for Delhi the ceiling is 10 percent of the Assembly’s strength (special provision), not 15 percent. The other statements are correct.",
+        "explanation":  "For Delhi, the special provision caps the Council of Ministers at 10 percent of the Assembly\u0027s strength, not 15 percent — so statement d is false. States generally cannot have their own constitutions (J\u0026K being the historic exception), and cannot secede — those are correct.",
         "defective":  false
     },
     {
@@ -5024,7 +5024,7 @@
                         "Article 371D"
                     ],
         "answer":  "b",
-        "explanation":  "Article 371B contains the special provision with respect to the State of Assam.",
+        "explanation":  "Article 371B contains the special provision for Assam (regarding a committee of the Assembly for the tribal areas). 371A is for Nagaland, 371C for Manipur, 371D for Andhra Pradesh.",
         "defective":  false
     },
     {
@@ -5049,7 +5049,7 @@
                         "Article 371G"
                     ],
         "answer":  "b",
-        "explanation":  "Article 370 contained the special (temporary) provisions for Jammu \u0026 Kashmir (abrogated in 2019).",
+        "explanation":  "Article 370 gave Jammu \u0026 Kashmir its special (temporary) autonomous status (abrogated in August 2019). Article 371G is for Mizoram; Article 238 was repealed long ago.",
         "defective":  false
     },
     {
@@ -5074,7 +5074,7 @@
                         "Six years from the date of election"
                     ],
         "answer":  "b",
-        "explanation":  "The elected members of an Autonomous District Council hold office for five years from the date appointed for the Council’s first meeting after the election.",
+        "explanation":  "Under the Sixth Schedule, elected members of the Autonomous District Council hold office for five years from the date appointed for the Council\u0027s first meeting after the election (not from the election date itself).",
         "defective":  false
     },
     {
@@ -5099,7 +5099,7 @@
                         "Any Chartered Accountant"
                     ],
         "answer":  "a",
-        "explanation":  "Under the Sixth Schedule, the accounts of the District/Regional Council funds are audited as the CAG prescribes (and reports go to the Governor).",
+        "explanation":  "Under the Sixth Schedule, the accounts of the District/Regional Council Funds are audited in such manner as the CAG may prescribe, and the reports are submitted to the Governor.",
         "defective":  false
     },
     {
@@ -5124,7 +5124,7 @@
                         "Manipur"
                     ],
         "answer":  "a",
-        "explanation":  "Article 371A provides special privileges (regarding Naga customary law, land, etc.) to Nagaland.",
+        "explanation":  "Article 371A gives Nagaland special protection — no Act of Parliament on Naga religious/social practices, customary law, land and resources applies unless the State Assembly so decides. Mizoram is covered by 371G, Sikkim by 371F, Manipur by 371C.",
         "defective":  false
     },
     {
@@ -5149,7 +5149,7 @@
                         "Ownership and transfer of natural resources"
                     ],
         "answer":  "d",
-        "explanation":  "Article 371G (Mizoram) covers religious/social practices of the Mizos, Mizo customary law and procedure, administration of justice involving Mizo customary law, and ownership/transfer of land — not “natural resources” generally. Hence (d) is not covered.",
+        "explanation":  "Article 371G protects Mizo religious/social practices, customary law, administration of justice by customary law, and ownership/transfer of land — but it speaks of land, not \"natural resources\" in general. So option d is not the matter covered.",
         "defective":  false
     },
     {
@@ -5174,7 +5174,7 @@
                         "The Ain-i-Akbari of Abul Fazl"
                     ],
         "answer":  "b",
-        "explanation":  "(This History-type question appears in the Panchayat section.) Records of these village panchayats document women protesting infidelity/neglect by the male household head. The other sources do not.",
+        "explanation":  "(A history question filed in the Panchayat section.) Records of these village panchayats preserve women\u0027s complaints against neglect/infidelity — a rare glimpse of ordinary women\u0027s grievances. The other sources do not provide this.",
         "defective":  false
     },
     {
@@ -5203,7 +5203,7 @@
                         "3 and 4 only"
                     ],
         "answer":  "a",
-        "explanation":  "Under the Haryana Panchayati Raj Amendment Act 2015, a candidate needed a functional toilet (1), no pending power dues/payment slips (2) and to not be a cooperative-loan defaulter (3). Statement 4 is wrong — the educational requirement varied by category (not “irrespective of category”). Hence 1, 2 and 3 only.",
+        "explanation":  "The Haryana law required a functional toilet (1), no pending power dues (2) and no cooperative-loan default (3). Statement 4 is wrong — the minimum education requirement varied by category (lower for women/SCs), not \"irrespective of category.\" Hence 1, 2 and 3 only.",
         "defective":  false
     },
     {
@@ -5232,7 +5232,7 @@
                         "1 and 4 only"
                     ],
         "answer":  "c",
-        "explanation":  "Panchayat seats are filled by direct election (1), the Gram Sabha is the body of registered village voters (2), and the State Legislature endows Panchayats with powers (4). Statement 3 (constitutional autonomy) is wrong. Hence 1, 2 and 4.",
+        "explanation":  "Panchayat seats are filled by direct election (1), the Gram Sabha = village electoral-roll members (2), and the State Legislature endows Panchayats with powers/authority (4). Statement 3 is wrong — Panchayats function under powers devolved by the state, not \"constitutional autonomy.\" Hence 1, 2 and 4.",
         "defective":  false
     },
     {
@@ -5261,7 +5261,7 @@
                         "1 and 4"
                     ],
         "answer":  "b",
-        "explanation":  "Haryana (2) and Rajasthan (4) introduced minimum educational qualifications to contest Panchayat elections. Punjab and Karnataka did not.",
+        "explanation":  "Haryana (2) and Rajasthan (4) introduced minimum educational qualifications for Panchayat candidates (upheld by the Supreme Court in 2015). Punjab and Karnataka did not.",
         "defective":  false
     },
     {
@@ -5286,7 +5286,7 @@
                         "The State Legislature may by law make provisions for audit of accounts of the Panchayats."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — chairpersons of intermediate/district panchayats are indirectly elected, and the mode of their election is determined by state law (Article 243C). The other statements are correct.",
+        "explanation":  "Chairpersons of the intermediate and district Panchayats are indirectly elected (by the elected members), and the mode is set by state law — so requiring direct election to vote in meetings is wrong (a). The State Legislature deciding reservations, the five-year term, and provision for audit are correct.",
         "defective":  false
     },
     {
@@ -5311,7 +5311,7 @@
                         "A Panchayat reconstituted after premature dissolution shall continue only for the remainder of the full period."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — the minimum age to be a Panchayat member is 21 years, not 25. The other statements are correct.",
+        "explanation":  "The minimum age to be a member of a Panchayat is 21 years, not 25 — so statement b is false. The power to levy taxes, the five-year term, and the rule that a reconstituted Panchayat serves only the remainder of the term are correct.",
         "defective":  false
     },
     {
@@ -5336,7 +5336,7 @@
                         "the Election Commission of India"
                     ],
         "answer":  "b",
-        "explanation":  "Under Article 243K and Part IX, the State Legislatures make laws on all matters relating to elections to the Panchayats.",
+        "explanation":  "Under Article 243K and Part IX, the State Legislatures make laws on all matters relating to Panchayat elections; the State Election Commission conducts them (superintendence/direction/control).",
         "defective":  false
     },
     {
@@ -5361,7 +5361,7 @@
                         "Goa"
                     ],
         "answer":  "a",
-        "explanation":  "Part IX (Panchayats) does not apply to the Sixth Schedule tribal areas — Meghalaya (entirely a Sixth Schedule state here) is the answer among the options.",
+        "explanation":  "Part IX (Panchayats) does not apply to the Sixth-Schedule tribal areas; Meghalaya (which is largely under the Sixth Schedule, with its own traditional councils) is exempted. Tripura, Assam (and Goa) do have Panchayats.",
         "defective":  false
     },
     {
@@ -5386,7 +5386,7 @@
                         "Reservation of seats for SCs and STs has nothing to do with proportion of their population."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — reservation of seats for SCs/STs in Panchayats is proportional to their population. The other statements are correct.",
+        "explanation":  "Reservation of seats for SCs/STs in Panchayats is proportional to their population in the area — so saying it \"has nothing to do with\" population is false. The State Legislature\u0027s role in composition, the meaning of \"Panchayat area,\" and the Gram Sabha being all village voters are correct.",
         "defective":  false
     },
     {
@@ -5415,7 +5415,7 @@
                         "2, 3 and 4 only"
                     ],
         "answer":  "b",
-        "explanation":  "Panchayat seats are filled by direct election (1), the Gram Sabha consists of village electoral-roll persons (2), and the chairperson is elected per state law (3). Statement 4 is wrong — not all states have a three-tier system (small states may lack the intermediate tier). Hence 1, 2 and 3 only.",
+        "explanation":  "Panchayat seats are filled by direct election (1), the Gram Sabha = village electoral-roll members (2), and the Chairperson\u0027s election follows state law (3). Statement 4 is wrong — States with a population below 20 lakh may skip the intermediate tier, so not all have three tiers. Hence 1, 2 and 3 only.",
         "defective":  false
     },
     {
@@ -5443,7 +5443,7 @@
                         "1 and 3 only"
                     ],
         "answer":  "d",
-        "explanation":  "Panchayat elections are conducted by the State Election Commission (1), and State Legislatures make laws on Panchayat elections (3). Statement 2 is wrong — the State Election Commissioner is appointed by the Governor, not the CEC. Hence 1 and 3 only.",
+        "explanation":  "Panchayat elections are run by the State Election Commission (1), and the State Legislatures legislate on Panchayat-election matters (3). Statement 2 is wrong — the State Election Commissioner is appointed by the Governor, not the CEC of India. Hence 1 and 3 only.",
         "defective":  false
     },
     {
@@ -5470,7 +5470,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "a",
-        "explanation":  "There is provision for reservation of seats for SCs/STs in Panchayats (1, correct). Statement 2 is wrong — Panchayats are authorised to levy and collect taxes. Hence 1 only.",
+        "explanation":  "Seats are reserved for SCs and STs in Panchayats (1, correct). Statement 2 is wrong — Panchayats are authorised (by the State Legislature) to levy and collect taxes, duties, tolls and fees. Hence 1 only.",
         "defective":  false
     },
     {
@@ -5498,7 +5498,7 @@
                         "3 only"
                     ],
         "answer":  "b",
-        "explanation":  "Under the 73rd/74th Amendments, representatives are directly elected for five years (2), and one-third of seats are reserved for women (3). Statement 1 is wrong — a three-tier system is not mandatory for states with population below 20 lakh. Hence 2 and 3 only.",
+        "explanation":  "The Amendments require direct election for five-year terms (2) and one-third reservation for women (3). Statement 1 is wrong — a three-tier system is not mandatory for small States (population below 20 lakh may have only two tiers). Hence 2 and 3 only.",
         "defective":  false
     },
     {
@@ -5523,7 +5523,7 @@
                         "the Gram Sabha and the Panchayat"
                     ],
         "answer":  "b",
-        "explanation":  "The Eleventh Schedule lists 29 subjects that the State Legislatures may devolve to the Panchayats.",
+        "explanation":  "The Eleventh Schedule lists 29 subjects (agriculture, health, education, etc.) that the State Legislatures may devolve to the Panchayats under Article 243G. (The Twelfth Schedule does the same for municipalities.)",
         "defective":  false
     },
     {
@@ -5552,7 +5552,7 @@
                         "4 only"
                     ],
         "answer":  "a",
-        "explanation":  "The statement that is NOT correct is 3 — delimitation laws are made by Parliament (and a Delimitation Commission), not the ECI. The ECI does prepare electoral rolls (1), the MCC starts on announcement (2), and elections are challenged only by petition (4). Hence 3 only.",
+        "explanation":  "The only incorrect statement is 3 — delimitation laws are made by Parliament (and implemented by a Delimitation Commission), not the ECI. Preparing electoral rolls (1), the MCC starting on announcement (2), and challenge only by petition (4) are correct. Hence 3 only.",
         "defective":  false
     },
     {
@@ -5577,7 +5577,7 @@
                         "The High Court of Delhi"
                     ],
         "answer":  "a",
-        "explanation":  "Disputes regarding the election of the President and Vice-President are inquired into and decided by the Supreme Court (Article 71).",
+        "explanation":  "Under Article 71, all doubts and disputes regarding the election of the President and Vice-President are inquired into and decided by the Supreme Court, whose decision is final.",
         "defective":  false
     },
     {
@@ -5602,7 +5602,7 @@
                         "Appointment of the Regional Commissioners to assist the Election Commission in the performance of the functions conferred on the Commission"
                     ],
         "answer":  "d",
-        "explanation":  "Regional Commissioners are appointed by the President (in consultation with the ECI), so this is not a function of the ECI itself. The other functions are the ECI’s.",
+        "explanation":  "Regional Commissioners are appointed by the President (in consultation with the ECI), not by the ECI itself — so this is not an ECI function. Superintendence of rolls and conduct of parliamentary/assembly and presidential/vice-presidential elections are ECI functions.",
         "defective":  false
     },
     {
@@ -5630,7 +5630,7 @@
                         "1 and 3 only"
                     ],
         "answer":  "a",
-        "explanation":  "A member may be permitted to address the House in his mother tongue (1), committee business is transacted in Hindi or English (2), and the minutes are prepared in Hindi or English (3). All correct.",
+        "explanation":  "All three are correct — a member may, with the Speaker\u0027s permission, speak in his mother tongue (1); committee business is conducted in Hindi or English (2); and the minutes are recorded in Hindi or English (3).",
         "defective":  false
     },
     {
@@ -5655,7 +5655,7 @@
                         "Governor of a State is constitutionally bound to provide support staff to the Election Commission, if required."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — an Election Commissioner can be removed only on the recommendation of the CEC. The other statements are correct.",
+        "explanation":  "An Election Commissioner can be removed only on the recommendation of the CEC — so removing one \"without\" that recommendation is not correct (this is a key safeguard of the ECs\u0027 independence). The EC conducting the VP election, the President appointing the ECs, and the provision of staff are correct.",
         "defective":  false
     },
     {
@@ -5680,7 +5680,7 @@
                         "2001"
                     ],
         "answer":  "b",
-        "explanation":  "The Election Commission introduced the Electors’ Photo Identity Cards (EPIC) in 1993.",
+        "explanation":  "The Election Commission (under T. N. Seshan) introduced Electors\u0027 Photo Identity Cards (EPIC) in 1993 to curb impersonation and electoral fraud.",
         "defective":  false
     },
     {
@@ -5705,7 +5705,7 @@
                         "The Members are appointed or elected on a motion made and adopted or nominated by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha."
                     ],
         "answer":  "d",
-        "explanation":  "Members of Parliamentary Committees are either elected (by proportional representation) or nominated by the Speaker/Chairman — option (d) correctly captures this.",
+        "explanation":  "Members of Parliamentary Committees are either elected (by proportional representation, on a motion) or nominated by the Speaker/Chairman — so option d captures the full position. The other options are too narrow.",
         "defective":  false
     },
     {
@@ -5755,7 +5755,7 @@
                         "Rakesh Mohan"
                     ],
         "answer":  "c",
-        "explanation":  "Y.V. Reddy chaired the Fourteenth Finance Commission. Rangarajan, Kelkar and Mohan are distractors.",
+        "explanation":  "The 14th Finance Commission (which raised the states\u0027 share of central taxes to 42%) was chaired by Y. V. Reddy, a former RBI Governor. The others did not chair it.",
         "defective":  false
     },
     {
@@ -5784,7 +5784,7 @@
                         "3, 4, 1, 2"
                     ],
         "answer":  "a",
-        "explanation":  "Chronologically by date of constitution: Sarkaria Commission (1983, 4) → Eleventh Finance Commission (1998, 2) → Second ARC (2005, 1) → Punchhi Commission (2007, 3). This is 4, 2, 1, 3.",
+        "explanation":  "Order: Sarkaria Commission (1983) → Eleventh Finance Commission (1998) → Second ARC (2005) → Punchhi Commission (2007) = 4, 2, 1, 3.",
         "defective":  false
     },
     {
@@ -5809,7 +5809,7 @@
                         "Tax effort"
                     ],
         "answer":  "b",
-        "explanation":  "Income distance got the highest weight (50%) in the 14th Finance Commission’s formula for devolution to states.",
+        "explanation":  "In the 14th FC formula, Income distance (the gap of a state\u0027s per-capita income from the highest) carried the highest weight (50%), to give more to poorer states. Population, area and others had smaller weights.",
         "defective":  false
     },
     {
@@ -5837,7 +5837,7 @@
                         "4-3-2-1"
                     ],
         "answer":  "b",
-        "explanation":  "14th FC weights, descending: Income distance (50%) → Population (17.5%) → Area (15%) → Demographic changes (10%) = 1-2-4-3.",
+        "explanation":  "Weights: Income distance 50% → Population (1971) 17.5% → Area 15% → Demographic change (2011) 10%. Descending = Income distance, Population, Area, Demographic changes = 1-2-4-3.",
         "defective":  false
     },
     {
@@ -5862,7 +5862,7 @@
                         "Investment Commission, Finance Commission, Planning Commission, Election Commission"
                     ],
         "answer":  "b",
-        "explanation":  "Earliest first: Election Commission (Jan 1950) → Planning Commission (Mar 1950) → Finance Commission (1951) → Investment Commission (2004). Hence option (b).",
+        "explanation":  "Order: Election Commission (Jan 1950) → Planning Commission (Mar 1950) → Finance Commission (1951) → Investment Commission (2004) = option b.",
         "defective":  false
     },
     {
@@ -5887,7 +5887,7 @@
                         "Excise Duties"
                     ],
         "answer":  "c",
-        "explanation":  "Surcharges and cesses are not part of the divisible pool shared with the states (they are retained by the Centre). Income tax, corporate tax and excise duties are shareable.",
+        "explanation":  "Surcharges and cesses are not part of the divisible pool — the Centre retains them entirely (a reason states complain). Income tax, corporate tax and (Union) excise duties are shareable with the states.",
         "defective":  false
     },
     {
@@ -5912,7 +5912,7 @@
                         "the Vice President"
                     ],
         "answer":  "a",
-        "explanation":  "The CAG’s audit reports relating to the accounts of the Union are submitted to the President, who lays them before Parliament (Article 151).",
+        "explanation":  "Under Article 151, the CAG\u0027s reports on the Union\u0027s accounts go to the President, who has them laid before Parliament (where the Public Accounts Committee examines them).",
         "defective":  false
     },
     {
@@ -5937,7 +5937,7 @@
                         "Puducherry"
                     ],
         "answer":  "b",
-        "explanation":  "G.C. Murmu was the Lieutenant Governor of the UT of Jammu \u0026 Kashmir before being appointed CAG in August 2020.",
+        "explanation":  "G. C. Murmu was the first Lieutenant Governor of the UT of Jammu \u0026 Kashmir (after its reorganisation in 2019) before becoming CAG in August 2020.",
         "defective":  false
     },
     {
@@ -5966,7 +5966,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "d",
-        "explanation":  "The NHRC inquires suo motu or on petition (1, 2), visits jails to study inmates’ conditions (3), and promotes research in human rights (4). All four are its functions.",
+        "explanation":  "The National Human Rights Commission can inquire suo motu or on petition (1, 2), visit jails to study conditions (3), and promote human-rights research and awareness (4). All four are its functions.",
         "defective":  false
     },
     {
@@ -5991,7 +5991,7 @@
                         "It is made up of 47 UN Member States which are elected by the UN General Assembly."
                     ],
         "answer":  "a",
-        "explanation":  "This is incorrect — the UN Human Rights Council has 47 member states (not all UN members). The other statements are correct.",
+        "explanation":  "The UN Human Rights Council has 47 elected member states, not \"all members of the UN\" — so statement a is false. Its mandate to promote/protect human rights, its replacement of the old Commission (2006), and its 47-member composition are correct.",
         "defective":  false
     },
     {
@@ -6016,7 +6016,7 @@
                         "two years"
                     ],
         "answer":  "c",
-        "explanation":  "In October 2018 India was elected to the UN Human Rights Council for a three-year term.",
+        "explanation":  "Members of the UN Human Rights Council serve three-year terms; India was elected for the 2019–2021 term in October 2018.",
         "defective":  false
     },
     {
@@ -6041,7 +6041,7 @@
                         "The Human Rights Council"
                     ],
         "answer":  "d",
-        "explanation":  "The Protection of Human Rights Act, 1993 covers the NHRC, State Human Rights Commissions and Human Rights Courts. The UN Human Rights Council is not under it.",
+        "explanation":  "The Protection of Human Rights Act, 1993 set up the NHRC, State Human Rights Commissions and Human Rights Courts. The UN Human Rights Council is an international UN body, not a creation of this Act.",
         "defective":  false
     },
     {
@@ -6066,7 +6066,7 @@
                         "It offers a platform for resolution of inter-state conflicts as provider of first and last resort."
                     ],
         "answer":  "d",
-        "explanation":  "This is not an objective of NITI Aayog (it is a think tank; inter-state dispute resolution is the Inter-State Council’s domain). The other objectives are correct.",
+        "explanation":  "NITI Aayog is essentially a think tank/advisory body — it does not act as the body for resolving inter-state disputes (that role belongs to the Inter-State Council, Article 263). So option d is not its objective. The other roles are correct.",
         "defective":  false
     },
     {
@@ -6094,7 +6094,7 @@
                         "3 only"
                     ],
         "answer":  "d",
-        "explanation":  "NITI Aayog designs strategies and long-term policy frameworks (3). It does not impose policies on states (1) or allocate funds (2) — those are not its roles. Hence 3 only.",
+        "explanation":  "NITI Aayog\u0027s role is to design strategies and long-term policy frameworks (3). It does not impose policies on states (1, it works cooperatively) and does not allocate funds (2, that ended with the Planning Commission). Hence 3 only.",
         "defective":  false
     },
     {
@@ -6121,7 +6121,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "In the National MPI’s nutrition indicator, a household is deprived if any single member is undernourished (1) or if a woman aged 15–49 has a BMI below 18.5 kg/m² (2). Both correct.",
+        "explanation":  "In the National MPI\u0027s nutrition indicator, a household is \"deprived\" if any single member is undernourished (1), and undernourishment for a woman of 15-49 is taken as a BMI below 18.5 (2). Both criteria are correct.",
         "defective":  false
     },
     {
@@ -6146,7 +6146,7 @@
                         "Odisha, Bihar, Jharkhand"
                     ],
         "answer":  "a",
-        "explanation":  "In the Composite SDG India Index 2020-21, Bihar, Jharkhand and Assam were at the bottom (worst performers). Hence (a).",
+        "explanation":  "In the SDG India Index 2020-21, the lowest-performing States were Bihar, Jharkhand and Assam (with Kerala on top) — matching option a.",
         "defective":  false
     },
     {
@@ -6175,7 +6175,7 @@
                         "3 and 4 only"
                     ],
         "answer":  "b",
-        "explanation":  "Per the 2015 resolution, NITI Aayog includes the PM as Chairperson (1), a Governing Council of CMs and UT LGs (2), and a CEO appointed by the PM (4). The Rural Development Minister (3) is not specifically named. Hence 1, 2 and 4.",
+        "explanation":  "NITI Aayog has the PM as Chairperson (1), a Governing Council of all Chief Ministers and UT Lt. Governors (2), and a CEO appointed by the PM (4). The Rural Development Minister (3) is not specifically named in its structure. Hence 1, 2 and 4.",
         "defective":  false
     },
     {
@@ -6200,7 +6200,7 @@
                         "Responsible consumption and production"
                     ],
         "answer":  "b",
-        "explanation":  "SDG 8 is “Decent Work and Economic Growth,” not “Reduced unemployment,” so the latter is not an SDG title in the index. The others (zero hunger, life below water, responsible consumption) are SDGs.",
+        "explanation":  "SDG 8 is \"Decent Work and Economic Growth\", not \"Reduced unemployment\" — so the latter is not an SDG title. Zero Hunger (SDG 2), Life Below Water (SDG 14) and Responsible Consumption and Production (SDG 12) are genuine SDGs.",
         "defective":  false
     },
     {
@@ -6227,7 +6227,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "The PM is the Chairperson of NITI Aayog’s Governing Council (1), and the Lt. Governor of Ladakh (a UT) is a member of the Governing Council (2). Both correct.",
+        "explanation":  "The PM chairs the Governing Council (1), and the Lt. Governors of UTs (including Ladakh) are members of the Governing Council (2). Both correct.",
         "defective":  false
     },
     {
@@ -6254,7 +6254,7 @@
                         "3"
                     ],
         "answer":  "d",
-        "explanation":  "All three are correct — the Central Vigilance Commissioner is appointed by the President (1); the appointments committee includes the Home Minister (2); and the Leader of the single largest opposition group in the Lok Sabha can be on it when there is no recognised Leader of Opposition (3). Hence 3.",
+        "explanation":  "All three are correct — the CVC is appointed by the President (1) on the recommendation of a committee comprising the PM, the Home Minister (2) and the Leader of Opposition in the Lok Sabha; where there is no recognised LoP, the leader of the single largest opposition group sits on it (3). So 3.",
         "defective":  false
     },
     {
@@ -6279,7 +6279,7 @@
                         "The law establishing the Tribunals may provide for procedures including rules of evidence to be followed."
                     ],
         "answer":  "c",
-        "explanation":  "This is incorrect — tribunals cannot exclude the Supreme Court’s jurisdiction under Article 136 (and, after L. Chandra Kumar, the High Courts’ under Articles 226/227). The other statements are correct.",
+        "explanation":  "Tribunals cannot exclude the Supreme Court\u0027s jurisdiction under Article 136 (special leave) — and after L. Chandra Kumar (1997), not the High Courts\u0027 under Articles 226/227 either. So statement c is false. The power to set up tribunals (Articles 323A/323B), their service-matter jurisdiction, and their own procedures are correct.",
         "defective":  false
     },
     {
@@ -6304,7 +6304,7 @@
                         "The Commission has the power to regulate its own procedures."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — the NCST’s reports are laid before both Houses of Parliament (via the President), not only the Lok Sabha. The other statements are correct.",
+        "explanation":  "The NCST\u0027s reports are laid before both Houses of Parliament (and the relevant State Legislature), not only the Lok Sabha — so statement b is false. Consultation on ST policy, civil-court powers during inquiry, and regulating its own procedure are correct.",
         "defective":  false
     },
     {
@@ -6329,7 +6329,7 @@
                         "an order of the President of India"
                     ],
         "answer":  "c",
-        "explanation":  "The National Commission for Women is a statutory body, created by the National Commission for Women Act, 1990.",
+        "explanation":  "The National Commission for Women is a statutory body, set up under the National Commission for Women Act, 1990. It is not a constitutional body (unlike the NCSC/NCST).",
         "defective":  false
     },
     {
@@ -6354,7 +6354,7 @@
                         "The National Commission for Women"
                     ],
         "answer":  "b",
-        "explanation":  "Article 338A relates to the National Commission for Scheduled Tribes (Article 338 deals with the NCSC).",
+        "explanation":  "Article 338A provides for the National Commission for Scheduled Tribes (created by the 89th Amendment, 2003, splitting the earlier combined commission). Article 338 is for the NCSC; 338B (102nd Amendment) for the NCBC.",
         "defective":  false
     },
     {
@@ -6382,7 +6382,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  "d",
-        "explanation":  "The NCW is a statutory body (1), reviews constitutional/legal safeguards for women (2), and advises the government on policy matters affecting women (3). All correct.",
+        "explanation":  "The NCW is a statutory body (1, under the 1990 Act), it reviews the constitutional/legal safeguards for women (2), and it advises the government on policy matters affecting women (3). All three are correct.",
         "defective":  false
     },
     {
@@ -6411,7 +6411,7 @@
                         "2, 3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "In the 1937 provincial elections, only ~10–12% could vote (1) and the Congress won majorities in five of eleven provinces (3). Statement 2 (untouchables had no vote) and statement 4 (League won 80%+ Muslim seats) are wrong. Hence 1 and 3 only.",
+        "explanation":  "The franchise was narrow (~10-12%) (1) and the Congress swept five of eleven provinces (3). Statement 2 is wrong (the depressed classes did vote, with reserved seats) and statement 4 is wrong — the Muslim League fared poorly, winning only a small share of Muslim seats. Hence 1 and 3 only.",
         "defective":  false
     },
     {
@@ -6436,7 +6436,7 @@
                         "reporting violation of model code of conduct in election-bound States"
                     ],
         "answer":  "d",
-        "explanation":  "The cVIGIL app lets citizens report violations of the Model Code of Conduct during elections.",
+        "explanation":  "cVIGIL is an Election Commission app that lets citizens report Model Code of Conduct violations (with photo/video and auto-location) during elections, for quick action.",
         "defective":  false
     },
     {
@@ -6461,7 +6461,7 @@
                         "9 phases"
                     ],
         "answer":  "b",
-        "explanation":  "The 2019 general election was conducted in 7 phases.",
+        "explanation":  "The 2019 Lok Sabha general election was held in seven phases (April–May 2019) across the country.",
         "defective":  false
     },
     {
@@ -6489,7 +6489,7 @@
                         "1 only"
                     ],
         "answer":  "a",
-        "explanation":  "An overseas Indian voter must be a citizen of India (1), have his name on the electoral roll (2), and be physically present to vote (3, as proxy/postal voting for NRIs is not generally allowed). Hence 1, 2 and 3.",
+        "explanation":  "An NRI voter must be an Indian citizen (1), be registered on the electoral roll of his/her constituency (2), and currently must be physically present to vote (3) (proxy/postal voting for NRIs has not yet been operationalised). Hence all three.",
         "defective":  false
     },
     {
@@ -6517,7 +6517,7 @@
                         "1 and 2 only"
                     ],
         "answer":  "b",
-        "explanation":  "There is one general electoral roll per constituency (1), no ineligibility on grounds of religion/race/caste/sex (2), and a citizen aged 18+ can vote unless disqualified (3). All correct.",
+        "explanation":  "Articles 325 and 326 guarantee one general electoral roll per constituency (1), no exclusion on religion/race/caste/sex (1 roll, not separate communal rolls) (2), and the right to vote for any citizen aged 18+ unless disqualified (3). All three are correct.",
         "defective":  false
     },
     {
@@ -6542,7 +6542,7 @@
                         "Assam and Madras"
                     ],
         "answer":  "a",
-        "explanation":  "In the 1937 elections the Congress was not the single largest party in Punjab (Unionist Party) and Sind. It fared well in Madras and Assam.",
+        "explanation":  "The Congress dominated most provinces but not Punjab (where the Unionist Party won) or Sind. It was the largest party in Madras and Assam. Hence Punjab and Sind.",
         "defective":  false
     },
     {
@@ -6567,7 +6567,7 @@
                         "1952"
                     ],
         "answer":  "d",
-        "explanation":  "The first Delimitation Commission was constituted in 1952 (under the Delimitation Commission Act, 1952).",
+        "explanation":  "The first Delimitation Commission was set up in 1952 (under the Delimitation Commission Act, 1952) to draw constituency boundaries for the first general elections.",
         "defective":  false
     },
     {
@@ -6592,7 +6592,7 @@
                         "The All India Depressed Classes Association favoured Ambedkar\u0027s demand for separate electorate for the depressed classes."
                     ],
         "answer":  "d",
-        "explanation":  "This is not correct — M.C. Rajah’s Depressed Classes Association favoured joint electorates (leading to the Rajah-Moonje Pact), opposing separate electorates. The other statements are correct.",
+        "explanation":  "M. C. Rajah\u0027s Association favoured joint electorates (leading to the Rajah-Moonje Pact) and thus opposed Ambedkar\u0027s separate-electorate demand — so statement d is false. The rest (Nagpur founding, Ambedkar\u0027s 1926 absence, his 1930 breakaway) are correct.",
         "defective":  false
     },
     {
@@ -6617,7 +6617,7 @@
                         "It supported the call given by the Congress to boycott elections in 1920."
                     ],
         "answer":  "d",
-        "explanation":  "This is not correct — the Justice Party did not support the Congress’s 1920 election boycott; it contested and took office. The other statements are correct.",
+        "explanation":  "The Justice Party (Madras) contested the 1920 elections and took office, opposing the Congress boycott — so statement d is false. Its communal-representation demand, its landed/middle-class base, and the 28 reserved seats are correct.",
         "defective":  false
     },
     {
@@ -6642,7 +6642,7 @@
                         "At leastfive States"
                     ],
         "answer":  "c",
-        "explanation":  "To be recognised as a National Party (on this criterion), a party must be a recognised state party in at least four states.",
+        "explanation":  "One way to qualify as a National Party is to be recognised as a State party in at least four States (there are also vote-share and seat-based criteria). Hence four States.",
         "defective":  false
     },
     {
@@ -6667,7 +6667,7 @@
                         "It was a Communist party document, according to which the National Congress could play a great part and a foremost part in realising the anti-imperialist peoples front"
                     ],
         "answer":  "d",
-        "explanation":  "The Dutt-Bradley thesis (1936) was a Communist Party document on the Congress’s potential role in an anti-imperialist people’s front.",
+        "explanation":  "The Dutt-Bradley thesis (1936) was a Communist Party document (R. P. Dutt and Ben Bradley) arguing that the Congress could be the chief vehicle of a broad anti-imperialist people\u0027s front.",
         "defective":  false
     },
     {
@@ -6692,7 +6692,7 @@
                         "A unitary State in India"
                     ],
         "answer":  "b",
-        "explanation":  "The All India Depressed Classes Leaders’ Conference at Bombay (1931) demanded separate electorates for the untouchables (Ambedkar’s stand).",
+        "explanation":  "Reflecting Ambedkar\u0027s position, the conference demanded separate electorates for the untouchables — the issue that led to the Communal Award and then the Poona Pact.",
         "defective":  false
     },
     {
@@ -6717,7 +6717,7 @@
                         "Registered Unrecognised Parties"
                     ],
         "answer":  "c",
-        "explanation":  "The ECI classifies parties as National, State (recognised) and Registered Unrecognised. “Regional Parties” is not an official ECI category.",
+        "explanation":  "The ECI classifies parties as National, State (recognised) and Registered Unrecognised. \"Regional Parties\" is a loose, informal term — not an official ECI category.",
         "defective":  false
     },
     {
@@ -6742,7 +6742,7 @@
                         "Mobilisation of public opinion"
                     ],
         "answer":  "a",
-        "explanation":  "The moderates sought reforms within the system, not the overthrow of alien rule. Their methods were constitutional agitation, slow progress and mobilising public opinion.",
+        "explanation":  "The Moderates worked within the system — constitutional agitation, gradual progress and educating public opinion (\"prayer, petition, protest\"). They did not aim to overthrow British rule. Hence a.",
         "defective":  false
     },
     {
@@ -6767,7 +6767,7 @@
                         "1870"
                     ],
         "answer":  "d",
-        "explanation":  "The Poona Sarvajanik Sabha was established in 1870.",
+        "explanation":  "The Poona Sarvajanik Sabha was founded in 1870 (by Ranade and others) as a body to mediate between the government and the people — an early nationalist association.",
         "defective":  false
     },
     {
@@ -6792,7 +6792,7 @@
                         "Jawaharlal Nehru"
                     ],
         "answer":  "c",
-        "explanation":  "Gandhi suggested dissolving the Congress as a political organisation and replacing it with a Lok Sevak Sangh (in his last writings, 1948).",
+        "explanation":  "In his last note (Jan 1948), Gandhi proposed that the Congress — having won freedom — be disbanded as a party and reorganised into a Lok Sevak Sangh (a body of social workers).",
         "defective":  false
     },
     {
@@ -6819,7 +6819,7 @@
                         "None"
                     ],
         "answer":  "b",
-        "explanation":  "Answer: b) 2. Statements 1 and 2 are correct; statement 3 is wrong - A.O. Hume\u0027s all-India body was not formed \u0027as a rival\u0027 to earlier organisations, nor specifically to represent poor/marginalised Indians.",
+        "explanation":  "Only two statements are correct. The statement about A.O. Hume and the formation of the INC is inaccurate in its framing - the Congress emerged as an all-India political platform, not simply as a rival to earlier associations. Hence the answer is 2.",
         "defective":  false
     },
     {
@@ -6844,7 +6844,7 @@
                         "All India Congress Committee in 1947"
                     ],
         "answer":  "b",
-        "explanation":  "The wide-scale distribution of charkhas (Non-Cooperation/constructive programme) was decided by the AICC in 1921.",
+        "explanation":  "As part of the Non-Cooperation constructive programme, the AICC in 1921 decided to popularise the charkha and khadi widely — central to Gandhi\u0027s self-reliance and swadeshi programme.",
         "defective":  false
     },
     {
@@ -6869,7 +6869,7 @@
                         "Asoka Mehta"
                     ],
         "answer":  "a",
-        "explanation":  "Acharya Narendra Dev was a founder (and first president) of the Congress Socialist Party (1934).",
+        "explanation":  "The Congress Socialist Party (1934) was founded by socialists within the Congress, with Acharya Narendra Dev as its first president (and Jayaprakash Narayan as general secretary).",
         "defective":  false
     },
     {
@@ -6898,7 +6898,7 @@
                         "3, 4, 1, 2"
                     ],
         "answer":  "a",
-        "explanation":  "Earliest first: Poona Sarvajanik Sabha (1870) → Indian Association (1876) → Madras Mahajan Sabha (1884) → Bombay Presidency Association (1885). This is 1, 2, 3, 4.",
+        "explanation":  "Chronology: Poona Sarvajanik Sabha (1870) → Indian Association (1876) → Madras Mahajan Sabha (1884) → Bombay Presidency Association (1885) = 1, 2, 3, 4.",
         "defective":  false
     },
     {
@@ -6927,7 +6927,7 @@
                         "1 and 2 only"
                     ],
         "answer":  "a",
-        "explanation":  "Under Article 352 an emergency may be declared on grounds of war (1), external aggression (2) or armed rebellion (3). “Internal disturbance” (4) was replaced by “armed rebellion” via the 44th Amendment. Hence 1, 2 and 3.",
+        "explanation":  "A National Emergency (Article 352) can be proclaimed on grounds of war, external aggression or armed rebellion (1, 2, 3). \"Internal disturbance\" (4) was the original third ground but was replaced by \"armed rebellion\" by the 44th Amendment (1978). Hence 1, 2 and 3.",
         "defective":  false
     },
     {
@@ -6952,7 +6952,7 @@
                         "the judicial decisions of the Supreme Court"
                     ],
         "answer":  "a",
-        "explanation":  "Fundamental Rights can be suspended only through a proclamation of National Emergency (Article 352), via Articles 358/359.",
+        "explanation":  "Fundamental Rights can be suspended only during a National Emergency (Article 352) — Article 358 automatically suspends Article 19 (external emergency), and Article 359 lets the President suspend the enforcement of other rights (except Articles 20 and 21).",
         "defective":  false
     },
     {
@@ -6977,7 +6977,7 @@
                         "If the Governor of a State is satis ed that a situation has arisen whereby thefinancial stability or credit of the State is threatened, he may declare financial emergency in the State."
                     ],
         "answer":  "d",
-        "explanation":  "This is incorrect — a financial emergency (Article 360) is declared by the President for the country, not by a Governor for a state. The other statements are correct.",
+        "explanation":  "A financial emergency (Article 360) is declared by the President (for the whole country), not by a Governor for a State — so statement d is false. The Union directing States, reducing salaries during a financial emergency, and Governors lacking emergency powers are correct.",
         "defective":  false
     },
     {
@@ -7002,7 +7002,7 @@
                         "Article 15 and Article 16"
                     ],
         "answer":  "a",
-        "explanation":  "During a Proclamation of Emergency, the rights under Articles 20 and 21 cannot be suspended (44th Amendment). So the right to move courts for these remains.",
+        "explanation":  "After the 44th Amendment, even during an emergency the enforcement of Articles 20 (protection in respect of conviction) and 21 (life and personal liberty) cannot be suspended. So these two are the exception.",
         "defective":  false
     },
     {
@@ -7052,7 +7052,7 @@
                         "Armed rebellion"
                     ],
         "answer":  "c",
-        "explanation":  "“Internal disturbance” is no longer a ground for an Article 352 emergency (replaced by “armed rebellion” via the 44th Amendment). War, external aggression and armed rebellion are the grounds.",
+        "explanation":  "\"Internal disturbance\" is no longer a ground — the 44th Amendment replaced it with \"armed rebellion.\" So War, external aggression and armed rebellion are the grounds; internal disturbance is not.",
         "defective":  false
     },
     {
@@ -7077,7 +7077,7 @@
                         "Health Emergency"
                     ],
         "answer":  "d",
-        "explanation":  "The Constitution provides for three emergencies — National (352), State/President’s Rule (356) and Financial (360). “Health Emergency” is not a constitutional category.",
+        "explanation":  "The Constitution provides for three emergencies — National (352), State/President\u0027s Rule (356) and Financial (360). A \"Health Emergency\" is not a constitutional category.",
         "defective":  false
     },
     {
@@ -7102,7 +7102,7 @@
                         "Equality before law"
                     ],
         "answer":  "a",
-        "explanation":  "Article 20 (and Article 21) cannot be suspended even during an emergency, so “protection in respect of conviction for offences” (Article 20) is not suspended.",
+        "explanation":  "Article 20 (protection in respect of conviction) — along with Article 21 — cannot be suspended even during an emergency (44th Amendment). The right to move freely (Article 19) and others can be suspended, so option a is the one not suspended.",
         "defective":  false
     },
     {
@@ -7127,7 +7127,7 @@
                         "Article 368"
                     ],
         "answer":  "c",
-        "explanation":  "Dr. Ambedkar defended Article 356 (President’s Rule in states) saying it would remain a “dead letter” and be used only as a last resort.",
+        "explanation":  "Ambedkar defended Article 356 (President\u0027s Rule in a State), hoping it would remain a \"dead letter\" and be used only as a last resort. (In practice it has been used/misused many times.)",
         "defective":  false
     },
     {
@@ -7152,7 +7152,7 @@
                         "Article 317"
                     ],
         "answer":  "b",
-        "explanation":  "Article 311 provides constitutional safeguards (against arbitrary dismissal/removal/reduction in rank) to civil servants.",
+        "explanation":  "Article 311 gives civil servants protection against arbitrary dismissal, removal or reduction in rank (e.g. the right to an inquiry and a hearing). Article 310 is the \"doctrine of pleasure,\" 312 is on All India Services, 317 on removal of a PSC member.",
         "defective":  false
     },
     {
@@ -7177,7 +7177,7 @@
                         "The conditions of service to the All India Services may be altered by the UPSC."
                     ],
         "answer":  "a",
-        "explanation":  "All India Services are created by Parliament (Article 312, on a Rajya Sabha resolution) — this is correct. The other statements are wrong (RS resolution IS essential; UPSC does not frame the rules/conditions).",
+        "explanation":  "Under Article 312, Parliament can create new All India Services — but only after the Rajya Sabha passes a resolution by a two-thirds majority. So statement a is correct, while b (RS endorsement IS essential) and c/d (the UPSC does not frame the rules/conditions) are wrong.",
         "defective":  false
     },
     {
@@ -7202,7 +7202,7 @@
                         "Enforcement Directorate"
                     ],
         "answer":  "a",
-        "explanation":  "“Mission Satyanishtha,” a programme on ethics in public governance, was launched by the Indian Railways.",
+        "explanation":  "Mission Satyanishtha was launched by the Indian Railways to sensitise its employees to ethics and integrity in public service.",
         "defective":  false
     },
     {
@@ -7227,7 +7227,7 @@
                         "Sajjid Chinoy"
                     ],
         "answer":  "b",
-        "explanation":  "Bibek Debroy was the Chairman of the Economic Advisory Council to the Prime Minister (EAC-PM) at the time.",
+        "explanation":  "At the time of the paper, Bibek Debroy chaired the EAC-PM (an independent body advising the PM on economic matters). The others were members/associated economists.",
         "defective":  false
     },
     {
@@ -7252,7 +7252,7 @@
                         "the Health Minister."
                     ],
         "answer":  "a",
-        "explanation":  "The National Disaster Management Authority (NDMA) is chaired by the Prime Minister.",
+        "explanation":  "The NDMA, the apex disaster-management body (under the DM Act 2005), is chaired by the Prime Minister. (It functions under the Ministry of Home Affairs.)",
         "defective":  false
     },
     {
@@ -7281,7 +7281,7 @@
                         "3 and 4 only"
                     ],
         "answer":  "a",
-        "explanation":  "The Indian legal system comprises constitutional values/principles (1), rights/obligations under statutes (2), the organisational set-up to enforce them (3), and legal and judicial persons (4). All four.",
+        "explanation":  "The legal system comprises constitutional values/principles (1), the rights/obligations under statutes (2), the institutional machinery to enforce them (3), and legal and judicial persons (4). All four are components.",
         "defective":  false
     },
     {
@@ -7306,7 +7306,7 @@
                         "It has been accorded Constitutional status in 2021."
                     ],
         "answer":  "a",
-        "explanation":  "The National Recruitment Agency conducts the Common Eligibility Test (CET) for non-gazetted Group B and Group C posts. The other statements are wrong (it is not constitutional, not 2014, not private-sector).",
+        "explanation":  "The NRA conducts a Common Eligibility Test (CET) to shortlist candidates for non-gazetted Group B and C posts (replacing multiple separate exams). The other statements are wrong — it is not for the private sector, not set up in 2014, and not a constitutional body.",
         "defective":  false
     },
     {
@@ -7335,7 +7335,7 @@
                         "1, 3 and 4"
                     ],
         "answer":  "c",
-        "explanation":  "Saakshar Bharat was launched in the 11th Plan (1), targets women and disadvantaged groups (2), and is anchored with Panchayati Raj/local bodies (4). Statement 3 is wrong — it targeted those aged 15 and above (not 10). Hence 1, 2 and 4.",
+        "explanation":  "Saakshar Bharat (adult literacy) was launched in the 11th Plan (1), targeted women and disadvantaged groups (2), and worked through Panchayati Raj institutions (4). Statement 3 is wrong — it targeted persons aged 15 and above, not 10. Hence 1, 2 and 4.",
         "defective":  false
     },
     {
@@ -7360,7 +7360,7 @@
                         "A Village Development Plan would be prepared for every identified Gram Panchayat."
                     ],
         "answer":  "c",
-        "explanation":  "This is not a defining feature of SAGY — the scheme has no separate funds for infrastructure; it emphasises community participation, MP guidance and a Village Development Plan, focusing on holistic/social development.",
+        "explanation":  "The Saansad Adarsh Gram Yojana (SAGY) is a holistic village-development scheme: physical infrastructure is only one component, alongside social development, human development and improved governance. It is therefore not an infrastructure-only scheme.",
         "defective":  false
     },
     {
@@ -7385,7 +7385,7 @@
                         "The National Development Council (NDC)"
                     ],
         "answer":  "a",
-        "explanation":  "The Prime Minister’s National Relief Fund (PMNRF) is operated by the PMO.",
+        "explanation":  "The PMNRF (funded entirely by public donations) is operated by the PMO, with the Prime Minister as chairperson, to give relief to families affected by disasters and for medical treatment.",
         "defective":  false
     },
     {
@@ -7410,7 +7410,7 @@
                         "It is a workshop for newly elected Members of Parliament organized routinely by the Lok Sabha Secretariat."
                     ],
         "answer":  "b",
-        "explanation":  "NISHTHA is a national teacher-training/capacity-building programme for school teachers.",
+        "explanation":  "NISHTHA (National Initiative for School Heads\u0027 and Teachers\u0027 Holistic Advancement) is a large-scale teacher-training/capacity-building programme under the school-education ministry. It is not for civil servants, police or MPs.",
         "defective":  false
     },
     {
@@ -7435,7 +7435,7 @@
                         "It is a scheme of the Government of India for bene tting migrants workers in the unorganized sector."
                     ],
         "answer":  "c",
-        "explanation":  "PM-JANMAN targets Particularly Vulnerable Tribal Groups (PVTGs), aiming to saturate tribal communities with government scheme benefits.",
+        "explanation":  "PM-JANMAN (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan) aims to saturate Particularly Vulnerable Tribal Groups (PVTGs) with basic facilities and the benefits of government schemes. It is not about electoral literacy, panchayats or migrant workers.",
         "defective":  false
     },
     {
@@ -7460,7 +7460,7 @@
                         "90th Amendment"
                     ],
         "answer":  "a",
-        "explanation":  "The 91st Amendment (2003) capped the Council of Ministers at 15% of the strength of the House of the People/State Assembly.",
+        "explanation":  "The 91st Amendment (2003) capped the size of the Council of Ministers at 15% of the House\u0027s strength (and tightened the anti-defection law). The 97th dealt with cooperatives, the 87th with census-based delimitation.",
         "defective":  false
     },
     {
@@ -7485,7 +7485,7 @@
                         "Right to Education"
                     ],
         "answer":  "c",
-        "explanation":  "The 44th Amendment (1978) removed the Right to Property from the Fundamental Rights, making it a legal/constitutional right under Article 300A.",
+        "explanation":  "The 44th Amendment (1978) removed the Right to Property from the list of Fundamental Rights, making it an ordinary legal/constitutional right under Article 300A. The others remain Fundamental Rights.",
         "defective":  false
     },
     {
@@ -7513,7 +7513,7 @@
                         "1 and 2 only"
                     ],
         "answer":  "d",
-        "explanation":  "The amendment procedure is in Article 368 (1), and an amendment bill can be introduced in either House (2). Statement 3 is wrong — Article 368 vests constituent power exercised by a special procedure, not “ordinary legislation.” Hence 1 and 2 only.",
+        "explanation":  "The amendment procedure is in Article 368 (1), and a Constitution Amendment Bill can start in either House (2). Statement 3 is wrong — amendment is an exercise of constituent power through a special procedure, not \"ordinary legislation.\" Hence 1 and 2 only.",
         "defective":  false
     },
     {
@@ -7538,7 +7538,7 @@
                         "The previous sanction of the President of India is not required for introducing any Bill in the Parliament for amendment of the Constitution of India."
                     ],
         "answer":  "b",
-        "explanation":  "This is incorrect — there is no joint sitting for a constitutional amendment bill (each House must pass it by the special majority separately). The other statements are correct.",
+        "explanation":  "There is no joint sitting for a Constitution Amendment Bill — each House must pass it separately by a special majority — so statement b is false. It being governed by Article 368, States being unable to initiate it, and no prior presidential sanction needed are correct.",
         "defective":  false
     },
     {
@@ -7563,7 +7563,7 @@
                         "The Constitution 103rd Amendment Act"
                     ],
         "answer":  "d",
-        "explanation":  "The 103rd Amendment (2019) introduced 10% reservation in education and public employment for the Economically Weaker Sections (EWS).",
+        "explanation":  "The 103rd Amendment (2019) provided up to 10% reservation for the EWS (economically weaker sections of the general category) in education and public jobs. The 101st brought GST, the 102nd gave the NCBC constitutional status.",
         "defective":  false
     },
     {
@@ -7590,7 +7590,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "b",
-        "explanation":  "The 42nd Amendment changed “Unity of the Nation” to “Unity and Integrity of the Nation” (2, correct). Statement 1 is wrong — the liberty clause (“thought, expression, belief, faith and worship”) was already in the original Preamble. Hence 2 only.",
+        "explanation":  "The 42nd Amendment changed \"Unity of the Nation\" to \"Unity and Integrity of the Nation\" (adding \"integrity\") (2, correct). Statement 1 is wrong — the liberty clause already read \"thought, expression, belief, faith and worship\" in the original Preamble; the 42nd Amendment did not alter it. Hence 2 only.",
         "defective":  false
     },
     {
@@ -7615,7 +7615,7 @@
                         "Petroleum and petroleum products shall not be subjected to the levy of GST."
                     ],
         "answer":  "b",
-        "explanation":  "GST subsumes both central taxes (excise, service tax) and state taxes (VAT, etc.) into one tax — this is its core feature. The other statements are wrong (it does not replace all taxes by a single tax; alcohol is excluded; petroleum is kept out initially).",
+        "explanation":  "The defining feature of GST is that it subsumes both central taxes (excise, service tax) and State taxes (VAT, etc.) into one tax (b). The other statements are wrong — it does not replace all taxes with a single tax, alcohol is excluded, and petroleum is constitutionally within GST but kept zero-rated initially.",
         "defective":  false
     },
     {
@@ -7640,7 +7640,7 @@
                         "destination-based tax"
                     ],
         "answer":  "a",
-        "explanation":  "GST is a value-added, consumption-based, destination-based tax — it is NOT a gross value tax (it allows input tax credit, avoiding tax-on-tax).",
+        "explanation":  "GST is a value-added, consumption-based and destination-based tax — it allows input tax credit, so tax is paid only on value added (avoiding \"tax on tax\"). Hence it is not a gross value tax.",
         "defective":  false
     },
     {
@@ -7665,7 +7665,7 @@
                         "The GST Council had recommended for constitutional amendment so that its power enhances."
                     ],
         "answer":  "b",
-        "explanation":  "A constitutional amendment (adding Article 246A) was needed because GST required both the Centre and States to tax goods and services concurrently, which the existing Article 246 division did not allow.",
+        "explanation":  "GST required both the Centre and the States to tax the same supply of goods and services concurrently — which the existing Article 246 division of powers did not allow. So a new Article 246A was added by the 101st Amendment.",
         "defective":  false
     },
     {
@@ -7715,7 +7715,7 @@
                         "The State Goods and Services Tax Act"
                     ],
         "answer":  "d",
-        "explanation":  "Parliament enacted the CGST, IGST and GST (Compensation to States) Acts (and UTGST). The SGST Acts are enacted by individual State legislatures, not Parliament. Hence (d).",
+        "explanation":  "Parliament enacted the CGST, IGST, UTGST and the GST (Compensation to States) Acts. The State GST (SGST) Acts are passed by individual State Legislatures, not by Parliament — so option d is the exception.",
         "defective":  false
     },
     {
@@ -7740,7 +7740,7 @@
                         "Taxes on Petroleum and Petroleum Products"
                     ],
         "answer":  "d",
-        "explanation":  "Answer: d) Taxes on Petroleum and Petroleum Products (kept outside GST). Note: option a) Customs Duties is also somewhat ambiguous because basic customs duty lies outside GST; however, petroleum products remain the intended/keyed answer.",
+        "explanation":  "Petroleum and petroleum products remain outside the regular GST levy, so taxes on them were not subsumed under GST. On customs: Basic Customs Duty was NOT subsumed, whereas the Countervailing Duty (CVD) and Special Additional Duty (SAD) were subsumed - so option a (customs duties) is partly ambiguous, but petroleum is the intended answer.",
         "defective":  false
     },
     {
@@ -7765,7 +7765,7 @@
                         "Unworked diamond is taxed at a rate of 0.25%."
                     ],
         "answer":  "c",
-        "explanation":  "Answer: c) Precious metals are taxed at 1% under GST - this is the incorrect statement, since gold/precious metals are taxed at 3%, not 1%. (The statement on the 122nd/101st Amendment is loosely worded; unworked diamonds at 0.25% is correct.)",
+        "explanation":  "Precious metals/gold are taxed at 3% under GST, not 1% — so statement c is the clear factual error. (Statement b about the 122nd Amendment is also loosely worded; among the options the 1% rate is the unambiguous mistake.) Unworked diamond at 0.25% (d) is correct.",
         "defective":  false
     },
     {
@@ -7790,7 +7790,7 @@
                         "Constitution One Hundred and Sixth Amendment Act"
                     ],
         "answer":  "a",
-        "explanation":  "GST was introduced by the Constitution (One Hundred and First Amendment) Act, 2016, adding Article 246A and 269A.",
+        "explanation":  "The 101st Amendment Act, 2016 introduced GST — adding Article 246A (concurrent taxing power) and Article 269A (which assigns IGST on inter-state trade to be levied and apportioned by the Centre). The 102nd dealt with the NCBC, the 104th with reservations.",
         "defective":  false
     },
     {
@@ -7815,7 +7815,7 @@
                         "Justice Y.K. Sabharwal"
                     ],
         "answer":  "a",
-        "explanation":  "Justice M.N. Venkatachaliah chaired the National Commission to Review the Working of the Constitution (2000).",
+        "explanation":  "The National Commission to Review the Working of the Constitution (NCRWC, 2000) was chaired by former Chief Justice M. N. Venkatachaliah. The others chaired different commissions.",
         "defective":  false
     },
     {
@@ -7842,7 +7842,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "c",
-        "explanation":  "The First Law Commission (under Macaulay) recommended the IPC, 1860 (1), and the IPC has now been replaced by the Bharatiya Nyaya Sanhita, 2023 (2). Both correct.",
+        "explanation":  "The First Law Commission (under Macaulay) drafted the IPC (enacted 1860) (1), and the IPC has now been replaced by the Bharatiya Nyaya Sanhita, 2023 (effective July 2024) (2). Both correct.",
         "defective":  false
     },
     {
@@ -7867,7 +7867,7 @@
                         "Turkey"
                     ],
         "answer":  "d",
-        "explanation":  "In 2022 the UN agreed to change the country name “Turkey” to “Türkiye.”",
+        "explanation":  "In 2022 the UN agreed to officially change the country\u0027s name from \"Turkey\" to \"Türkiye\" at the country\u0027s own request.",
         "defective":  false
     },
     {
@@ -7892,7 +7892,7 @@
                         "Environmental Organisations"
                     ],
         "answer":  "a",
-        "explanation":  "“Blue Helmets” are the United Nations peacekeeping forces.",
+        "explanation":  "\"Blue Helmets\" is the nickname for UN Peacekeeping forces, so called for the distinctive blue helmets/berets they wear while serving under the UN flag.",
         "defective":  false
     },
     {
@@ -7917,7 +7917,7 @@
                         "United Nations Economic and Social Council"
                     ],
         "answer":  "b",
-        "explanation":  "The line “since wars begin in the minds of men…” is from the Preamble to the Constitution of UNESCO.",
+        "explanation":  "This famous line is from the Preamble to the Constitution of UNESCO — reflecting its mission to build peace through education, science and culture.",
         "defective":  false
     },
     {
@@ -7946,7 +7946,7 @@
                         "1, 2 and 4"
                     ],
         "answer":  "d",
-        "explanation":  "From the British Constitution India borrowed the Rule of Law (1), the law-making procedure (2) and the parliamentary system (4). Independence of the judiciary (3) is associated with the US model. Hence 1, 2 and 4.",
+        "explanation":  "From Britain India borrowed the Rule of Law (1), the law-making/legislative procedure (2) and the parliamentary system (4). The independence of the judiciary (3) is associated with the US model (along with judicial review). Hence 1, 2 and 4.",
         "defective":  false
     },
     {
@@ -7975,7 +7975,7 @@
                         "1 and 4"
                     ],
         "answer":  "d",
-        "explanation":  "Sir Syed saw India as a federation of ethnic communities of common descent (1), and the MAO College blended Muslim theology with European empiricism (4). His philosophy was not like the INC’s (2), nor did he imagine India as a nation-state of individual citizens (3). Hence 1 and 4.",
+        "explanation":  "Sir Syed saw India as a federation of ethnic communities (1), and his MAO College combined Muslim theology with modern European learning (4). His views diverged from the INC\u0027s (2 wrong), and he did not conceive India as a nation of equal individual citizens (3 wrong). Hence 1 and 4.",
         "defective":  false
     },
     {
@@ -8000,7 +8000,7 @@
                         "It often acts as a check on democratic rule, particularly when their members are non-elected or indirectly elected."
                     ],
         "answer":  "d",
-        "explanation":  "This is a criticism/drawback of bicameralism, not a strength/benefit. Checking the first chamber, checking the executive and acting as a constitutional safeguard are the benefits.",
+        "explanation":  "Option d describes a criticism/drawback of bicameralism (an unelected/indirectly-elected upper house can frustrate the democratically-elected lower house) — not a benefit. The other three (checking majoritarianism, checking the executive, acting as a constitutional safeguard) are genuine benefits.",
         "defective":  false
     },
     {
@@ -8027,7 +8027,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  "d",
-        "explanation":  "Both statements are wrong — empirical knowledge is value-neutral/objective (not value-loaded), and normative knowledge is value-laden (not objectively neutral). Hence neither.",
+        "explanation":  "Both are reversed — the empirical approach (based on facts/observation) is value-neutral/objective, while the normative approach (based on values/\"what ought to be\") is value-laden. So neither statement is correct.",
         "defective":  false
     },
     {
@@ -8052,7 +8052,7 @@
                         "Autonomy of civil society"
                     ],
         "answer":  "d",
-        "explanation":  "A totalitarian regime suppresses the autonomy of civil society, so this cannot be its feature. State control of life, a media monopoly and a one-party state are features.",
+        "explanation":  "A totalitarian regime suppresses civil society and controls all spheres of life — so autonomy of civil society cannot be its feature. Pervasive state control, a media monopoly and a one-party state are hallmarks of totalitarianism.",
         "defective":  false
     },
     {
@@ -8081,7 +8081,7 @@
                         "1, 2, 3 and 4"
                     ],
         "answer":  "b",
-        "explanation":  "The NOT-correct statements are 2 (globalisation is also cultural, not only economic) and 3 (the Washington Consensus favours free markets/deregulation, not market intervention). Statements 1 (hard power) and 4 (autarky = self-sufficiency) are correct. Hence 2 and 3 only.",
+        "explanation":  "The not-correct statements are 2 (globalisation is also cultural, not only economic) and 3 (the Washington Consensus favours free markets and deregulation, not market intervention). Statements 1 (hard power) and 4 (autarky = self-sufficiency) are correct. Hence 2 and 3 only.",
         "defective":  false
     },
     {
@@ -8116,7 +8116,7 @@
                         "A-1 B-2 C-4 D-3"
                     ],
         "answer":  "c",
-        "explanation":  "“Human beings possess dignity” → Kant (3); “Swaraj when we learn to rule ourselves” → Gandhi (4); “Freedom implies equal distribution of wealth” → Subhas Chandra Bose (2); “Real freedom is freedom from fear” → Aung San Suu Kyi (1). Hence A-3, B-4, C-2, D-1.",
+        "explanation":  "\"Human beings possess dignity\" → Kant (3); \"Swaraj is learning to rule ourselves\" → Gandhi (4); \"freedom = emancipation + equal distribution of wealth\" → Subhas Chandra Bose (2); \"real freedom is freedom from fear\" → Aung San Suu Kyi (1). So A-3, B-4, C-2, D-1.",
         "defective":  false
     }
 ]
