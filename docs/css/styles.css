@@ -30,7 +30,7 @@ img{max-width:100%;display:block}
 }
 .brand h1{margin:0;font-size:20px;letter-spacing:.3px}
 .brand .by{color:var(--gold-soft);font-size:13px;margin-top:2px;font-weight:600}
-.brand .sub{color:#c7d2e2;font-size:12.5px;margin-top:6px}
+.brand .sub{color:#fff;font-size:20px;font-weight:800;letter-spacing:.2px;margin-top:8px}
 /* when the banner image is present it already carries the logo + name — hide the duplicate text block */
 .header.has-banner .brand{padding:8px 16px 10px}
 .header.has-banner .brand .v3{display:none}
