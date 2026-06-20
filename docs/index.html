@@ -17,7 +17,8 @@
     <div class="sub">CDS Previous Year Questions · Topic-wise Library</div>
   </div>
   <nav class="nav">
-    <a href="index.html" class="active">Browse</a>
+    <a href="index.html" class="active">Home</a>
+    <a href="browse.html">Browse</a>
     <a href="quiz.html">Random 50 Quiz</a>
   </nav>
 </header>
@@ -25,44 +26,11 @@
 <main class="wrap">
   <div class="stats" id="stats">Loading…</div>
 
-  <section class="filters" aria-label="Filters">
-    <div class="row cols">
-      <div class="field">
-        <label for="f-subject">Subject</label>
-        <select id="f-subject"></select>
-      </div>
-      <div class="field">
-        <label for="f-topic">Topic</label>
-        <select id="f-topic"></select>
-      </div>
-      <div class="field">
-        <label for="f-subtopic">Subtopic</label>
-        <select id="f-subtopic"></select>
-      </div>
-      <div class="field">
-        <label for="f-paper">Year / Paper</label>
-        <select id="f-paper"></select>
-      </div>
-      <div class="field">
-        <label for="f-sort">Sort</label>
-        <select id="f-sort">
-          <option value="year-desc">Year — newest first</option>
-          <option value="year-asc">Year — oldest first</option>
-          <option value="topic">Topic (A–Z)</option>
-        </select>
-      </div>
-    </div>
-    <div class="field">
-      <label for="f-search">Search question text</label>
-      <input id="f-search" type="search" placeholder="e.g. monsoon, tectonic plate, Gulf Stream…">
-    </div>
-    <div class="actions">
-      <span class="result-count" id="rcount"></span>
-      <button class="btn ghost" id="f-reset">Reset filters</button>
-    </div>
-  </section>
+  <h2 class="hub-h">Choose a subject</h2>
+  <div class="hub-grid" id="subject-cards"><div class="loading">Loading subjects…</div></div>
 
-  <div id="results"><div class="loading">Loading questions…</div></div>
+  <h2 class="hub-h">Or explore everything</h2>
+  <div class="hub-grid" id="global-cards"></div>
 </main>
 
 <footer>
@@ -71,6 +39,6 @@
 </footer>
 
 <script src="js/data.js"></script>
-<script src="js/browse.js"></script>
+<script src="js/home.js"></script>
 </body>
 </html>

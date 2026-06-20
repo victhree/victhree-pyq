@@ -187,6 +187,29 @@ function onResultsClick(e) {
 
 function debounce(fn, ms) { let t; return () => { clearTimeout(t); t = setTimeout(fn, ms); }; }
 
+/* header above the filters: back link, title, and the scoped Random-50 button */
+function renderSubjectHead(name) {
+  const el = $('subjecthead');
+  if (!el) return;
+  if (name) {
+    const s = VT.manifest.subjects.find(x => x.name === name);
+    document.title = `${name} — VicThree Defence CDS PYQ`;
+    el.innerHTML =
+      `<a class="back" href="index.html">← All subjects</a>
+       <div class="sh-row">
+         <h2 class="sh-title">${esc(name)} <span class="sh-count">${s ? s.count : ''} Qs</span></h2>
+         <a class="btn quizbtn" href="quiz.html?subject=${encodeURIComponent(name)}">🎲 Random 50 — ${esc(name)}</a>
+       </div>`;
+  } else {
+    el.innerHTML =
+      `<a class="back" href="index.html">← Home</a>
+       <div class="sh-row">
+         <h2 class="sh-title">All PYQs</h2>
+         <a class="btn quizbtn" href="quiz.html">🎲 Random 50 — all subjects</a>
+       </div>`;
+  }
+}
+
 async function init() {
   els.subject = $('f-subject'); els.topic = $('f-topic'); els.subtopic = $('f-subtopic');
   els.paper = $('f-paper');
@@ -203,6 +226,15 @@ async function init() {
 
   const subs = VT.manifest.subjects.map(s => ({ value: s.name, label: `${s.name} (${s.count})` }));
   fillSelect(els.subject, subs, 'All subjects');
+
+  // subject scope from ?subject= : lock the subject + hide its dropdown
+  const param = new URLSearchParams(location.search).get('subject');
+  const locked = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
+  if (locked) {
+    els.subject.value = locked;
+    const fld = $('field-subject'); if (fld) fld.style.display = 'none';
+  }
+  renderSubjectHead(locked);
   refreshDependentFilters();
 
   els.subject.addEventListener('change', () => { refreshDependentFilters(); applyFilters(); });
@@ -213,7 +245,8 @@ async function init() {
   els.search.addEventListener('input', debounce(applyFilters, 180));
   els.results.addEventListener('click', onResultsClick);
   $('f-reset').addEventListener('click', () => {
-    els.subject.value = '__all__'; els.sort.value = 'year-desc'; els.search.value = '';
+    if (!locked) els.subject.value = '__all__';
+    els.sort.value = 'year-desc'; els.search.value = '';
     refreshDependentFilters(); applyFilters();
   });
 

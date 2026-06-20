@@ -50,6 +50,39 @@ img{max-width:100%;display:block}
 }
 .stats b{color:var(--navy)}
 
+/* ---------- Home hub ---------- */
+.hub-h{font-size:15px;color:var(--navy);margin:18px 2px 10px;font-weight:800;letter-spacing:.2px}
+.hub-grid{display:grid;gap:10px}
+.hub-card{
+  display:flex;align-items:center;gap:14px;background:var(--card);border:1px solid var(--line);
+  border-radius:var(--radius);padding:16px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);
+  transition:transform .12s,border-color .12s,box-shadow .12s
+}
+.hub-card:hover{transform:translateY(-2px);border-color:var(--gold);box-shadow:0 6px 22px rgba(11,31,58,.12)}
+.hub-ico{font-size:28px;line-height:1;flex:0 0 auto;width:46px;height:46px;display:flex;
+  align-items:center;justify-content:center;background:var(--paper);border-radius:12px}
+.hub-body{flex:1 1 auto;min-width:0}
+.hub-title{font-weight:800;font-size:17px;color:var(--navy)}
+.hub-sub{font-size:13px;color:var(--muted);margin-top:3px}
+.hub-sub b{color:var(--navy)}
+.hub-go{font-size:26px;color:var(--gold);font-weight:800;flex:0 0 auto;line-height:1}
+.hub-card.accent{background:linear-gradient(135deg,var(--navy),var(--navy-3));border-color:var(--navy-3)}
+.hub-card.accent .hub-title{color:#fff}
+.hub-card.accent .hub-sub,.hub-card.accent .hub-sub b{color:#dfe7f2}
+.hub-card.accent .hub-ico{background:rgba(255,255,255,.1)}
+.hub-card.accent .hub-go{color:var(--gold-soft)}
+@media(min-width:680px){ .hub-grid{grid-template-columns:1fr 1fr} .hub-card.wide{grid-column:1 / -1} }
+
+/* ---------- Subject header (scoped browse) ---------- */
+.subjecthead{margin:2px 0 12px}
+.back{display:inline-block;text-decoration:none;color:var(--muted);font-weight:700;font-size:13px;margin-bottom:8px}
+.back:hover{color:var(--navy)}
+.sh-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.sh-title{margin:0;font-size:22px;color:var(--navy)}
+.sh-count{font-size:13px;color:var(--muted);font-weight:700}
+.btn.quizbtn{text-decoration:none;display:inline-block}
+.quiz-intro .back{margin-bottom:12px}
+
 /* ---------- Filters ---------- */
 .filters{
   background:var(--card);border:1px solid var(--line);border-radius:var(--radius);

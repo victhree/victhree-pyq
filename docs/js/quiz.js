@@ -4,11 +4,13 @@ let pool = [];        // gradeable questions (have a-d answer + 4 options)
 let current = [];     // the 50 selected
 let answers = {};     // id -> chosen letter
 let submitted = false;
+let quizSubject = null;  // null = all subjects
 
 function $(id){ return document.getElementById(id); }
 
 function gradeablePool() {
   return VT.questions.filter(q =>
+    (!quizSubject || q.subject === quizSubject) &&
     q.answer && LETTERS.includes(q.answer) &&
     (q.options || []).filter(o => o !== '').length === 4
   );
@@ -17,11 +19,16 @@ function gradeablePool() {
 function intro() {
   const max = pool.length;
   const n = Math.min(QUIZ_SIZE, max);
+  const backHref = quizSubject ? 'browse.html?subject=' + encodeURIComponent(quizSubject) : 'index.html';
+  const scopeTitle = quizSubject ? `${esc(quizSubject)} — Random ${n}-Question Quiz` : `Random ${n}-Question Quiz`;
+  const scopeText = quizSubject
+    ? `Pulled at random from <b>${max}</b> answerable ${esc(quizSubject)} questions.`
+    : `Pulled at random from all <b>${max}</b> answerable questions across every subject, topic and year.`;
   $('quiz').innerHTML = `
     <div class="quiz-intro">
-      <h2>Random ${n}-Question Quiz</h2>
-      <p>Pulled at random from all <b>${max}</b> answerable questions across every subject, topic and year.
-         Untimed — answer at your own pace, then submit to see your score with explanations.</p>
+      <a class="back" href="${backHref}">← Back</a>
+      <h2>${scopeTitle}</h2>
+      <p>${scopeText} Untimed — answer at your own pace, then submit to see your score with explanations.</p>
       <button class="btn block" id="start">Start quiz</button>
     </div>`;
   $('start').addEventListener('click', startQuiz);
@@ -151,6 +158,8 @@ async function init() {
     return;
   }
   renderHeaderStats('stats');
+  const param = new URLSearchParams(location.search).get('subject');
+  quizSubject = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
   pool = gradeablePool();
   if (!pool.length) {
     $('quiz').innerHTML = `<div class="empty">No answerable questions available yet.</div>`;
