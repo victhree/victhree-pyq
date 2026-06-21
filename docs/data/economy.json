@@ -35,9 +35,11 @@
         "paper":  "CDS 2017-I",
         "qno":  72,
         "ref":  "CDS 2017-I, Q.72",
-        "stem":  "About the Trans-Pacific Partnership (TPP): 1. Signed by 12 Pacific Rim nations in 2015. 2. Member countries account for about 40% of global GDP. 3. India is a founder member of TPP.",
+        "stem":  "About the Trans-Pacific Partnership (TPP):",
         "subs":  [
-
+                     "1. Signed by 12 Pacific Rim nations in 2015.",
+                     "2. Member countries account for about 40% of global GDP.",
+                     "3. India is a founder member of TPP."
                  ],
         "options":  [
                         "1, 2 and 3",
@@ -135,9 +137,12 @@
         "paper":  "CDS 2020-II",
         "qno":  4,
         "ref":  "CDS 2020-II, Q.4",
-        "stem":  "[Tax receipts as % of GDP: 1. Corporation Tax 2. Income Tax 3. GST 4. Union Excise Duties.] Which is the correct descending order of these tax receipts as a percentage of GDP?",
+        "stem":  "[Tax receipts as % of GDP:",
         "subs":  [
-
+                     "1. Corporation Tax",
+                     "2. Income Tax",
+                     "3. GST",
+                     "4. Union Excise Duties.] Which is the correct descending order of these tax receipts as a percentage of GDP?"
                  ],
         "options":  [
                         "1, 2, 3, 4",
@@ -335,9 +340,9 @@
         "paper":  "CDS 2024-I",
         "qno":  66,
         "ref":  "CDS 2024-I, Q.66",
-        "stem":  "1. The GDP deflator captures the average price of an unchanging basket of commodities. 2. The GDP deflator can measure real GDP but not the inflation rate.",
+        "stem":  "1. The GDP deflator captures the average price of an unchanging basket of commodities.",
         "subs":  [
-
+                     "2. The GDP deflator can measure real GDP but not the inflation rate."
                  ],
         "options":  [
                         "1 only",
@@ -360,9 +365,11 @@
         "paper":  "CDS 2024-I",
         "qno":  73,
         "ref":  "CDS 2024-I, Q.73",
-        "stem":  "Per capita GDP depends upon: 1. Proportion of population in the working age. 2. Work participation rate. 3. Per-worker productivity.",
+        "stem":  "Per capita GDP depends upon:",
         "subs":  [
-
+                     "1. Proportion of population in the working age.",
+                     "2. Work participation rate.",
+                     "3. Per-worker productivity."
                  ],
         "options":  [
                         "3 only",
@@ -410,9 +417,10 @@
         "paper":  "CDS 2025-II",
         "qno":  74,
         "ref":  "CDS 2025-II, Q.74",
-        "stem":  "About innovation and R\u0026D in India: 1. India\u0027s Global Innovation Index rank improved significantly between 2015 and 2024. 2. Effective capital expenditure as % of GDP increased from 2020-21 to 2023-24.",
+        "stem":  "About innovation and R\u0026D in India:",
         "subs":  [
-
+                     "1. India\u0027s Global Innovation Index rank improved significantly between 2015 and 2024.",
+                     "2. Effective capital expenditure as % of GDP increased from 2020-21 to 2023-24."
                  ],
         "options":  [
                         "1 only",
@@ -435,9 +443,9 @@
         "paper":  "CDS 2025-II",
         "qno":  76,
         "ref":  "CDS 2025-II, Q.76",
-        "stem":  "1. Effective capital expenditure as % of GDP increased from 2020-21 to 2023-24. 2. Expenditure on revenue account as % of GDP increased from 2020-21 to 2023-24.",
+        "stem":  "1. Effective capital expenditure as % of GDP increased from 2020-21 to 2023-24.",
         "subs":  [
-
+                     "2. Expenditure on revenue account as % of GDP increased from 2020-21 to 2023-24."
                  ],
         "options":  [
                         "1 only",
@@ -535,9 +543,12 @@
         "paper":  "CDS 2017-I",
         "qno":  90,
         "ref":  "CDS 2017-I, Q.90",
-        "stem":  "The Twelfth Plan focused on inclusive growth. Which were considered challenges for inclusiveness? 1. Poverty 2. Group inequality 3. Regional imbalance 4. Unemployment.",
+        "stem":  "The Twelfth Plan focused on inclusive growth. Which were considered challenges for inclusiveness?",
         "subs":  [
-
+                     "1. Poverty",
+                     "2. Group inequality",
+                     "3. Regional imbalance",
+                     "4. Unemployment."
                  ],
         "options":  [
                         "1, 3 and 4 only",
@@ -585,9 +596,11 @@
         "paper":  "CDS 2017-II",
         "qno":  29,
         "ref":  "CDS 2017-II, Q.29",
-        "stem":  "Arrange in sequence: 1. Mahalanobis Model 2. Plan Holiday 3. Rolling Plan.",
+        "stem":  "Arrange in sequence:",
         "subs":  [
-
+                     "1. Mahalanobis Model",
+                     "2. Plan Holiday",
+                     "3. Rolling Plan."
                  ],
         "options":  [
                         "1, 2, 3",
@@ -785,9 +798,12 @@
         "paper":  "CDS 2020-I",
         "qno":  117,
         "ref":  "CDS 2020-I, Q.117",
-        "stem":  "Match: A. Perfect competition B. Monopoly C. Monopolistic competition D. Oligopoly | 1. One producer selling one commodity 2. Few producers selling similar/almost similar products 3. Many producers selling differentiated products 4. Many producers selling similar products.",
+        "stem":  "Match: A. Perfect competition B. Monopoly C. Monopolistic competition D. Oligopoly |",
         "subs":  [
-
+                     "1. One producer selling one commodity",
+                     "2. Few producers selling similar/almost similar products",
+                     "3. Many producers selling differentiated products",
+                     "4. Many producers selling similar products."
                  ],
         "options":  [
                         "A-4 B-3 C-1 D-2",
@@ -960,9 +976,12 @@
         "paper":  "CDS 2022-I",
         "qno":  62,
         "ref":  "CDS 2022-I, Q.62",
-        "stem":  "Which factors signify monopolistic competition? 1. Differentiated products 2. Large number of buyers and sellers 3. Barriers to entry 4. Homogeneous products.",
+        "stem":  "Which factors signify monopolistic competition?",
         "subs":  [
-
+                     "1. Differentiated products",
+                     "2. Large number of buyers and sellers",
+                     "3. Barriers to entry",
+                     "4. Homogeneous products."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -985,9 +1004,11 @@
         "paper":  "CDS 2023-II",
         "qno":  23,
         "ref":  "CDS 2023-II, Q.23",
-        "stem":  "Which is/are UN Sustainable Development Goals? 1. Decent work and economic growth 2. Peace, justice and strong institutions 3. Responsible consumption and production.",
+        "stem":  "Which is/are UN Sustainable Development Goals?",
         "subs":  [
-
+                     "1. Decent work and economic growth",
+                     "2. Peace, justice and strong institutions",
+                     "3. Responsible consumption and production."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -1160,9 +1181,12 @@
         "paper":  "CDS 2021-II",
         "qno":  69,
         "ref":  "CDS 2021-II, Q.69",
-        "stem":  "Match: A. Lorenz curve B. Phillips curve C. Engel curve D. Laffer curve | 1. Inflation and employment 2. Tax rates and tax revenue 3. Inequality in income/wealth distribution 4. Income and proportion of expenditure on food.",
+        "stem":  "Match: A. Lorenz curve B. Phillips curve C. Engel curve D. Laffer curve |",
         "subs":  [
-
+                     "1. Inflation and employment",
+                     "2. Tax rates and tax revenue",
+                     "3. Inequality in income/wealth distribution",
+                     "4. Income and proportion of expenditure on food."
                  ],
         "options":  [
                         "A-3 B-4 C-1 D-2",
@@ -1260,9 +1284,12 @@
         "paper":  "CDS 2023-II",
         "qno":  32,
         "ref":  "CDS 2023-II, Q.32",
-        "stem":  "Effects of devaluation/depreciation of currency: 1. Increase in imports and decrease in exports. 2. Increase in exports and decrease in imports. 3. Increase in domestic inflation. 4. Decrease in domestic inflation.",
+        "stem":  "Effects of devaluation/depreciation of currency:",
         "subs":  [
-
+                     "1. Increase in imports and decrease in exports.",
+                     "2. Increase in exports and decrease in imports.",
+                     "3. Increase in domestic inflation.",
+                     "4. Decrease in domestic inflation."
                  ],
         "options":  [
                         "1 and 3 only",
@@ -1285,9 +1312,12 @@
         "paper":  "CDS 2023-II",
         "qno":  65,
         "ref":  "CDS 2023-II, Q.65",
-        "stem":  "Wholesale Price inflation rose in India during 2021-22 due to: 1. Sharp rise in international crude oil prices. 2. Decrease in economic activity post-Covid. 3. Disruption of global supply chains. 4. High freight cost.",
+        "stem":  "Wholesale Price inflation rose in India during 2021-22 due to:",
         "subs":  [
-
+                     "1. Sharp rise in international crude oil prices.",
+                     "2. Decrease in economic activity post-Covid.",
+                     "3. Disruption of global supply chains.",
+                     "4. High freight cost."
                  ],
         "options":  [
                         "2 and 3 only",
@@ -1310,9 +1340,10 @@
         "paper":  "CDS 2024-I",
         "qno":  31,
         "ref":  "CDS 2024-I, Q.31",
-        "stem":  "Regarding the weightage of articles in the Wholesale Price Index (WPI): 1. Fuel and power have higher weightage in WPI primary articles. 2. The weightage of manufactured products in WPI is higher than that of fuel and power.",
+        "stem":  "Regarding the weightage of articles in the Wholesale Price Index (WPI):",
         "subs":  [
-
+                     "1. Fuel and power have higher weightage in WPI primary articles.",
+                     "2. The weightage of manufactured products in WPI is higher than that of fuel and power."
                  ],
         "options":  [
                         "1 only",
@@ -1485,9 +1516,12 @@
         "paper":  "CDS 2023-II",
         "qno":  30,
         "ref":  "CDS 2023-II, Q.30",
-        "stem":  "Which government actions would contract the money supply? 1. Purchase of Treasury Bills by the central bank from the public. 2. Sale of Treasury Bills by the central bank to the public. 3. Sale of foreign exchange by the central bank. 4. Purchase of foreign exchange by the central bank.",
+        "stem":  "Which government actions would contract the money supply?",
         "subs":  [
-
+                     "1. Purchase of Treasury Bills by the central bank from the public.",
+                     "2. Sale of Treasury Bills by the central bank to the public.",
+                     "3. Sale of foreign exchange by the central bank.",
+                     "4. Purchase of foreign exchange by the central bank."
                  ],
         "options":  [
                         "1 and 4 only",
@@ -1535,9 +1569,10 @@
         "paper":  "CDS 2025-I",
         "qno":  66,
         "ref":  "CDS 2025-I, Q.66",
-        "stem":  "How can currency depreciation stimulate an increase in net exports? 1. By reducing export costs. 2. By reducing import prices.",
+        "stem":  "How can currency depreciation stimulate an increase in net exports?",
         "subs":  [
-
+                     "1. By reducing export costs.",
+                     "2. By reducing import prices."
                  ],
         "options":  [
                         "1 only",
@@ -1585,9 +1620,12 @@
         "paper":  "CDS 2017-II",
         "qno":  76,
         "ref":  "CDS 2017-II, Q.76",
-        "stem":  "Match: A. Fiscal Deficit B. Revenue Deficit C. Effective Revenue Deficit D. Primary Deficit | 1. Total Expenditure − Revenue Receipts − Non-debt Capital Receipts 2. Revenue Expenditure − Revenue Receipts 3. Revenue Deficit − Grants for Creation of Capital Assets 4. Fiscal Deficit − Interest Payments.",
+        "stem":  "Match: A. Fiscal Deficit B. Revenue Deficit C. Effective Revenue Deficit D. Primary Deficit |",
         "subs":  [
-
+                     "1. Total Expenditure − Revenue Receipts − Non-debt Capital Receipts",
+                     "2. Revenue Expenditure − Revenue Receipts",
+                     "3. Revenue Deficit − Grants for Creation of Capital Assets",
+                     "4. Fiscal Deficit − Interest Payments."
                  ],
         "options":  [
                         "1, 2, 3, 4",
@@ -1635,9 +1673,10 @@
         "paper":  "CDS 2018-II",
         "qno":  72,
         "ref":  "CDS 2018-II, Q.72",
-        "stem":  "Statement I: The overall fiscal deficit of the States stayed above the FRBM threshold of 3% for the third successive year in 2017-18. Statement II: Special Category States ran a higher fiscal deficit in 2017-18 than in 2016-17.",
+        "stem":  "Consider the following statements:",
         "subs":  [
-
+                     "Statement I: The overall fiscal deficit of the States stayed above the FRBM threshold of 3% for the third successive year in 2017-18.",
+                     "Statement II: Special Category States ran a higher fiscal deficit in 2017-18 than in 2016-17."
                  ],
         "options":  [
                         "Both the statements are individually true and Statement II is the correct explanation of Statement I",
@@ -1960,9 +1999,9 @@
         "paper":  "CDS 2020-II",
         "qno":  1,
         "ref":  "CDS 2020-II, Q.1",
-        "stem":  "[Sources of tax receipts, 2019-20 BE] 1. Corporation Tax",
+        "stem":  "[Sources of tax receipts, 2019-20 BE]",
         "subs":  [
-
+                     "1. Corporation Tax"
                  ],
         "options":  [
                         "",
@@ -1985,9 +2024,9 @@
         "paper":  "CDS 2020-II",
         "qno":  2,
         "ref":  "CDS 2020-II, Q.2",
-        "stem":  "[Sources of tax receipts, 2019-20 BE] 2. Taxes on Income other than Corporation Tax",
+        "stem":  "[Sources of tax receipts, 2019-20 BE]",
         "subs":  [
-
+                     "2. Taxes on Income other than Corporation Tax"
                  ],
         "options":  [
                         "",
@@ -2010,9 +2049,9 @@
         "paper":  "CDS 2020-II",
         "qno":  3,
         "ref":  "CDS 2020-II, Q.3",
-        "stem":  "[Sources of tax receipts, 2019-20 BE] 3. Goods and Services Tax",
+        "stem":  "[Sources of tax receipts, 2019-20 BE]",
         "subs":  [
-
+                     "3. Goods and Services Tax"
                  ],
         "options":  [
                         "",
@@ -2135,9 +2174,13 @@
         "paper":  "CDS 2024-I",
         "qno":  32,
         "ref":  "CDS 2024-I, Q.32",
-        "stem":  "If India enters FTAs, its export growth would depend upon: 1. Extent of tariff reduction vis-à-vis MFN tariffs. 2. Relaxation in rules of origin. 3. Relaxation in sanitary/phytosanitary measures. 4. Level of infrastructure in India. 5. Income in partner nations.",
+        "stem":  "If India enters FTAs, its export growth would depend upon:",
         "subs":  [
-
+                     "1. Extent of tariff reduction vis-à-vis MFN tariffs.",
+                     "2. Relaxation in rules of origin.",
+                     "3. Relaxation in sanitary/phytosanitary measures.",
+                     "4. Level of infrastructure in India.",
+                     "5. Income in partner nations."
                  ],
         "options":  [
                         "1, 3 and 4 only",
@@ -2210,9 +2253,11 @@
         "paper":  "CDS 2017-I",
         "qno":  73,
         "ref":  "CDS 2017-I, Q.73",
-        "stem":  "About Bitcoin: 1. It is a decentralized virtual currency. 2. It is generated through complex computer software. 3. The RBI recognized it as legal tender in January 2016.",
+        "stem":  "About Bitcoin:",
         "subs":  [
-
+                     "1. It is a decentralized virtual currency.",
+                     "2. It is generated through complex computer software.",
+                     "3. The RBI recognized it as legal tender in January 2016."
                  ],
         "options":  [
                         "1 only",
@@ -2235,9 +2280,12 @@
         "paper":  "CDS 2017-II",
         "qno":  30,
         "ref":  "CDS 2017-II, Q.30",
-        "stem":  "Monetary policy in India uses which tools? 1. Bank rate 2. Open market operations 3. Public debt 4. Public revenue.",
+        "stem":  "Monetary policy in India uses which tools?",
         "subs":  [
-
+                     "1. Bank rate",
+                     "2. Open market operations",
+                     "3. Public debt",
+                     "4. Public revenue."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -2435,9 +2483,12 @@
         "paper":  "CDS 2023-II",
         "qno":  31,
         "ref":  "CDS 2023-II, Q.31",
-        "stem":  "Which are included in Narrow Money (M1)? 1. Currency with the public 2. Demand deposits 3. Other deposits with the RBI 4. Bankers\u0027 deposits with the RBI.",
+        "stem":  "Which are included in Narrow Money (M1)?",
         "subs":  [
-
+                     "1. Currency with the public",
+                     "2. Demand deposits",
+                     "3. Other deposits with the RBI",
+                     "4. Bankers\u0027 deposits with the RBI."
                  ],
         "options":  [
                         "1, 2 and 4",
@@ -2460,9 +2511,10 @@
         "paper":  "CDS 2024-I",
         "qno":  30,
         "ref":  "CDS 2024-I, Q.30",
-        "stem":  "Regarding monetary-policy instruments: 1. The Standing Deposit Facility (SDF) rate was introduced in April 2022. 2. The SDF rate replaced the fixed reverse repo rate as the floor of the LAF corridor.",
+        "stem":  "Regarding monetary-policy instruments:",
         "subs":  [
-
+                     "1. The Standing Deposit Facility (SDF) rate was introduced in April 2022.",
+                     "2. The SDF rate replaced the fixed reverse repo rate as the floor of the LAF corridor."
                  ],
         "options":  [
                         "1 only",
@@ -2560,9 +2612,10 @@
         "paper":  "CDS 2018-I",
         "qno":  55,
         "ref":  "CDS 2018-I, Q.55",
-        "stem":  "About the India Post Payments Bank (IPPB): 1. It was incorporated as a Public Limited Company. 2. It started by establishing two pilot branches at Hyderabad and Varanasi.",
+        "stem":  "About the India Post Payments Bank (IPPB):",
         "subs":  [
-
+                     "1. It was incorporated as a Public Limited Company.",
+                     "2. It started by establishing two pilot branches at Hyderabad and Varanasi."
                  ],
         "options":  [
                         "1 only",
@@ -2585,9 +2638,12 @@
         "paper":  "CDS 2019-I",
         "qno":  119,
         "ref":  "CDS 2019-I, Q.119",
-        "stem":  "Benefits of the Pradhan Mantri Jan Arogya Yojana (PMJAY): 1. Free treatment at all public and empanelled private hospitals. 2. Cashless and paperless access. 3. Health cover up to ₹5,00,000 per family per year. 4. Pre-existing diseases are not covered.",
+        "stem":  "Benefits of the Pradhan Mantri Jan Arogya Yojana (PMJAY):",
         "subs":  [
-
+                     "1. Free treatment at all public and empanelled private hospitals.",
+                     "2. Cashless and paperless access.",
+                     "3. Health cover up to ₹5,00,000 per family per year.",
+                     "4. Pre-existing diseases are not covered."
                  ],
         "options":  [
                         "1 and 3 only",
@@ -2710,9 +2766,11 @@
         "paper":  "CDS 2023-I",
         "qno":  69,
         "ref":  "CDS 2023-I, Q.69",
-        "stem":  "Objectives of the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY): 1. Correcting regional imbalances in tertiary health care. 2. Universal access to public health and universal immunization. 3. Augmenting facilities for quality medical education.",
+        "stem":  "Objectives of the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY):",
         "subs":  [
-
+                     "1. Correcting regional imbalances in tertiary health care.",
+                     "2. Universal access to public health and universal immunization.",
+                     "3. Augmenting facilities for quality medical education."
                  ],
         "options":  [
                         "1 and 3 only",
@@ -2785,9 +2843,11 @@
         "paper":  "CDS 2021-I",
         "qno":  72,
         "ref":  "CDS 2021-I, Q.72",
-        "stem":  "Which is/are social-security schemes? 1. Atal Pension Yojana 2. Pradhan Mantri Jeevan Jyoti Bima Yojana 3. Pradhan Mantri Suraksha Bima Yojana.",
+        "stem":  "Which is/are social-security schemes?",
         "subs":  [
-
+                     "1. Atal Pension Yojana",
+                     "2. Pradhan Mantri Jeevan Jyoti Bima Yojana",
+                     "3. Pradhan Mantri Suraksha Bima Yojana."
                  ],
         "options":  [
                         "1 only",
@@ -2960,9 +3020,10 @@
         "paper":  "CDS 2019-II",
         "qno":  35,
         "ref":  "CDS 2019-II, Q.35",
-        "stem":  "About the Make in India initiative: 1. It was launched in 2018. 2. Its objective is to foster innovation.",
+        "stem":  "About the Make in India initiative:",
         "subs":  [
-
+                     "1. It was launched in 2018.",
+                     "2. Its objective is to foster innovation."
                  ],
         "options":  [
                         "1 only",
@@ -2985,9 +3046,12 @@
         "paper":  "CDS 2023-II",
         "qno":  56,
         "ref":  "CDS 2023-II, Q.56",
-        "stem":  "About ASEAN: 1. The Chairmanship rotates annually based on the alphabetical order of the English names of Member States. 2. The Chairmanship is decided by voting. 3. \"One Vision, One Identity, One Community\" is the ASEAN motto. 4. 12th August is celebrated as ASEAN Day.",
+        "stem":  "About ASEAN:",
         "subs":  [
-
+                     "1. The Chairmanship rotates annually based on the alphabetical order of the English names of Member States.",
+                     "2. The Chairmanship is decided by voting.",
+                     "3. \"One Vision, One Identity, One Community\" is the ASEAN motto.",
+                     "4. 12th August is celebrated as ASEAN Day."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -3010,9 +3074,10 @@
         "paper":  "CDS 2024-I",
         "qno":  114,
         "ref":  "CDS 2024-I, Q.114",
-        "stem":  "About the Regional Comprehensive Economic Partnership (RCEP): 1. It is a comprehensive FTA between ASEAN members and ASEAN\u0027s FTA partners. 2. India opted out of RCEP.",
+        "stem":  "About the Regional Comprehensive Economic Partnership (RCEP):",
         "subs":  [
-
+                     "1. It is a comprehensive FTA between ASEAN members and ASEAN\u0027s FTA partners.",
+                     "2. India opted out of RCEP."
                  ],
         "options":  [
                         "1 only",
@@ -3035,9 +3100,10 @@
         "paper":  "CDS 2024-II",
         "qno":  96,
         "ref":  "CDS 2024-II, Q.96",
-        "stem":  "The Atmanirbhar Bharat scheme helps in: 1. Enhancing India\u0027s manufacturing capabilities and exports across industries. 2. Incentivizing foreign investments for domestic production.",
+        "stem":  "The Atmanirbhar Bharat scheme helps in:",
         "subs":  [
-
+                     "1. Enhancing India\u0027s manufacturing capabilities and exports across industries.",
+                     "2. Incentivizing foreign investments for domestic production."
                  ],
         "options":  [
                         "1 only",
@@ -3085,9 +3151,12 @@
         "paper":  "CDS 2025-II",
         "qno":  109,
         "ref":  "CDS 2025-II, Q.109",
-        "stem":  "Match (organisation – year of formation): A. European Union B. Asia-Pacific Economic Cooperation (APEC) C. ASEAN D. Free Trade Area of the Americas (FTAA) | 1. 1994 2. 1967 3. 1989 4. 1993.",
+        "stem":  "Match (organisation – year of formation): A. European Union B. Asia-Pacific Economic Cooperation (APEC) C. ASEAN D. Free Trade Area of the Americas (FTAA) |",
         "subs":  [
-
+                     "1. 1994",
+                     "2. 1967",
+                     "3. 1989",
+                     "4. 1993."
                  ],
         "options":  [
                         "3, 2, 1, 4",
@@ -3160,9 +3229,12 @@
         "paper":  "CDS 2018-II",
         "qno":  52,
         "ref":  "CDS 2018-II, Q.52",
-        "stem":  "Per the World Bank\u0027s Doing Business Report 2018, India\u0027s ranking improved (vs 2017) in which areas? 1. Paying taxes 2. Resolving insolvency 3. Starting a business 4. Getting electricity.",
+        "stem":  "Per the World Bank\u0027s Doing Business Report 2018, India\u0027s ranking improved (vs 2017) in which areas?",
         "subs":  [
-
+                     "1. Paying taxes",
+                     "2. Resolving insolvency",
+                     "3. Starting a business",
+                     "4. Getting electricity."
                  ],
         "options":  [
                         "1 only",
@@ -3210,9 +3282,12 @@
         "paper":  "CDS 2020-II",
         "qno":  32,
         "ref":  "CDS 2020-II, Q.32",
-        "stem":  "Arrange in descending order per the Global Human Development Index 2019: 1. Germany 2. USA 3. South Africa 4. India.",
+        "stem":  "Arrange in descending order per the Global Human Development Index 2019:",
         "subs":  [
-
+                     "1. Germany",
+                     "2. USA",
+                     "3. South Africa",
+                     "4. India."
                  ],
         "options":  [
                         "1, 2, 3, 4",
@@ -3285,9 +3360,10 @@
         "paper":  "CDS 2024-I",
         "qno":  119,
         "ref":  "CDS 2024-I, Q.119",
-        "stem":  "About India\u0027s rank in the Global Innovation Index-2023 (WIPO): 1. India was placed at 40th rank. 2. India has been on a rising trajectory over 2015-2023.",
+        "stem":  "About India\u0027s rank in the Global Innovation Index-2023 (WIPO):",
         "subs":  [
-
+                     "1. India was placed at 40th rank.",
+                     "2. India has been on a rising trajectory over 2015-2023."
                  ],
         "options":  [
                         "1 only",
@@ -3360,9 +3436,12 @@
         "paper":  "CDS 2023-II",
         "qno":  57,
         "ref":  "CDS 2023-II, Q.57",
-        "stem":  "About the Public Distribution System: 1. Operated under the joint responsibility of Centre and States/UTs. 2. The FCI handles procurement, storage and transport of foodgrains to State Governments. 3. Both Centre and State jointly identify eligible beneficiaries. 4. Some States distribute additional items (pulses, edible oil) through PDS outlets.",
+        "stem":  "About the Public Distribution System:",
         "subs":  [
-
+                     "1. Operated under the joint responsibility of Centre and States/UTs.",
+                     "2. The FCI handles procurement, storage and transport of foodgrains to State Governments.",
+                     "3. Both Centre and State jointly identify eligible beneficiaries.",
+                     "4. Some States distribute additional items (pulses, edible oil) through PDS outlets."
                  ],
         "options":  [
                         "2 and 3 only",
@@ -3435,9 +3514,9 @@
         "paper":  "CDS 2025-II",
         "qno":  108,
         "ref":  "CDS 2025-II, Q.108",
-        "stem":  "1. The Government has discontinued the Pradhan Mantri Fasal Bima Yojana. 2. The Government has approved continuation of the Restructured Weather Based Crop Insurance Scheme.",
+        "stem":  "1. The Government has discontinued the Pradhan Mantri Fasal Bima Yojana.",
         "subs":  [
-
+                     "2. The Government has approved continuation of the Restructured Weather Based Crop Insurance Scheme."
                  ],
         "options":  [
                         "1 only",
@@ -3710,9 +3789,10 @@
         "paper":  "CDS 2025-II",
         "qno":  99,
         "ref":  "CDS 2025-II, Q.99",
-        "stem":  "About the cotton textile industry in India: 1. It has spread, over time, beyond Gujarat and Maharashtra. 2. Raw cotton is not a weight-losing raw material.",
+        "stem":  "About the cotton textile industry in India:",
         "subs":  [
-
+                     "1. It has spread, over time, beyond Gujarat and Maharashtra.",
+                     "2. Raw cotton is not a weight-losing raw material."
                  ],
         "options":  [
                         "1 and 2",
@@ -3735,9 +3815,11 @@
         "paper":  "CDS 2022-II",
         "qno":  10,
         "ref":  "CDS 2022-II, Q.10",
-        "stem":  "About MSMEs: 1. They form a dynamic sector providing large employment. 2. They need low capital cost and help industrialize backward regions. 3. They contribute enormously to socio-economic development. How many are correct?",
+        "stem":  "About MSMEs:",
         "subs":  [
-
+                     "1. They form a dynamic sector providing large employment.",
+                     "2. They need low capital cost and help industrialize backward regions.",
+                     "3. They contribute enormously to socio-economic development. How many are correct?"
                  ],
         "options":  [
                         "None",
@@ -3760,9 +3842,10 @@
         "paper":  "CDS 2025-II",
         "qno":  75,
         "ref":  "CDS 2025-II, Q.75",
-        "stem":  "About the Indian Institute of Entrepreneurship (IIE): 1. It was established in 1999 in Guwahati. 2. Its main aim is training, research and consulting for small and micro enterprises.",
+        "stem":  "About the Indian Institute of Entrepreneurship (IIE):",
         "subs":  [
-
+                     "1. It was established in 1999 in Guwahati.",
+                     "2. Its main aim is training, research and consulting for small and micro enterprises."
                  ],
         "options":  [
                         "1 only",
@@ -3785,9 +3868,12 @@
         "paper":  "CDS 2017-I",
         "qno":  91,
         "ref":  "CDS 2017-I, Q.91",
-        "stem":  "Correct statements about the Saakshar Bharat scheme: 1. A centrally sponsored scheme launched in the Eleventh Plan. 2. Applies to women in particular and disadvantaged groups in general. 3. Applies to persons above the age of 10 years. 4. Anchored with Panchayati Raj Institutions/local self-government.",
+        "stem":  "Correct statements about the Saakshar Bharat scheme:",
         "subs":  [
-
+                     "1. A centrally sponsored scheme launched in the Eleventh Plan.",
+                     "2. Applies to women in particular and disadvantaged groups in general.",
+                     "3. Applies to persons above the age of 10 years.",
+                     "4. Anchored with Panchayati Raj Institutions/local self-government."
                  ],
         "options":  [
                         "1, 2 and 3",
@@ -3860,9 +3946,10 @@
         "paper":  "CDS 2019-I",
         "qno":  112,
         "ref":  "CDS 2019-I, Q.112",
-        "stem":  "About the Bureau of Pharma PSUs of India (BPPI): 1. It is the implementing agency of the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP). 2. It is registered as an independent society under the Societies Registration Act, 1860.",
+        "stem":  "About the Bureau of Pharma PSUs of India (BPPI):",
         "subs":  [
-
+                     "1. It is the implementing agency of the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP).",
+                     "2. It is registered as an independent society under the Societies Registration Act, 1860."
                  ],
         "options":  [
                         "1 only",
@@ -3960,9 +4047,11 @@
         "paper":  "CDS 2021-I",
         "qno":  18,
         "ref":  "CDS 2021-I, Q.18",
-        "stem":  "Correct statements about the Pradhan Mantri Gram Sadak Yojana: 1. Part of the Government\u0027s poverty-reduction strategy. 2. A centrally sponsored scheme for rural development. 3. Provides connectivity in rural areas.",
+        "stem":  "Correct statements about the Pradhan Mantri Gram Sadak Yojana:",
         "subs":  [
-
+                     "1. Part of the Government\u0027s poverty-reduction strategy.",
+                     "2. A centrally sponsored scheme for rural development.",
+                     "3. Provides connectivity in rural areas."
                  ],
         "options":  [
                         "1, 2 and 3",
@@ -3985,9 +4074,11 @@
         "paper":  "CDS 2023-I",
         "qno":  25,
         "ref":  "CDS 2023-I, Q.25",
-        "stem":  "Which is/are sub-mission(s) of the National Skill Development Mission (NSDM)? 1. Institutional training 2. Overseas employment 3. Leveraging of public infrastructure.",
+        "stem":  "Which is/are sub-mission(s) of the National Skill Development Mission (NSDM)?",
         "subs":  [
-
+                     "1. Institutional training",
+                     "2. Overseas employment",
+                     "3. Leveraging of public infrastructure."
                  ],
         "options":  [
                         "1 only",
@@ -4010,9 +4101,12 @@
         "paper":  "CDS 2017-I",
         "qno":  58,
         "ref":  "CDS 2017-I, Q.58",
-        "stem":  "About the Second Five-Year Plan: 1. It was drafted under the leadership of K. N. Raj. 2. It proposed developing industries like electricity, railways, steel, machinery and communication in the public sector. 3. The drafters found balancing industry and agriculture very difficult. 4. The drafters found it really easy.",
+        "stem":  "About the Second Five-Year Plan:",
         "subs":  [
-
+                     "1. It was drafted under the leadership of K. N. Raj.",
+                     "2. It proposed developing industries like electricity, railways, steel, machinery and communication in the public sector.",
+                     "3. The drafters found balancing industry and agriculture very difficult.",
+                     "4. The drafters found it really easy."
                  ],
         "options":  [
                         "1 only",
@@ -4185,9 +4279,12 @@
         "paper":  "CDS 2021-II",
         "qno":  50,
         "ref":  "CDS 2021-II, Q.50",
-        "stem":  "Per UNDP\u0027s Human Development Report 2020, in which HDI components has India improved? 1. Life expectancy at birth 2. Expected years of schooling 3. GNI per capita 4. Mean years of schooling.",
+        "stem":  "Per UNDP\u0027s Human Development Report 2020, in which HDI components has India improved?",
         "subs":  [
-
+                     "1. Life expectancy at birth",
+                     "2. Expected years of schooling",
+                     "3. GNI per capita",
+                     "4. Mean years of schooling."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -4260,9 +4357,10 @@
         "paper":  "CDS 2023-I",
         "qno":  96,
         "ref":  "CDS 2023-I, Q.96",
-        "stem":  "Per the National MPI (NITI Aayog), a household is considered deprived if: 1. a single member is undernourished. 2. the BMI of a woman aged 15-49 is below 18.5 kg/m².",
+        "stem":  "Per the National MPI (NITI Aayog), a household is considered deprived if:",
         "subs":  [
-
+                     "1. a single member is undernourished.",
+                     "2. the BMI of a woman aged 15-49 is below 18.5 kg/m²."
                  ],
         "options":  [
                         "1 only",
@@ -4285,9 +4383,10 @@
         "paper":  "CDS 2023-II",
         "qno":  69,
         "ref":  "CDS 2023-II, Q.69",
-        "stem":  "Regarding poverty in India: 1. The poverty line is fixed using a minimum level of food, clothing, footwear, fuel/light, education and medical requirements. 2. The accepted average calorie requirement is 2400 (rural) and 2100 (urban) calories per person per day.",
+        "stem":  "Regarding poverty in India:",
         "subs":  [
-
+                     "1. The poverty line is fixed using a minimum level of food, clothing, footwear, fuel/light, education and medical requirements.",
+                     "2. The accepted average calorie requirement is 2400 (rural) and 2100 (urban) calories per person per day."
                  ],
         "options":  [
                         "1 and 2",
@@ -4310,9 +4409,10 @@
         "paper":  "CDS 2024-I",
         "qno":  71,
         "ref":  "CDS 2024-I, Q.71",
-        "stem":  "About the Tendulkar Committee (2009) poverty estimates: 1. It used an all-India urban poverty-line basket as the reference to derive both rural and urban poverty. 2. It anchored the poverty line to the official food-calorie norms.",
+        "stem":  "About the Tendulkar Committee (2009) poverty estimates:",
         "subs":  [
-
+                     "1. It used an all-India urban poverty-line basket as the reference to derive both rural and urban poverty.",
+                     "2. It anchored the poverty line to the official food-calorie norms."
                  ],
         "options":  [
                         "1 only",
@@ -4360,9 +4460,11 @@
         "paper":  "CDS 2024-II",
         "qno":  102,
         "ref":  "CDS 2024-II, Q.102",
-        "stem":  "The Rangarajan Committee methodology for the poverty line incorporated: 1. A food component. 2. A normative level of expenditure for essential non-food items. 3. A behaviourally determined expenditure for other non-food items.",
+        "stem":  "The Rangarajan Committee methodology for the poverty line incorporated:",
         "subs":  [
-
+                     "1. A food component.",
+                     "2. A normative level of expenditure for essential non-food items.",
+                     "3. A behaviourally determined expenditure for other non-food items."
                  ],
         "options":  [
                         "1 and 2 only",
@@ -4460,9 +4562,10 @@
         "paper":  "CDS 2025-II",
         "qno":  79,
         "ref":  "CDS 2025-II, Q.79",
-        "stem":  "About the PLFS report 2023-24: 1. Agriculture\u0027s employment share rose from about 44% (2017-18) to about 46% (2023-24). 2. The share of female workers in agriculture increased over 2017-18 to 2023-24.",
+        "stem":  "About the PLFS report 2023-24:",
         "subs":  [
-
+                     "1. Agriculture\u0027s employment share rose from about 44% (2017-18) to about 46% (2023-24).",
+                     "2. The share of female workers in agriculture increased over 2017-18 to 2023-24."
                  ],
         "options":  [
                         "1 and 2",
@@ -4485,9 +4588,12 @@
         "paper":  "CDS 2025-II",
         "qno":  107,
         "ref":  "CDS 2025-II, Q.107",
-        "stem":  "Which surveys are conducted by the Ministry of Statistics and Programme Implementation? 1. Survey on Social Consumption: Health 2. Comprehensive Modular Survey: Telecom and ICT skills 3. Periodic Labour Force Survey 4. Annual Survey on Unincorporated Enterprises.",
+        "stem":  "Which surveys are conducted by the Ministry of Statistics and Programme Implementation?",
         "subs":  [
-
+                     "1. Survey on Social Consumption: Health",
+                     "2. Comprehensive Modular Survey: Telecom and ICT skills",
+                     "3. Periodic Labour Force Survey",
+                     "4. Annual Survey on Unincorporated Enterprises."
                  ],
         "options":  [
                         "1, 2, 3 and 4",
@@ -4510,9 +4616,12 @@
         "paper":  "CDS 2016-II",
         "qno":  65,
         "ref":  "CDS 2016-II, Q.65",
-        "stem":  "Match author with work: A. Sumit Sarkar B. Shahid Amin C. Ranajit Guha D. Bipan Chandra | 1. The Rise and Growth of Economic Nationalism in India 2. A Rule of Property for Bengal 3. The Swadeshi Movement in Bengal, 1903-1908 4. Event, Metaphor, Memory — Chauri Chaura, 1922-1992.",
+        "stem":  "Match author with work: A. Sumit Sarkar B. Shahid Amin C. Ranajit Guha D. Bipan Chandra |",
         "subs":  [
-
+                     "1. The Rise and Growth of Economic Nationalism in India",
+                     "2. A Rule of Property for Bengal",
+                     "3. The Swadeshi Movement in Bengal, 1903-1908",
+                     "4. Event, Metaphor, Memory — Chauri Chaura, 1922-1992."
                  ],
         "options":  [
                         "3, 4, 2, 1",
@@ -4560,9 +4669,12 @@
         "paper":  "CDS 2017-I",
         "qno":  61,
         "ref":  "CDS 2017-I, Q.61",
-        "stem":  "Correct statements about the Shiromani Gurudwara Prabandhak Committee (SGPC): 1. It began as the political wing of the Singh Sabhas in the late 19th century. 2. It was formed in 1920 as part of the Akali movement. 3. It was founded to reclaim control of Sikh shrines from government-manipulated loyalist committees. 4. It formed the Akali Dal to coordinate Jathas to reclaim the shrines.",
+        "stem":  "Correct statements about the Shiromani Gurudwara Prabandhak Committee (SGPC):",
         "subs":  [
-
+                     "1. It began as the political wing of the Singh Sabhas in the late 19th century.",
+                     "2. It was formed in 1920 as part of the Akali movement.",
+                     "3. It was founded to reclaim control of Sikh shrines from government-manipulated loyalist committees.",
+                     "4. It formed the Akali Dal to coordinate Jathas to reclaim the shrines."
                  ],
         "options":  [
                         "1, 3 and 4",
@@ -4910,9 +5022,11 @@
         "paper":  "CDS 2020-II",
         "qno":  13,
         "ref":  "CDS 2020-II, Q.13",
-        "stem":  "Who gave evidence before the Joint Select Committee on the Government of India Bill, 1919 in favour of female franchise? 1. Mrs. Annie Besant 2. Mrs. Sarojini Naidu 3. Mrs. Hirabai Tata.",
+        "stem":  "Who gave evidence before the Joint Select Committee on the Government of India Bill, 1919 in favour of female franchise?",
         "subs":  [
-
+                     "1. Mrs. Annie Besant",
+                     "2. Mrs. Sarojini Naidu",
+                     "3. Mrs. Hirabai Tata."
                  ],
         "options":  [
                         "1 only",
@@ -5010,9 +5124,11 @@
         "paper":  "CDS 2021-II",
         "qno":  53,
         "ref":  "CDS 2021-II, Q.53",
-        "stem":  "Which statements are correct? 1. The Speaker may permit a Member to address the House in their mother tongue if they cannot adequately express in Hindi or English. 2. Business of Parliamentary Committees is transacted in Hindi or English. 3. The minutes of Parliamentary Committees are prepared invariably in Hindi or English.",
+        "stem":  "Which statements are correct?",
         "subs":  [
-
+                     "1. The Speaker may permit a Member to address the House in their mother tongue if they cannot adequately express in Hindi or English.",
+                     "2. Business of Parliamentary Committees is transacted in Hindi or English.",
+                     "3. The minutes of Parliamentary Committees are prepared invariably in Hindi or English."
                  ],
         "options":  [
                         "1, 2 and 3",
@@ -5060,9 +5176,9 @@
         "paper":  "CDS 2022-I",
         "qno":  46,
         "ref":  "CDS 2022-I, Q.46",
-        "stem":  "1. The Committee on Estimates is an ad hoc committee of Parliament. 2. The Committee on Railway Convention is a standing committee of Parliament.",
+        "stem":  "1. The Committee on Estimates is an ad hoc committee of Parliament.",
         "subs":  [
-
+                     "2. The Committee on Railway Convention is a standing committee of Parliament."
                  ],
         "options":  [
                         "1 only",
@@ -5235,9 +5351,12 @@
         "paper":  "CDS 2024-I",
         "qno":  74,
         "ref":  "CDS 2024-I, Q.74",
-        "stem":  "Which are included in the M1 definition of money? 1. Reserves 2. Currency 3. Time deposits 4. Demand deposits.",
+        "stem":  "Which are included in the M1 definition of money?",
         "subs":  [
-
+                     "1. Reserves",
+                     "2. Currency",
+                     "3. Time deposits",
+                     "4. Demand deposits."
                  ],
         "options":  [
                         "1 and 3 only",
@@ -5260,9 +5379,10 @@
         "paper":  "CDS 2024-I",
         "qno":  116,
         "ref":  "CDS 2024-I, Q.116",
-        "stem":  "About the Shanghai Cooperation Organisation (SCO): 1. One of its goals is to promote a new democratic, fair and rational international political and economic order. 2. Iran is a permanent member of the SCO.",
+        "stem":  "About the Shanghai Cooperation Organisation (SCO):",
         "subs":  [
-
+                     "1. One of its goals is to promote a new democratic, fair and rational international political and economic order.",
+                     "2. Iran is a permanent member of the SCO."
                  ],
         "options":  [
                         "1 only",
@@ -5285,9 +5405,9 @@
         "paper":  "CDS 2024-II",
         "qno":  91,
         "ref":  "CDS 2024-II, Q.91",
-        "stem":  "1. A rupee Vostro account is one that an Indian bank holds for a foreign bank in rupees, enabling domestic banks to provide international banking services. 2. Insurance density (average premium per capita) does not fully capture the financing gap on premature death because most Indian insurance products are savings-linked with a small protection component.",
+        "stem":  "1. A rupee Vostro account is one that an Indian bank holds for a foreign bank in rupees, enabling domestic banks to provide international banking services.",
         "subs":  [
-
+                     "2. Insurance density (average premium per capita) does not fully capture the financing gap on premature death because most Indian insurance products are savings-linked with a small protection component."
                  ],
         "options":  [
                         "1 only",
@@ -5310,9 +5430,11 @@
         "paper":  "CDS 2025-I",
         "qno":  83,
         "ref":  "CDS 2025-I, Q.83",
-        "stem":  "About the Central Vigilance Commission (CVC): 1. The Central Vigilance Commissioner is appointed by the President of India. 2. The committee recommending the appointment includes the Minister of Home Affairs. 3. In certain circumstances the Leader of the single largest opposition group in the Lok Sabha can be on the committee. How many are correct?",
+        "stem":  "About the Central Vigilance Commission (CVC):",
         "subs":  [
-
+                     "1. The Central Vigilance Commissioner is appointed by the President of India.",
+                     "2. The committee recommending the appointment includes the Minister of Home Affairs.",
+                     "3. In certain circumstances the Leader of the single largest opposition group in the Lok Sabha can be on the committee. How many are correct?"
                  ],
         "options":  [
                         "Nil",
