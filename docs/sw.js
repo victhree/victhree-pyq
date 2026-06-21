@@ -1,10 +1,10 @@
 /* VicThree PYQ service worker — offline app shell + runtime data cache. */
-const CACHE = 'victhree-v14';
+const CACHE = 'victhree-v15';
 const SHELL = [
   './', 'index.html', 'browse.html', 'quiz.html',
-  'css/styles.css?v=14',
-  'js/data.js?v=14', 'js/home.js?v=14', 'js/browse.js?v=14', 'js/quiz.js?v=14',
-  'assets/banner.jpg', 'assets/icon-192.png', 'assets/icon-512.png',
+  'css/styles.css?v=15',
+  'js/data.js?v=15', 'js/home.js?v=15', 'js/browse.js?v=15', 'js/quiz.js?v=15',
+  'assets/banner.jpg', 'assets/icon-192.png?v=15', 'assets/icon-512.png?v=15',
   'manifest.webmanifest', 'data/index.json'
 ];
 
