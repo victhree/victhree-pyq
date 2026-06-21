@@ -2,7 +2,7 @@
 function $(id){ return document.getElementById(id); }
 
 const SUBJECT_ICON = {
-  'Art & Culture': '🎨', 'Defence': '🛡️', 'Geography': '🌍', 'History': '🏛️', 'Polity': '⚖️', 'Economy': '📈', 'Economics': '📈',
+  'Art & Culture': '🎨', 'Defence': '🛡️', 'International Relations': '🌐', 'Miscellaneous': '🧩', 'Geography': '🌍', 'History': '🏛️', 'Polity': '⚖️', 'Economy': '📈', 'Economics': '📈',
   'Science': '⚛️', 'General Science': '🔬', 'English': '✍️', 'Current Affairs': '📰',
   'Elementary Mathematics': '➗'
 };

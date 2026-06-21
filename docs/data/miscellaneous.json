@@ -1,0 +1,1126 @@
+[
+    {
+        "id":  "misc-2017-I-q53",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Olympics, Asian \u0026 Commonwealth Games",
+        "topicOriginal":  "Sports",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  53,
+        "ref":  "CDS 2017-I, Q.53",
+        "stem":  "How many medals did India win at the 2016 Summer Olympics?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "One Silver and one Bronze",
+                        "Two Gold",
+                        "Two Bronze",
+                        "None"
+                    ],
+        "answer":  "a",
+        "explanation":  "At the Rio 2016 Olympics, India won two medals — a silver (P.V. Sindhu, badminton) and a bronze (Sakshi Malik, wrestling). Hence \"one silver and one bronze.\" (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-I-q109",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Olympics, Asian \u0026 Commonwealth Games",
+        "topicOriginal":  "Sports",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  109,
+        "ref":  "CDS 2017-I, Q.109",
+        "stem":  "In which city were the Summer Olympics 2020 to be held?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "London",
+                        "Paris",
+                        "Tokyo",
+                        "Moscow"
+                    ],
+        "answer":  "c",
+        "explanation":  "The 2020 Summer Olympics were hosted by Tokyo (held in 2021 due to the COVID-19 pandemic). (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-II-q90",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Olympics, Asian \u0026 Commonwealth Games",
+        "topicOriginal":  "Sports",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  90,
+        "ref":  "CDS 2018-II, Q.90",
+        "stem":  "Which is the official mascot of the Tokyo 2020 Olympic Games?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Soohorang",
+                        "Vinicius de Moraes",
+                        "The Hare, the Polar Bear and the Leopard",
+                        "Miraitowa"
+                    ],
+        "answer":  "d",
+        "explanation":  "Miraitowa (a futuristic blue-checkered character) was the official mascot of the Tokyo 2020 Olympics. (Soohorang was the PyeongChang 2018 Winter mascot.) (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-II-q113",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Olympics, Asian \u0026 Commonwealth Games",
+        "topicOriginal":  "Sports",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  113,
+        "ref":  "CDS 2023-II, Q.113",
+        "stem":  "Abhinav Bindra won India\u0027s first-ever individual Olympic gold. In which event and Olympic Games?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "10 m air pistol, London",
+                        "10 m air rifle, London",
+                        "10 m air rifle, Beijing",
+                        "10 m air pistol, Beijing"
+                    ],
+        "answer":  "c",
+        "explanation":  "Abhinav Bindra won India\u0027s first individual Olympic gold medal in the 10 m air rifle at the Beijing 2008 Olympics. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-I-q36",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Cricket",
+        "topicOriginal":  "Sports",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  36,
+        "ref":  "CDS 2023-I, Q.36",
+        "stem":  "\"The Chevrons\" is the name of the cricket team of which country?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Australia",
+                        "The Netherlands",
+                        "Ireland",
+                        "Zimbabwe"
+                    ],
+        "answer":  "d",
+        "explanation":  "Zimbabwe\u0027s national cricket team is nicknamed \"The Chevrons\" (after the chevron pattern on the Great Zimbabwe bird emblem/their kit). (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2024-I-q117",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Cricket",
+        "topicOriginal":  "Sports",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  117,
+        "ref":  "CDS 2024-I, Q.117",
+        "stem":  "About the ICC Under-19 Men\u0027s Cricket World Cup, 2024:",
+        "subs":  [
+                     "1. Australia won the title for the 4th time.",
+                     "2. It was organised in South Africa."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "c",
+        "explanation":  "Australia won the U-19 Cricket World Cup 2024 (their fourth title, beating India in the final), and the tournament was hosted in South Africa. Both statements are correct. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2022-II-q59",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Tennis, Badminton \u0026 Racquet sports",
+        "topicOriginal":  "Sports",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  59,
+        "ref":  "CDS 2022-II, Q.59",
+        "stem":  "Avani Lekhara excels in which sport?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Table Tennis",
+                        "Cycling",
+                        "Shooting",
+                        "Boxing"
+                    ],
+        "answer":  "c",
+        "explanation":  "Avani Lekhara is a para-shooter — she won India\u0027s first-ever Paralympic shooting gold (10 m air rifle, Tokyo 2020). (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-I-q68",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Football, Hockey \u0026 team sports",
+        "topicOriginal":  "Sports",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  68,
+        "ref":  "CDS 2018-I, Q.68",
+        "stem":  "Which team did India defeat to win the Women\u0027s Hockey Asia Cup title, 2017?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Japan",
+                        "China",
+                        "South Korea",
+                        "Pakistan"
+                    ],
+        "answer":  "b",
+        "explanation":  "India\u0027s women\u0027s hockey team beat China to win the Women\u0027s Hockey Asia Cup 2017 — their first Asia Cup title in 13 years. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2021-II-q117",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Football, Hockey \u0026 team sports",
+        "topicOriginal":  "Sports",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  117,
+        "ref":  "CDS 2021-II, Q.117",
+        "stem":  "Which is the oldest football tournament of Asia?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Federation Cup",
+                        "Santosh Trophy",
+                        "Durand Cup",
+                        "Rovers Cup"
+                    ],
+        "answer":  "c",
+        "explanation":  "The Durand Cup, first held in 1888 (in Shimla), is Asia\u0027s oldest football tournament (and the third-oldest in the world). (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-I-q82",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Football, Hockey \u0026 team sports",
+        "topicOriginal":  "Sports",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  82,
+        "ref":  "CDS 2023-I, Q.82",
+        "stem":  "Which country has won the FIFA World Cup (Men) the maximum number of times?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Argentina",
+                        "Brazil",
+                        "France",
+                        "Spain"
+                    ],
+        "answer":  "b",
+        "explanation":  "Brazil has won the FIFA World Cup a record five times (1958, 1962, 1970, 1994, 2002). (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-I-q76",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Athletics, Boxing \u0026 individual sports",
+        "topicOriginal":  "Sports",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  76,
+        "ref":  "CDS 2018-I, Q.76",
+        "stem":  "In November 2017, M.C. Mary Kom won gold at the Asian Boxing Championship in Ho Chi Minh City. In which category?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "48 kg",
+                        "51 kg",
+                        "54 kg",
+                        "57 kg"
+                    ],
+        "answer":  "a",
+        "explanation":  "Mary Kom won the gold in the 48 kg category at the 2017 Asian Boxing Championships — her signature weight class. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-II-q111",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Athletics, Boxing \u0026 individual sports",
+        "topicOriginal":  "Sports",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  111,
+        "ref":  "CDS 2018-II, Q.111",
+        "stem":  "Ace athlete Neeraj Chopra is an accomplished player in",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Hammer throw",
+                        "Javelin throw",
+                        "Shot put throw",
+                        "Discus throw"
+                    ],
+        "answer":  "b",
+        "explanation":  "Neeraj Chopra is India\u0027s star javelin thrower — Olympic gold medallist (Tokyo 2020) and World Champion. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2021-II-q6",
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "subtopic":  "Other sports \u0026 medals",
+        "topicOriginal":  "Sports",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  6,
+        "ref":  "CDS 2021-II, Q.6",
+        "stem":  "An athlete completes one round of a circular track of diameter 100 m in 20 s. What are the displacements after 1 minute and after 10 s, respectively?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "0 m, 50 m",
+                        "300 m, 100 m",
+                        "300 m, 50 m",
+                        "0 m, 100 m"
+                    ],
+        "answer":  "d",
+        "explanation":  "Displacement is the straight-line distance between start and end points. In 60 s the athlete completes 3 full rounds and returns to the start, so displacement = 0. In 10 s the athlete covers half a round, ending diametrically opposite the start, so displacement = the diameter = 100 m. Hence 0 m and 100 m. (A physics item, mis-filed here.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2024-I-q118",
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "subtopic":  "Civilian Awards (Bharat Ratna, Padma)",
+        "topicOriginal":  "Awards \u0026 Honours",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  118,
+        "ref":  "CDS 2024-I, Q.118",
+        "stem":  "About the Bharat Ratna Award:",
+        "subs":  [
+                     "1. It was instituted in 1972.",
+                     "2. The award does not carry any monetary grant."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Bharat Ratna, India\u0027s highest civilian award, was instituted in 1954, not 1972 (so statement 1 is wrong). It carries no monetary grant — only a medallion and a Sanad (certificate) (statement 2 correct). Hence 2 only.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-I-q96",
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "subtopic":  "Civilian Awards (Bharat Ratna, Padma)",
+        "topicOriginal":  "Awards \u0026 Honours",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  96,
+        "ref":  "CDS 2025-I, Q.96",
+        "stem":  "Which statement about Dr. Muthulakshmi Reddy, a freedom fighter, is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "She was the first girl student to be admitted into a men\u0027s college.",
+                        "She was the first woman legislator in British India.",
+                        "She was a medical professional.",
+                        "She was honoured with the Bharat Ratna in 1956."
+                    ],
+        "answer":  "d",
+        "explanation":  "Dr. Muthulakshmi Reddy was a pioneering doctor, the first woman to be admitted to a men\u0027s college (Maharaja\u0027s College), and the first woman legislator in British India (Madras Legislative Council, 1927) — so a, b, c are correct. She was not awarded the Bharat Ratna (she received the Padma Bhushan in 1956), so statement d is incorrect.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-II-q15",
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "subtopic":  "Civilian Awards (Bharat Ratna, Padma)",
+        "topicOriginal":  "Awards \u0026 Honours",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  15,
+        "ref":  "CDS 2025-II, Q.15",
+        "stem":  "1. C. Rajagopalachari was the first recipient of the Bharat Ratna.",
+        "subs":  [
+                     "2. Pandit Deen Dayal Upadhyaya initiated the concept of Integral Humanism."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "c",
+        "explanation":  "C. Rajagopalachari was among the first three recipients of the Bharat Ratna in 1954 (with C. V. Raman and S. Radhakrishnan) (1). Deen Dayal Upadhyaya propounded the philosophy of Integral Humanism (Ekatma Manavavad) (2). Both statements are correct.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-I-q65",
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "subtopic":  "International Awards (Nobel, Magsaysay, etc.)",
+        "topicOriginal":  "Awards \u0026 Honours",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  65,
+        "ref":  "CDS 2018-I, Q.65",
+        "stem":  "Which State hosted the Nobel Prize Series-India 2018 \"Science Impacts Life\" Exhibition?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Gujarat",
+                        "Rajasthan",
+                        "Goa",
+                        "Madhya Pradesh"
+                    ],
+        "answer":  "c",
+        "explanation":  "The Nobel Prize Series-India 2018, themed \u0027Science Impacts Life\u0027, was hosted in Goa (option c). Gujarat had hosted the earlier edition.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-II-q113",
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "subtopic":  "Heads of State \u0026 Government",
+        "topicOriginal":  "Persons in News",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  113,
+        "ref":  "CDS 2025-II, Q.113",
+        "stem":  "Robert Prevost became the Catholic Pope after the death of Pope Francis. Which statements about him are correct?",
+        "subs":  [
+                     "1. He will now be known as Leo XV.",
+                     "2. He became the 271st Catholic Pope.",
+                     "3. He is a dual citizen of the United States and Peru."
+                 ],
+        "options":  [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 only",
+                        "3 only"
+                    ],
+        "answer":  "d",
+        "explanation":  "Robert Prevost, elected in 2025, is the first US-born Pope and holds dual US-Peruvian citizenship (statement 3 correct). However, he took the name Leo XIV (not XV) — so statement 1 is wrong — and he is the 267th Pope (not the 271st) — so statement 2 is wrong. Hence 3 only. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-II-q101",
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "subtopic":  "Key Indian functionaries (NSA, FS, CEA etc.)",
+        "topicOriginal":  "Persons in News",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  101,
+        "ref":  "CDS 2023-II, Q.101",
+        "stem":  "About the National Centre for Good Governance (NCGG):",
+        "subs":  [
+                     "1. It was set up by the Sardar Vallabhbhai Patel National Police Academy.",
+                     "2. The National Institute of Administrative Research (NIAR) has been rechristened and subsumed into NCGG.",
+                     "3. NCGG is an apex-level autonomous body under the Ministry of Home Affairs.",
+                     "4. The Chairperson of its Governing Body is the Cabinet Secretary."
+                 ],
+        "options":  [
+                        "1, 2 and 4",
+                        "2 and 4 only",
+                        "1 and 3 only",
+                        "3 and 4 only"
+                    ],
+        "answer":  "b",
+        "explanation":  "The NCGG was created by subsuming/rechristening the NIAR (which was part of LBSNAA, Mussoorie) (2), and its Governing Body is chaired by the Cabinet Secretary (4). It functions under the Department of Administrative Reforms (Ministry of Personnel), not the Ministry of Home Affairs — so statement 3 is wrong — and statement 1 (set up by the SVP Police Academy) is also wrong. Hence 2 and 4 only. (A polity/governance item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2019-I-q109",
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "subtopic":  "Recent books \u0026 autobiographies",
+        "topicOriginal":  "Books \u0026 Authors",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  109,
+        "ref":  "CDS 2019-I, Q.109",
+        "stem":  "Match author with work: A. Sekhar Bandyopadhyay B. Sarvepalli Gopal C. David Hardiman D. Gyanendra Pandey |",
+        "subs":  [
+                     "1. Jawaharlal Nehru: A Biography, Vol-I",
+                     "2. From Plassey to Partition: A History of Modern India",
+                     "3. The Ascendancy of the Congress in Uttar Pradesh, 1926-1934",
+                     "4. Gandhi in His Time and Ours."
+                 ],
+        "options":  [
+                        "2, 4, 1, 3",
+                        "2, 1, 4, 3",
+                        "3, 1, 4, 2",
+                        "3, 4, 1, 2"
+                    ],
+        "answer":  "b",
+        "explanation":  "Sekhar Bandyopadhyay → From Plassey to Partition (2); Sarvepalli Gopal → Jawaharlal Nehru: A Biography (1); David Hardiman → Gandhi in His Time and Ours (4); Gyanendra Pandey → The Ascendancy of the Congress in UP (3). Hence A-2, B-1, C-4, D-3. (A history/historiography item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2021-II-q59",
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "subtopic":  "Recent books \u0026 autobiographies",
+        "topicOriginal":  "Books \u0026 Authors",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  59,
+        "ref":  "CDS 2021-II, Q.59",
+        "stem":  "The biography of Shaikh Muinuddin Chishti, authored by Jahanara, is known as",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Munis al Arwah",
+                        "Fawaid ul Fuwad",
+                        "Sirat ul Auliya",
+                        "Muraqqa-e Dehli"
+                    ],
+        "answer":  "a",
+        "explanation":  "The Mughal princess Jahanara (Shah Jahan\u0027s daughter), herself a devout follower of the Chishti order, wrote \"Munis al-Arwah\" (\"The Confidant of Spirits\") — a biography of the great Chishti saint Khwaja Muinuddin Chishti of Ajmer. (A history item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-II-q108",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "International Days \u0026 UN observances",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2017,
+        "session":  "II",
+        "paper":  "CDS 2017-II",
+        "qno":  108,
+        "ref":  "CDS 2017-II, Q.108",
+        "stem":  "National Handloom Day is observed on",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "7th June",
+                        "17th July",
+                        "7th August",
+                        "17th September"
+                    ],
+        "answer":  "c",
+        "explanation":  "National Handloom Day is observed on 7 August, marking the anniversary of the launch of the Swadeshi Movement (1905), to honour handloom weavers and promote handloom products. (A days/observances item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2020-I-q118",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "International Days \u0026 UN observances",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  118,
+        "ref":  "CDS 2020-I, Q.118",
+        "stem":  "Which was the host country for World Tourism Day, 2019?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "USA",
+                        "India",
+                        "Russia",
+                        "Canada"
+                    ],
+        "answer":  "b",
+        "explanation":  "India hosted the official World Tourism Day 2019 celebrations (in New Delhi), with the theme \"Tourism and Jobs: a better future for all.\" (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2020-II-q25",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "International Days \u0026 UN observances",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  25,
+        "ref":  "CDS 2020-II, Q.25",
+        "stem":  "August 12 is celebrated as",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "World Environment Day",
+                        "World No-Tobacco Day",
+                        "International Day against Drug Abuse and Illicit Trafficking",
+                        "International Youth Day"
+                    ],
+        "answer":  "d",
+        "explanation":  "12 August is observed as International Youth Day by the UN. (World Environment Day is 5 June; World No-Tobacco Day is 31 May; the Day against Drug Abuse is 26 June.) (A days/observances item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-I-q59",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "International Days \u0026 UN observances",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  59,
+        "ref":  "CDS 2023-I, Q.59",
+        "stem":  "Match Day with Date: A. World Wetlands Day B. International Tiger Day C. World Water Day D. International Mother Earth Day |",
+        "subs":  [
+                     "1. 29 July",
+                     "2. 22 April",
+                     "3. 2 February",
+                     "4. 22 March."
+                 ],
+        "options":  [
+                        "A-3 B-4 C-1 D-2",
+                        "A-3 B-1 C-4 D-2",
+                        "A-2 B-1 C-4 D-3",
+                        "A-2 B-4 C-1 D-3"
+                    ],
+        "answer":  "b",
+        "explanation":  "World Wetlands Day → 2 February (3); International Tiger Day → 29 July (1); World Water Day → 22 March (4); International Mother Earth Day → 22 April (2). Hence A-3, B-1, C-4, D-2. (A days/observances item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-II-q102",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "International Days \u0026 UN observances",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  102,
+        "ref":  "CDS 2023-II, Q.102",
+        "stem":  "Match International Yoga Day edition with theme: A. 6th Edition B. 7th Edition C. 8th Edition D. 9th Edition |",
+        "subs":  [
+                     "1. Yoga for well-being",
+                     "2. Yoga for health",
+                     "3. Yoga at home",
+                     "4. Yoga for Humanity."
+                 ],
+        "options":  [
+                        "A-2 B-4 C-1 D-3",
+                        "A-2 B-1 C-4 D-3",
+                        "A-3 B-1 C-4 D-2",
+                        "A-3 B-4 C-1 D-2"
+                    ],
+        "answer":  "b",
+        "explanation":  "International Yoga Day themes: 6th IDY (2020) \u0027Yoga for Health / Yoga at Home\u0027; 7th IDY (2021) \u0027Yoga for Well-being\u0027; 8th IDY (2022) \u0027Yoga for Humanity\u0027; 9th IDY (2023) \u0027Yoga for Vasudhaiva Kutumbakam\u0027. This gives A-2, B-1, C-4, D-3 = option b.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2019-II-q20",
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "subtopic":  "National days \u0026 themes",
+        "topicOriginal":  "Days, Themes \u0026 Observances",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  20,
+        "ref":  "CDS 2019-II, Q.20",
+        "stem":  "In India, May 21 is observed as",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "NRI Day",
+                        "National Youth Day",
+                        "National Technology Day",
+                        "National Anti-Terrorism Day"
+                    ],
+        "answer":  "d",
+        "explanation":  "21 May is observed as National Anti-Terrorism Day in India, marking the assassination of former PM Rajiv Gandhi (1991), to promote peace and the message against terrorism. (National Technology Day is 11 May; National Youth Day is 12 January.) (A days/observances item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-II-q74",
+        "subject":  "Miscellaneous",
+        "topic":  "Reports \u0026 Indices",
+        "subtopic":  "Global indices \u0026 rankings",
+        "topicOriginal":  "Reports \u0026 Indices",
+        "year":  2017,
+        "session":  "II",
+        "paper":  "CDS 2017-II",
+        "qno":  74,
+        "ref":  "CDS 2017-II, Q.74",
+        "stem":  "Which indicators were used by the World Economic Forum to calculate the Global Competitiveness Index for 2016-17?",
+        "subs":  [
+                     "1. Efficiency enhancer subindex",
+                     "2. Innovation and sophistication factors subindex",
+                     "3. Life expectancy enhancer subindex."
+                 ],
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "answer":  "a",
+        "explanation":  "The WEF\u0027s Global Competitiveness Index was built on three sub-indices: basic requirements, efficiency enhancers (1) and innovation \u0026 sophistication factors (2). There is no \"life-expectancy enhancer subindex\" (3) (life expectancy is just one indicator within the health pillar). Hence 1 and 2 only.",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-II-q119",
+        "subject":  "Miscellaneous",
+        "topic":  "Reports \u0026 Indices",
+        "subtopic":  "Global indices \u0026 rankings",
+        "topicOriginal":  "Reports \u0026 Indices",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  119,
+        "ref":  "CDS 2025-II, Q.119",
+        "stem":  "Which pairs of Government of India initiatives and their objectives are correctly matched?",
+        "subs":  [
+                     "1. Global Capability Centre (GCC) – Reshaping corporate landscape",
+                     "2. U-WIN Portal – Ease of doing business across states."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "a",
+        "explanation":  "Global Capability Centres (GCCs) — offshore units of multinationals doing high-value work in India — are indeed reshaping the corporate/services landscape (1, correct). Pair 2 is wrong: the U-WIN portal is for digitizing immunization records (vaccination of pregnant women and children), not for \"ease of doing business.\" Hence 1 only. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-II-q118",
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "subtopic":  "Recent schemes \u0026 missions",
+        "topicOriginal":  "Government Schemes \u0026 Initiatives",
+        "year":  2017,
+        "session":  "II",
+        "paper":  "CDS 2017-II",
+        "qno":  118,
+        "ref":  "CDS 2017-II, Q.118",
+        "stem":  "The Pragati scholarship scheme of the Government of India is meant for",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "higher education of girls",
+                        "technical education of girls",
+                        "secondary education of girls",
+                        "elementary education of girls"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Pragati Scholarship Scheme (of AICTE) provides financial assistance to girl students pursuing technical education (diploma/degree), to encourage women in technical fields. (A schemes item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2024-I-q5",
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "subtopic":  "Recent schemes \u0026 missions",
+        "topicOriginal":  "Government Schemes \u0026 Initiatives",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  5,
+        "ref":  "CDS 2024-I, Q.5",
+        "stem":  "About the Sugamya Bharat Abhiyan:",
+        "subs":  [
+                     "1. It is initiated by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice and Empowerment.",
+                     "2. It aims to develop an inclusive society for persons with disabilities.",
+                     "3. It has provisions of pension for persons with disabilities."
+                 ],
+        "options":  [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Sugamya Bharat Abhiyan (Accessible India Campaign) — run by the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice (1) — aims at universal accessibility (built environment, transport, ICT) for an inclusive society for persons with disabilities (2). It is an accessibility programme; it does not provide pensions (3 is wrong). Hence 1 and 2 only. (A schemes item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2024-I-q108",
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "subtopic":  "Recent schemes \u0026 missions",
+        "topicOriginal":  "Government Schemes \u0026 Initiatives",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  108,
+        "ref":  "CDS 2024-I, Q.108",
+        "stem":  "Which cities were conferred the cleanest city award under Swachh Survekshan Awards, 2023?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Varanasi and Prayagraj",
+                        "Indore and Surat",
+                        "Prayagraj and Indore",
+                        "Surat and Varanasi"
+                    ],
+        "answer":  "b",
+        "explanation":  "In the Swachh Survekshan 2023 awards, Indore and Surat jointly were adjudged the cleanest cities — Indore\u0027s seventh consecutive top ranking, now shared with Surat. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-I-q70",
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "subtopic":  "Recent schemes \u0026 missions",
+        "topicOriginal":  "Government Schemes \u0026 Initiatives",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  70,
+        "ref":  "CDS 2025-I, Q.70",
+        "stem":  "Which is an integrated teacher-training programme?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Vidya Pravesh",
+                        "NISHTHA",
+                        "Vidyanjali",
+                        "DIKSHA"
+                    ],
+        "answer":  "b",
+        "explanation":  "NISHTHA (National Initiative for School Heads\u0027 and Teachers\u0027 Holistic Advancement) is the large-scale integrated teacher-training programme under the school-education ministry. (Vidya Pravesh is a school-readiness module; Vidyanjali is a volunteering programme; DIKSHA is a digital content platform.) (A schemes item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-I-q48",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "National symbols, currencies \u0026 capitals",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  48,
+        "ref":  "CDS 2017-I, Q.48",
+        "stem":  "Rand (ZAR) is the currency of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Burundi",
+                        "Libya",
+                        "Sudan",
+                        "South Africa"
+                    ],
+        "answer":  "d",
+        "explanation":  "The Rand (currency code ZAR) is the currency of South Africa. (A GK item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2017-I-q50",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "National symbols, currencies \u0026 capitals",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  50,
+        "ref":  "CDS 2017-I, Q.50",
+        "stem":  "Which statement is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pavo cristatus is the national bird of India.",
+                        "Nelumbo nucifera Gaertn is the national flower of India.",
+                        "Ficus benghalensis is the national tree of India.",
+                        "Mangifera indica is the national animal of India."
+                    ],
+        "answer":  "d",
+        "explanation":  "Mangifera indica is the mango — India\u0027s national fruit, not the national animal (the national animal is the tiger, Panthera tigris) — so statement d is false. The others are correct: peacock (national bird), lotus (national flower), banyan (national tree). (A national-symbols item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-I-q117",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "National symbols, currencies \u0026 capitals",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  117,
+        "ref":  "CDS 2025-I, Q.117",
+        "stem":  "The bald eagle has recently been officially declared as the national bird of which country?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "China",
+                        "England",
+                        "USA",
+                        "Ireland"
+                    ],
+        "answer":  "c",
+        "explanation":  "Although it had long been a national symbol, the bald eagle was only officially designated the national bird of the United States by law in 2024. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2018-I-q66",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  66,
+        "ref":  "CDS 2018-I, Q.66",
+        "stem":  "The Ministry of Communication launched a pan-India scholarship programme for schoolchildren called Deen Dayal SPARSH Yojana. Its objective is to increase the reach of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "sports",
+                        "philately",
+                        "music",
+                        "web designing"
+                    ],
+        "answer":  "b",
+        "explanation":  "SPARSH (Scholarship for Promotion of Aptitude and Research in Stamps as a Hobby) — the Deen Dayal SPARSH Yojana — promotes philately (stamp collecting) among school students. (A schemes item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2019-I-q17",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  17,
+        "ref":  "CDS 2019-I, Q.17",
+        "stem":  "Pakyong Airport is located in",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Sikkim",
+                        "Jammu and Kashmir",
+                        "Arunachal Pradesh",
+                        "Mizoram"
+                    ],
+        "answer":  "a",
+        "explanation":  "Pakyong Airport, Sikkim\u0027s first airport (opened 2018), is a greenfield airport near Gangtok — one of India\u0027s highest. (A geography/current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2019-I-q20",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  20,
+        "ref":  "CDS 2019-I, Q.20",
+        "stem":  "Saurabh Chaudhary excels in which sport?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Archery",
+                        "Shooting",
+                        "Boxing",
+                        "Judo"
+                    ],
+        "answer":  "b",
+        "explanation":  "Saurabh Chaudhary is an Indian pistol shooter (10 m air pistol), a youth Olympic and Asian Games gold medallist. (A sports item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2019-I-q101",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  101,
+        "ref":  "CDS 2019-I, Q.101",
+        "stem":  "Afro-Asian solidarity as a central element of India\u0027s foreign policy was initiated by which Prime Minister?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Narendra Modi",
+                        "I. K. Gujral",
+                        "J. L. Nehru",
+                        "Manmohan Singh"
+                    ],
+        "answer":  "c",
+        "explanation":  "Jawaharlal Nehru made Afro-Asian solidarity a pillar of India\u0027s foreign policy — championing decolonisation, the 1955 Bandung Conference and Non-Alignment. (A history/IR item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2020-II-q83",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  83,
+        "ref":  "CDS 2020-II, Q.83",
+        "stem":  "The \"Stay in India and Study in India\" programme is initiated by",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "the Ministry of Youth Affairs and Sports",
+                        "the Ministry of Culture",
+                        "the Ministry of Education",
+                        "the Ministry of Tourism"
+                    ],
+        "answer":  "c",
+        "explanation":  "The \"Study in India\" initiative (to attract foreign students and retain Indian students) is run by the Ministry of Education (then HRD Ministry). (A schemes item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-I-q31",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  31,
+        "ref":  "CDS 2023-I, Q.31",
+        "stem":  "After forming the Indian National Army, Subhas Chandra Bose:",
+        "subs":  [
+                     "1. recruited a large number of soldiers from Indian Prisoners of War in Japanese camps.",
+                     "2. introduced a women\u0027s detachment named after the Rani of Jhansi."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "c",
+        "explanation":  "Subhas Chandra Bose built the INA largely from Indian POWs captured by Japan in Southeast Asia (1), and famously raised the Rani of Jhansi Regiment, an all-women combat unit (2). Both statements are correct. (A history item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2023-I-q62",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  62,
+        "ref":  "CDS 2023-I, Q.62",
+        "stem":  "Which is the venue of the UN 2023 Water Conference?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Washington, DC",
+                        "New York",
+                        "San Diego",
+                        "New Delhi"
+                    ],
+        "answer":  "b",
+        "explanation":  "The UN 2023 Water Conference was held at UN Headquarters in New York — the first major UN conference on water in nearly half a century. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "misc-2025-II-q16",
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "subtopic":  "Other current affairs",
+        "topicOriginal":  "National Symbols \u0026 Miscellaneous GK",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  16,
+        "ref":  "CDS 2025-II, Q.16",
+        "stem":  "Which pairs of institute and location are correctly matched?",
+        "subs":  [
+                     "1. Indian Institute of Advanced Study – Shimla",
+                     "2. Indian Institute of Public Administration – New Delhi",
+                     "3. Sushma Swaraj Institute of Foreign Service – Nainital."
+                 ],
+        "options":  [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 only",
+                        "2 only"
+                    ],
+        "answer":  "a",
+        "explanation":  "The Indian Institute of Advanced Study is at Shimla (in the former Viceregal Lodge) (1), and the Indian Institute of Public Administration is in New Delhi (2). Pair 3 is wrong: the Sushma Swaraj Institute of Foreign Service (the diplomatic training academy) is in New Delhi, not Nainital. Hence 1 and 2. (A GK item.)",
+        "defective":  false
+    }
+]
