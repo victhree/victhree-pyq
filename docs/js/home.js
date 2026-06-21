@@ -2,7 +2,7 @@
 function $(id){ return document.getElementById(id); }
 
 const SUBJECT_ICON = {
-  'Geography': '🌍', 'History': '🏛️', 'Polity': '⚖️', 'Economy': '📈', 'Economics': '📈',
+  'Art & Culture': '🎨', 'Geography': '🌍', 'History': '🏛️', 'Polity': '⚖️', 'Economy': '📈', 'Economics': '📈',
   'Science': '⚛️', 'General Science': '🔬', 'English': '✍️', 'Current Affairs': '📰',
   'Elementary Mathematics': '➗'
 };

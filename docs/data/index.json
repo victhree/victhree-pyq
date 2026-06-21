@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  1851,
-                   "answered":  1822,
-                   "subjects":  5,
+                   "questions":  2019,
+                   "answered":  1989,
+                   "subjects":  6,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -1203,6 +1203,275 @@
                                         {
                                             "name":  "CDS 2025-I",
                                             "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "art-culture",
+                         "name":  "Art \u0026 Culture",
+                         "file":  "data/art-culture.json",
+                         "count":  168,
+                         "answered":  167,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Architecture \u0026 Heritage",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "Awards \u0026 Cultural Institutions",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Festivals \u0026 Traditions",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Literature \u0026 Languages",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Art \u0026 Culture",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "Performing Arts",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Personalities \u0026 Cultural Reformers",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Religion \u0026 Philosophy",
+                                            "count":  31
+                                        },
+                                        {
+                                            "name":  "Visual Arts",
+                                            "count":  5
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Visual Arts":  [
+                                                               {
+                                                                   "name":  "Cave \u0026 Temple Paintings",
+                                                                   "count":  1
+                                                               },
+                                                               {
+                                                                   "name":  "Painters \u0026 Artists",
+                                                                   "count":  2
+                                                               },
+                                                               {
+                                                                   "name":  "Painting Styles \u0026 Schools",
+                                                                   "count":  2
+                                                               }
+                                                           ],
+                                           "Architecture \u0026 Heritage":  [
+                                                                                {
+                                                                                    "name":  "Buddhist / Jain / Hindu architecture",
+                                                                                    "count":  4
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Caves (Ajanta, Ellora, Elephanta)",
+                                                                                    "count":  2
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Harappan \u0026 Ancient sites",
+                                                                                    "count":  11
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Inscriptions, Coins \u0026 Ashokan Pillars",
+                                                                                    "count":  7
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Mughal \u0026 Sultanate architecture",
+                                                                                    "count":  2
+                                                                                },
+                                                                                {
+                                                                                    "name":  "Temples (Dravidian, Nagara, Vesara)",
+                                                                                    "count":  3
+                                                                                },
+                                                                                {
+                                                                                    "name":  "UNESCO World Heritage \u0026 ASI",
+                                                                                    "count":  3
+                                                                                }
+                                                                            ],
+                                           "Literature \u0026 Languages":  [
+                                                                               {
+                                                                                   "name":  "Languages, Scripts \u0026 Eighth Schedule",
+                                                                                   "count":  3
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Modern \u0026 Colonial-era books and authors",
+                                                                                   "count":  18
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Persian, Urdu \u0026 Medieval texts",
+                                                                                   "count":  8
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Sangam \u0026 Tamil literature",
+                                                                                   "count":  5
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Sanskrit \u0026 Classical works",
+                                                                                   "count":  18
+                                                                               }
+                                                                           ],
+                                           "Religion \u0026 Philosophy":  [
+                                                                              {
+                                                                                  "name":  "Bhakti \u0026 Sufi movements",
+                                                                                  "count":  8
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Buddhism \u0026 Jainism",
+                                                                                  "count":  6
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Hindu schools (Advaita, Vedanta, Shaivism)",
+                                                                                  "count":  6
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Sikhism, Islam \u0026 other religions in India",
+                                                                                  "count":  1
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Vedas, Upanishads \u0026 Smritis",
+                                                                                  "count":  10
+                                                                              }
+                                                                          ],
+                                           "Personalities \u0026 Cultural Reformers":  [
+                                                                                           {
+                                                                                               "name":  "Saints, philosophers \u0026 reformers",
+                                                                                               "count":  9
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "Western \u0026 comparative thinkers",
+                                                                                               "count":  3
+                                                                                           }
+                                                                                       ],
+                                           "Festivals \u0026 Traditions":  [
+                                                                               {
+                                                                                   "name":  "Hindu festivals",
+                                                                                   "count":  1
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Other religious festivals",
+                                                                                   "count":  2
+                                                                               }
+                                                                           ],
+                                           "Miscellaneous Art \u0026 Culture":  [
+                                                                                    {
+                                                                                        "name":  "Other",
+                                                                                        "count":  21
+                                                                                    }
+                                                                                ],
+                                           "Performing Arts":  [
+                                                                   {
+                                                                       "name":  "Classical Dance",
+                                                                       "count":  1
+                                                                   },
+                                                                   {
+                                                                       "name":  "Folk \u0026 Tribal Dance",
+                                                                       "count":  1
+                                                                   },
+                                                                   {
+                                                                       "name":  "Hindustani \u0026 Carnatic Music",
+                                                                       "count":  2
+                                                                   },
+                                                                   {
+                                                                       "name":  "Musical Instruments",
+                                                                       "count":  1
+                                                                   },
+                                                                   {
+                                                                       "name":  "Theatre, Cinema \u0026 Films",
+                                                                       "count":  4
+                                                                   }
+                                                               ],
+                                           "Awards \u0026 Cultural Institutions":  [
+                                                                                       {
+                                                                                           "name":  "Literary \u0026 cultural awards",
+                                                                                           "count":  3
+                                                                                       }
+                                                                                   ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  14
                                         },
                                         {
                                             "name":  "CDS 2025-II",
