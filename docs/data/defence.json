@@ -1,0 +1,2072 @@
+[
+    {
+        "id":  "def-2016-II-q99",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army Commands \u0026 Theatre",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  99,
+        "ref":  "CDS 2016-II, Q.99",
+        "stem":  "Which statement is not correct about the Andaman and Nicobar Command?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It is the first integrated theatre command in India.",
+                        "Its headquarters is at Port Blair.",
+                        "It is commanded by a three-star officer.",
+                        "It was set up by the British during the Second World War."
+                    ],
+        "answer":  "d",
+        "explanation":  "The Andaman and Nicobar Command (ANC) is India\u0027s first (and so far only) tri-service integrated theatre command, set up in 2001 with its headquarters at Port Blair, headed in rotation by a three-star officer from the three services. Statement d is false — it is a post-independence creation (2001), not a British wartime command.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q103",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army Commands \u0026 Theatre",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  103,
+        "ref":  "CDS 2016-II, Q.103",
+        "stem":  "Which is not one of the Commands of the Indian Army?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "South Western Command",
+                        "North Eastern Command",
+                        "Central Command",
+                        "Army Training Command (ARTRAC)"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Indian Army has seven commands — six operational (Northern, Eastern, Western, South Western, Southern, Central) and one training (ARTRAC, at Shimla). There is no \"North Eastern Command\" — the north-east falls under the Eastern Command (Kolkata). Hence b.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q101",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Regiments \u0026 Corps",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  101,
+        "ref":  "CDS 2016-II, Q.101",
+        "stem":  "Jammu and Kashmir Rifles is",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "an infantry regiment of the Indian Army",
+                        "a battalion of the Rashtriya Rifles",
+                        "the Armed Police of the State of J\u0026K",
+                        "a paramilitary force under the Ministry of Home Affairs"
+                    ],
+        "answer":  "a",
+        "explanation":  "The Jammu and Kashmir Rifles is a regular infantry regiment of the Indian Army (with origins in the erstwhile princely state forces of J\u0026K). It should not be confused with the Rashtriya Rifles (a counter-insurgency force) or the state armed police.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q102",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Regiments \u0026 Corps",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  102,
+        "ref":  "CDS 2016-II, Q.102",
+        "stem":  "Which one of the following is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The Infantry Regiment is also known as the Mechanized Infantry Regiment.",
+                        "The Corps of Electrical and Mechanical Engineers is subsumed in the Corps of Engineers.",
+                        "The Army Medical Corps and Army Dental Corps are divisions of the Army Service Corps.",
+                        "The Army has its own Corps of Air Defence."
+                    ],
+        "answer":  "d",
+        "explanation":  "The Army Air Defence (AAD) is a separate arm/corps of the Indian Army, responsible for protecting field forces and vital installations from air attack (guns and SAMs). The other statements are wrong: infantry and mechanized infantry are distinct; the Corps of EME is separate from the Corps of Engineers; and the Medical/Dental Corps are independent of the Army Service Corps.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q100",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Ranks \u0026 Hierarchy",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  100,
+        "ref":  "CDS 2016-II, Q.100",
+        "stem":  "Who is the Chairman of the Chiefs of Staff Committee?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The Chief of Army Staff",
+                        "The Chief of Naval Staff",
+                        "The Chief of Air Staff",
+                        "The member who has been the longest on the Committee"
+                    ],
+        "answer":  "d",
+        "explanation":  "Under the system in force when this question was set (before the Chief of Defence Staff was created in 2019), the Chiefs of Staff Committee was chaired on rotation by the senior-most service chief — the one with the longest tenure on the committee. (Since 2019, the CDS is the permanent chairman.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q104",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Ranks \u0026 Hierarchy",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  104,
+        "ref":  "CDS 2016-II, Q.104",
+        "stem":  "Which statement is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The rank of Second Lieutenant has been abolished.",
+                        "The Chief of Army Staff carries the rank of Field Marshal.",
+                        "All officers posted to Andaman and Nicobar Islands wear the ranks of the Indian Navy.",
+                        "The rank of Major General is higher than Lieutenant General."
+                    ],
+        "answer":  "a",
+        "explanation":  "The Army\u0027s entry-level commissioned rank of Second Lieutenant was abolished (around 2004–05) — officers are now commissioned directly as Lieutenant. The others are wrong: the COAS is a General (Field Marshal is an honorary five-star rank held only twice); and Lieutenant General is higher than Major General (so d is reversed).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q104",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Ranks \u0026 Hierarchy",
+        "topicOriginal":  "Indian Army",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  104,
+        "ref":  "CDS 2017-I, Q.104",
+        "stem":  "The rank of Captain in the Indian Navy is equivalent to",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Captain of the Indian Army",
+                        "Group Captain in the Indian Air Force",
+                        "Lieutenant Colonel of the Indian Army",
+                        "Wing Commander of the Indian Air Force"
+                    ],
+        "answer":  "b",
+        "explanation":  "Across the three services, a Navy Captain equates to an Army Colonel and an Air Force Group Captain (b). (An Army Captain is several ranks junior — equivalent to a Navy Lieutenant — which is the trap in option a.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q84",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Ranks \u0026 Hierarchy",
+        "topicOriginal":  "Indian Army",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  84,
+        "ref":  "CDS 2018-I, Q.84",
+        "stem":  "Which is not a correct ascending order of commissioned ranks in the Indian defence forces?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Lieutenant, Captain, Major, Lt Colonel, Colonel, Brigadier, Major General, Lt General, General",
+                        "Flying Officer, Flight Lieutenant, Squadron Leader, Commander, Group Captain, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal",
+                        "Flying Officer, Flight Lieutenant, Squadron Leader, Group Captain, Wing Commander, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal",
+                        "Sub Lieutenant, Lieutenant, Lieutenant Commander, Commander, Captain, Commodore, Rear Admiral, Vice Admiral, Admiral"
+                    ],
+        "answer":  "",
+        "explanation":  "[Defective / two wrong options] The correct IAF ascending order is Flying Officer, Flight Lieutenant, Squadron Leader, Wing Commander, Group Captain, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal. Option c is wrong because it places Group Captain before Wing Commander. But option b is ALSO wrong because it inserts \u0027Commander\u0027 (a Navy rank) into the IAF sequence and drops Wing Commander - so the question has two incorrect options and no single clean key.",
+        "defective":  true
+    },
+    {
+        "id":  "def-2018-II-q65",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Ranks \u0026 Hierarchy",
+        "topicOriginal":  "Indian Army",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  65,
+        "ref":  "CDS 2018-II, Q.65",
+        "stem":  "Who is the Chairman of the Defence Planning Committee set up in April 2018?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The Prime Minister",
+                        "The National Security Advisor",
+                        "The Defence Minister",
+                        "The Chief of the Army Staff"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Defence Planning Committee (DPC), created in April 2018 as a permanent body to give defence and national-security planning long-term coherence, is chaired by the National Security Advisor (NSA); its members include the three service chiefs and the defence, foreign and expenditure secretaries.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q54",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  54,
+        "ref":  "CDS 2016-II, Q.54",
+        "stem":  "Which does not signify a battle tank?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "T-55",
+                        "T-155",
+                        "T-72",
+                        "T-90"
+                    ],
+        "answer":  "b",
+        "explanation":  "The T-55, T-72 and T-90 are all main battle tanks of the Soviet/Russian \"T-series\" (the T-72 and T-90 are mainstays of the Indian Army). \"T-155\" is not a tank — it refers to a 155 mm self-propelled howitzer (the Turkish \"Firtina\"). Hence b.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q73",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  73,
+        "ref":  "CDS 2016-II, Q.73",
+        "stem":  "The Government cleared production of 18 indigenous Dhanush artillery guns to be produced by",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Indian Army",
+                        "US Army",
+                        "Indian Ordnance Factory Board",
+                        "Indian and US Army jointly"
+                    ],
+        "answer":  "c",
+        "explanation":  "The Dhanush is an indigenous 155 mm towed howitzer — an upgraded, \"Indianised\" version of the Bofors gun — produced by the Ordnance Factory Board (OFB), earning it the nickname \"desi Bofors.\"",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q66",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  66,
+        "ref":  "CDS 2018-II, Q.66",
+        "stem":  "Tejas is the name of which of the following?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Main battle tank",
+                        "Nuclear submarine",
+                        "Light combat aircraft",
+                        "Aircraft carrier"
+                    ],
+        "answer":  "c",
+        "explanation":  "Tejas is India\u0027s indigenous Light Combat Aircraft (LCA), designed by the ADA and built by HAL — a single-engine, multirole fighter inducted into the Indian Air Force.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q89",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  89,
+        "ref":  "CDS 2018-II, Q.89",
+        "stem":  "Which manufacturer is engaged in upgrading the Swedish 155-mm Bofors Howitzer under Project Dhanush?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Bharat Electronics Limited",
+                        "Ordnance Factory Board",
+                        "Bharat Dynamics Limited",
+                        "Mishra Dhatu Nigam"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Ordnance Factory Board produces the Dhanush gun, derived from the licence-produced Bofors design. (BEL makes electronics; BDL makes missiles; MIDHANI makes special alloys/metals.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2019-I-q15",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  15,
+        "ref":  "CDS 2019-I, Q.15",
+        "stem":  "Prahaar is a",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "battle tank",
+                        "surface-to-surface missile",
+                        "aircraft carrier",
+                        "submarine"
+                    ],
+        "answer":  "b",
+        "explanation":  "Prahaar is an indigenous, road-mobile, short-range surface-to-surface tactical ballistic missile developed by DRDO (range ~150 km), meant to fill the gap between unguided rockets (Pinaka) and longer-range missiles (Prithvi).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-I-q81",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  81,
+        "ref":  "CDS 2021-I, Q.81",
+        "stem":  "Which is correct about Pinaka?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It is a multi-barrel rocket system.",
+                        "It is a type of battle tank.",
+                        "It is an advanced submarine.",
+                        "It is an indigenously developed drone system."
+                    ],
+        "answer":  "a",
+        "explanation":  "Pinaka is an indigenous Multi-Barrel Rocket Launcher (MBRL) system developed by DRDO — a battery can fire a salvo of rockets to saturate a target area within seconds. It is named after Lord Shiva\u0027s bow.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-II-q105",
+        "subject":  "Defence",
+        "topic":  "Indian Army",
+        "subtopic":  "Army equipment (Tanks, Artillery, APCs)",
+        "topicOriginal":  "Indian Army",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  105,
+        "ref":  "CDS 2021-II, Q.105",
+        "stem":  "Pinaka, developed in India, is a",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "battle tank",
+                        "multi-barrel rocket launcher",
+                        "anti-tank guided missile",
+                        "armoured utility vehicle"
+                    ],
+        "answer":  "b",
+        "explanation":  "As above, Pinaka is a multi-barrel rocket launcher system — a key area-bombardment artillery weapon of the Indian Army, with progressively longer-range guided variants now in service.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q80",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Commands \u0026 Headquarters",
+        "topicOriginal":  "Indian Navy",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  80,
+        "ref":  "CDS 2017-I, Q.80",
+        "stem":  "The headquarters of the Southern Naval Command is located at",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Karwar",
+                        "Kochi",
+                        "Thiruvananthapuram",
+                        "Chennai"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Indian Navy has three commands: the Western Naval Command (Mumbai), the Eastern Naval Command (Visakhapatnam) and the Southern Naval Command (Kochi) — the last being the Navy\u0027s principal training command. Hence Kochi.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q106",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  106,
+        "ref":  "CDS 2017-I, Q.106",
+        "stem":  "The fast attack craft INS Tihayu (commissioned October 2016) is based at",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Kochi",
+                        "Panaji",
+                        "Visakhapatnam",
+                        "Mumbai"
+                    ],
+        "answer":  "c",
+        "explanation":  "INS Tihayu, a Water Jet Fast Attack Craft built by GRSE, was based at Visakhapatnam under the Eastern Naval Command, for coastal patrol and low-intensity maritime operations. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q36",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  36,
+        "ref":  "CDS 2018-I, Q.36",
+        "stem":  "Which is not an exclusive right of a coastal nation over its Exclusive Economic Zone (EEZ)?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Survey and exploitation of mineral/ocean-deposit resources",
+                        "Exploitation of marine energy and organisms including fishing",
+                        "Conservation and management of marine resources",
+                        "Navigation of ships and laying down submarine cables"
+                    ],
+        "answer":  "d",
+        "explanation":  "Under UNCLOS, a coastal state has sovereign rights over the resources of its EEZ (out to 200 nautical miles) — exploiting minerals, marine energy, fishing, and conserving resources (a, b, c). But freedom of navigation and the laying of submarine cables/pipelines are rights enjoyed by all states in the EEZ, not exclusive to the coastal nation. Hence d. (A maritime-law item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q88",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  88,
+        "ref":  "CDS 2018-II, Q.88",
+        "stem":  "What is India\u0027s first Indigenous Aircraft Carrier (IAC) called?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Vikrant",
+                        "Virat",
+                        "Vaibhav",
+                        "Varaha"
+                    ],
+        "answer":  "a",
+        "explanation":  "INS Vikrant (IAC-1) is India\u0027s first indigenously designed and built aircraft carrier, constructed at Cochin Shipyard and commissioned in 2022 — making India one of a handful of nations able to build its own carriers. (The earlier INS Vikrant of 1961 was British-built.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2019-II-q14",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  14,
+        "ref":  "CDS 2019-II, Q.14",
+        "stem":  "Which IN ships participated in SIMBEX-19?",
+        "subs":  [
+                     "1. INS Kolkata",
+                     "2. INS Shakti",
+                     "3. INS Vikrant."
+                 ],
+        "options":  [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                    ],
+        "answer":  "b",
+        "explanation":  "SIMBEX is the annual Singapore-India Maritime Bilateral Exercise. In the 2019 edition, the Indian Navy was represented by the destroyer INS Kolkata and the fleet tanker INS Shakti (1, 2). INS Vikrant was not yet commissioned in 2019, so statement 3 is wrong. Hence 1 and 2 only.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2020-II-q116",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  116,
+        "ref":  "CDS 2020-II, Q.116",
+        "stem":  "Which is a decommissioned aircraft carrier?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "INS Rajput",
+                        "INS Chakra",
+                        "INS Khanderi",
+                        "INS Viraat"
+                    ],
+        "answer":  "d",
+        "explanation":  "INS Viraat (formerly HMS Hermes), once the world\u0027s oldest serving carrier, was decommissioned in 2017. (INS Rajput was a destroyer, INS Chakra a leased nuclear submarine, and INS Khanderi a Scorpene-class submarine.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2020-II-q118",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  118,
+        "ref":  "CDS 2020-II, Q.118",
+        "stem":  "The Andaman \u0026 Nicobar islands were connected to the mainland by a Submarine Optical Fibre Cable. Which island was not connected initially?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Shaheed Island",
+                        "Swaraj Island",
+                        "Little Andaman",
+                        "Port Blair"
+                    ],
+        "answer":  "a",
+        "explanation":  "The 2020 Chennai–Andaman \u0026 Nicobar OFC linked Port Blair (the hub) with islands including Swaraj Dweep (Havelock), Little Andaman, Car Nicobar, Kamorta, Great Nicobar, Long Island and Rangat. Shaheed Dweep (Neil Island) was not among the initially connected nodes. (Worth confirming against the original key.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-I-q88",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  88,
+        "ref":  "CDS 2021-I, Q.88",
+        "stem":  "Which ship was involved in Mission Sagar II?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "INS Shakti",
+                        "INS Vikramaditya",
+                        "INS Kesari",
+                        "INS Airavat"
+                    ],
+        "answer":  "d",
+        "explanation":  "Mission Sagar-II was carried out by INS Airavat, which entered Port Sudan on 2 November 2020 with food aid. INS Kesari is associated with the earlier Mission Sagar (I) outreach, not Mission Sagar-II. Hence the answer is INS Airavat (option d).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-II-q113",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  113,
+        "ref":  "CDS 2021-II, Q.113",
+        "stem":  "INS Tabar participated in a two-day naval exercise with the Italian Navy. It was conducted in the",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Ionian Sea",
+                        "Adriatic Sea",
+                        "Tyrrhenian Sea",
+                        "Mediterranean Sea"
+                    ],
+        "answer":  "c",
+        "explanation":  "During its 2021 overseas deployment, the frigate INS Tabar conducted a bilateral passage exercise with the Italian Navy off the Italian coast, reported to be in the Tyrrhenian Sea. (A current-affairs item worth confirming against the official key — broadly it was in the Mediterranean.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2022-II-q100",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  100,
+        "ref":  "CDS 2022-II, Q.100",
+        "stem":  "The P-75 I (P-75 India) project refers to the manufacture of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Diesel-electric submarines",
+                        "Nuclear-powered submarines",
+                        "Aircraft carrier warships",
+                        "Field guns"
+                    ],
+        "answer":  "a",
+        "explanation":  "Project-75I is the Indian Navy\u0027s programme to build six advanced conventional (diesel-electric) submarines with Air-Independent Propulsion (AIP) — a follow-on to Project-75 (the Scorpene/Kalvari-class), under the \"Make in India\" defence push.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-II-q119",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  119,
+        "ref":  "CDS 2024-II, Q.119",
+        "stem":  "Which statement about INS Tarmugli is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It is a fast attack craft commissioned by the Indian Navy.",
+                        "It was commissioned at Naval Dockyard, Visakhapatnam.",
+                        "It was given to the Sri Lankan Naval Force in 2006 and returned to the Indian Navy in May 2023.",
+                        "It is to be used for coastal surveillance."
+                    ],
+        "answer":  "c",
+        "explanation":  "INS Tarmugli is an indigenous Fast Attack Craft for coastal surveillance, commissioned at Visakhapatnam (a, b, d correct). Statement c is the incorrect one: the vessel was gifted to the Maldivian National Defence Force in 2006 as MCGS Huravee (not the Sri Lankan Navy), returned to India in May 2023, and recommissioned as INS Tarmugli at Visakhapatnam. Hence c.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q106",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  106,
+        "ref":  "CDS 2025-II, Q.106",
+        "stem":  "Which statement about Nilgiri, Surat and Vaghsheer is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "They are Tiger Reserves in Gujarat.",
+                        "They are combatants commissioned by the Indian Navy.",
+                        "They are Biodiversity parks maintained by the Indian Army.",
+                        "They are Tiger Reserves maintained by the Indian Navy."
+                    ],
+        "answer":  "b",
+        "explanation":  "INS Nilgiri (lead Project-17A stealth frigate), INS Surat (Project-15B destroyer) and INS Vaghsheer (Kalvari/Scorpene-class submarine) were commissioned as frontline naval combatants in January 2025 - so they are combatants of the Indian Navy (option b). Note: the correct spelling is Vaghsheer, not Vagsheer.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q112",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ships, Submarines \u0026 Carriers",
+        "topicOriginal":  "Indian Navy",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  112,
+        "ref":  "CDS 2025-II, Q.112",
+        "stem":  "About Arnala, an Anti-Submarine Warfare Shallow Water Craft:",
+        "subs":  [
+                     "1. It is indigenously designed in India.",
+                     "2. It is named after the historic Arnala fort in Maharashtra.",
+                     "3. It was built under a Public-Private Partnership of GRSE with M/s L\u0026T Shipyard."
+                 ],
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "answer":  "d",
+        "explanation":  "INS Arnala, the first of the Navy\u0027s Anti-Submarine Warfare Shallow Water Craft (ASW-SWC), is indigenously designed (1), named after the Arnala fort off the Maharashtra coast (2), and built under a GRSE–L\u0026T public-private partnership (3). All three statements are correct. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2020-I-q101",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ranks \u0026 Operations",
+        "topicOriginal":  "Indian Navy",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  101,
+        "ref":  "CDS 2020-I, Q.101",
+        "stem":  "The maiden trilateral naval exercise involving India, Singapore and Thailand was held at",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Port Blair",
+                        "Chennai",
+                        "Panaji",
+                        "Kochi"
+                    ],
+        "answer":  "a",
+        "explanation":  "The inaugural SITMEX — the trilateral Singapore-India-Thailand Maritime Exercise (2019) — was hosted off Port Blair under the Andaman and Nicobar Command, reflecting India\u0027s focus on the eastern Indian Ocean. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-I-q86",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Naval Ranks \u0026 Operations",
+        "topicOriginal":  "Indian Navy",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  86,
+        "ref":  "CDS 2021-I, Q.86",
+        "stem":  "CARAT Bangladesh 2020 was a joint naval exercise between Bangladesh and",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "India",
+                        "USA",
+                        "Japan",
+                        "Thailand"
+                    ],
+        "answer":  "b",
+        "explanation":  "CARAT (Cooperation Afloat Readiness and Training) is a series of bilateral naval exercises conducted by the United States with partner navies across South and Southeast Asia — CARAT Bangladesh 2020 being the US-Bangladesh edition. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q72",
+        "subject":  "Defence",
+        "topic":  "Indian Navy",
+        "subtopic":  "Indian Coast Guard",
+        "topicOriginal":  "Indian Navy",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  72,
+        "ref":  "CDS 2018-I, Q.72",
+        "stem":  "Which statements about the role of the Indian Coast Guard are correct?",
+        "subs":  [
+                     "1. It has been entrusted with offshore security coordination authority.",
+                     "2. It is the lead intelligence agency for the coastal and sea border.",
+                     "3. Coastal security in territorial waters."
+                 ],
+        "options":  [
+                        "1 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "3 only"
+                    ],
+        "answer":  "a",
+        "explanation":  "In India\u0027s post-26/11 coastal-security architecture, the Coast Guard is the authority for offshore security coordination (1) and is responsible for coastal security in territorial waters (3). It is not the \"lead intelligence agency\" for the coastal/sea border (intelligence coordination rests with other agencies) — so statement 2 is wrong. Hence 1 and 3 only.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q62",
+        "subject":  "Defence",
+        "topic":  "Indian Air Force",
+        "subtopic":  "Aircraft \u0026 Squadrons",
+        "topicOriginal":  "Indian Air Force",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  62,
+        "ref":  "CDS 2016-II, Q.62",
+        "stem":  "Which statement is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "BrahMos is a supersonic cruise missile made by India and Russia.",
+                        "The name BrahMos comes from the Brahmaputra and Moskva rivers.",
+                        "Indian scientists integrated BrahMos with the Sukhoi-30 MKI fighter.",
+                        "DRDO is the manufacturer of the Sukhoi-30 MKI fighter."
+                    ],
+        "answer":  "d",
+        "explanation":  "The Sukhoi-30 MKI is manufactured under licence by Hindustan Aeronautics Limited (HAL), not DRDO — so statement d is false. The other statements are correct: BrahMos is an Indo-Russian supersonic cruise missile (named after the Brahmaputra and Moskva rivers), and an air-launched version was integrated onto the Su-30 MKI.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q87",
+        "subject":  "Defence",
+        "topic":  "Indian Air Force",
+        "subtopic":  "Aircraft \u0026 Squadrons",
+        "topicOriginal":  "Indian Air Force",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  87,
+        "ref":  "CDS 2016-II, Q.87",
+        "stem":  "The first Tejas squadron of the IAF consists of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "20 aircraft with 4 in reserve",
+                        "100 aircraft with 10 in reserve",
+                        "20 aircraft with no reserve",
+                        "25 aircraft with 5 in reserve"
+                    ],
+        "answer":  "a",
+        "explanation":  "A fighter squadron in the IAF is typically 16 aircraft plus 4 reserves = 20. The first Tejas squadron — No. 45 Squadron, the \"Flying Daggers\" — was raised on this establishment. Hence a.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q74",
+        "subject":  "Defence",
+        "topic":  "Indian Air Force",
+        "subtopic":  "Aircraft \u0026 Squadrons",
+        "topicOriginal":  "Indian Air Force",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  74,
+        "ref":  "CDS 2017-I, Q.74",
+        "stem":  "HAL handed over the first two indigenously designed and manufactured light combat aircraft to the IAF in 2016. They are named",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Marut",
+                        "Garud",
+                        "Tejas",
+                        "Pushpak"
+                    ],
+        "answer":  "c",
+        "explanation":  "The indigenous Light Combat Aircraft is the HAL Tejas, the first two production examples of which were handed over to the IAF in 2016 (forming the Flying Daggers squadron). (The HF-24 Marut was India\u0027s earlier indigenous fighter of the 1960s.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q116",
+        "subject":  "Defence",
+        "topic":  "Indian Air Force",
+        "subtopic":  "Aircraft \u0026 Squadrons",
+        "topicOriginal":  "Indian Air Force",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  116,
+        "ref":  "CDS 2025-II, Q.116",
+        "stem":  "About India\u0027s military arsenal:",
+        "subs":  [
+                     "1. HAMMER is a weapon system built for the Rafale fighter aircraft.",
+                     "2. The SCALP cruise missile is also known as Storm Shadow.",
+                     "3. BrahMos missiles are built under a joint venture between India and Russia."
+                 ],
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "3 only"
+                    ],
+        "answer":  "c",
+        "explanation":  "All three are correct: HAMMER is a French precision-guided air-to-ground munition integrated on the Rafale (1); the air-launched cruise missile SCALP is the French name for the same weapon the British call Storm Shadow (2); and BrahMos is the India-Russia joint venture (3). Hence all three.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q68",
+        "subject":  "Defence",
+        "topic":  "Joint Commands \u0026 Higher Defence Structure",
+        "subtopic":  "CDS, COSC \u0026 MoD",
+        "topicOriginal":  "Joint Commands \u0026 Higher Defence Structure",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  68,
+        "ref":  "CDS 2018-II, Q.68",
+        "stem":  "Under the Strategic Partnership policy (May 2017), which is not among the four segments identified for acquisition through the strategic-partnership route?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Artillery guns",
+                        "Fighter aircraft and helicopters",
+                        "Submarines",
+                        "Armoured fighting vehicles and main battle tanks"
+                    ],
+        "answer":  "a",
+        "explanation":  "The Strategic Partnership model lets Indian private firms tie up with foreign OEMs to build major platforms in India. The four identified segments were: fighter aircraft, helicopters, submarines, and armoured fighting vehicles/main battle tanks (b, c, d). Artillery guns were not one of the four. Hence a.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-I-q111",
+        "subject":  "Defence",
+        "topic":  "Joint Commands \u0026 Higher Defence Structure",
+        "subtopic":  "CDS, COSC \u0026 MoD",
+        "topicOriginal":  "Joint Commands \u0026 Higher Defence Structure",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  111,
+        "ref":  "CDS 2025-I, Q.111",
+        "stem":  "The Ministry of Defence has declared 2025 as the year of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Rehabilitation of the families of martyrs",
+                        "Reforms",
+                        "Peace",
+                        "Self-reliance"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Ministry of Defence declared 2025 as the \"Year of Reforms,\" focused on jointness and integration among the services, theaterisation, defence-acquisition simplification, and indigenisation/self-reliance. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q102",
+        "subject":  "Defence",
+        "topic":  "Paramilitary \u0026 Central Armed Police Forces",
+        "subtopic":  "BSF / CRPF / ITBP / SSB / CISF",
+        "topicOriginal":  "Paramilitary \u0026 Central Armed Police Forces",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  102,
+        "ref":  "CDS 2018-I, Q.102",
+        "stem":  "About the Indo-Tibetan Border Police (ITBP):",
+        "subs":  [
+                     "1. Raised in 1962.",
+                     "2. Basically a trained mountain force.",
+                     "3. Replaced Assam Rifles in Sikkim and Arunachal Pradesh in 2004-05 for border guarding.",
+                     "4. Presently has 52 service battalions."
+                 ],
+        "options":  [
+                        "1, 2 and 4 only",
+                        "3 and 4 only",
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only"
+                    ],
+        "answer":  "d",
+        "explanation":  "The ITBP was raised in 1962 after the China war (1), is a specialised high-altitude mountain force on the India-China border (2), and took over Sikkim/Arunachal border-guarding from the Assam Rifles around 2004-05 (3). The answer 1, 2 and 3 only stands. Caveat: statement 4\u0027s \u002752 service battalions\u0027 should be judged against the exam\u0027s source-year strength - ITBP\u0027s battalion count has changed over time, and the present official figure differs.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-I-q34",
+        "subject":  "Defence",
+        "topic":  "Paramilitary \u0026 Central Armed Police Forces",
+        "subtopic":  "BSF / CRPF / ITBP / SSB / CISF",
+        "topicOriginal":  "Paramilitary \u0026 Central Armed Police Forces",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  34,
+        "ref":  "CDS 2023-I, Q.34",
+        "stem":  "Which is the only paramilitary force with a dual control structure?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Central Reserve Police Force",
+                        "Assam Rifles",
+                        "Indo-Tibetan Border Police",
+                        "Central Industrial Security Force"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Assam Rifles has a unique dual control structure — its administrative control is with the Ministry of Home Affairs, while its operational control is with the Indian Army (Ministry of Defence). The other CAPFs are entirely under the MHA.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q70",
+        "subject":  "Defence",
+        "topic":  "Paramilitary \u0026 Central Armed Police Forces",
+        "subtopic":  "Assam Rifles \u0026 NSG / SPG",
+        "topicOriginal":  "Paramilitary \u0026 Central Armed Police Forces",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  70,
+        "ref":  "CDS 2018-I, Q.70",
+        "stem":  "Which statement is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "India joined MTCR in 2016.",
+                        "India submitted a formal application for NSG membership in 2016.",
+                        "India proposed the Comprehensive Convention on International Terrorism in 1996.",
+                        "The Commonwealth Heads of Government Meeting (CHOGM) was held in 2016 at Malta."
+                    ],
+        "answer":  "d",
+        "explanation":  "The CHOGM at Malta was held in 2015, not 2016 — so statement d is false. The others are correct: India joined the MTCR in 2016, applied for NSG membership in 2016, and proposed the Comprehensive Convention on International Terrorism (CCIT) at the UN in 1996. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q105",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  105,
+        "ref":  "CDS 2016-II, Q.105",
+        "stem":  "Which is not an Air Defence Missile system?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Akash",
+                        "Trishul",
+                        "Tatra",
+                        "Astra"
+                    ],
+        "answer":  "c",
+        "explanation":  "Tatra is a heavy military truck/vehicle (used to carry equipment and launchers), not a missile. Akash (medium-range surface-to-air) and Trishul (short-range surface-to-air) are air-defence missiles, and Astra is an air-to-air missile. Hence c.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q73",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  73,
+        "ref":  "CDS 2018-I, Q.73",
+        "stem":  "Which is India\u0027s first indigenously designed and developed long-range subsonic cruise missile, deployable from multiple platforms?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Astra",
+                        "Akash",
+                        "Nirbhay",
+                        "Shankhnaad"
+                    ],
+        "answer":  "c",
+        "explanation":  "Nirbhay is India\u0027s first indigenous long-range subsonic cruise missile (range ~1,000 km), capable of terrain-hugging flight and launch from land, sea and air platforms — comparable to the US Tomahawk. (Astra is an air-to-air missile; Akash is a SAM.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-II-q107",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  107,
+        "ref":  "CDS 2021-II, Q.107",
+        "stem":  "The range capability of the Agni-P ballistic missile is",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "1,000 - 2,000 km",
+                        "2,000 - 3,000 km",
+                        "3,000 - 4,000 km",
+                        "4,000 - 5,000 km"
+                    ],
+        "answer":  "a",
+        "explanation":  "Agni-P (Agni-Prime) is a new-generation, canisterised, two-stage medium-range ballistic missile with a range of about 1,000–2,000 km — lighter and more advanced than the earlier Agni-I and Agni-II it is meant to replace.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2022-II-q102",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  102,
+        "ref":  "CDS 2022-II, Q.102",
+        "stem":  "About the BrahMos missile:",
+        "subs":  [
+                     "1. It has a flight range of up to 290 km.",
+                     "2. It can attain a speed of 2.8 Mach.",
+                     "3. Its cruising altitude can be up to 30 km."
+                 ],
+        "options":  [
+                        "1 and 2",
+                        "2 only",
+                        "1 and 3",
+                        "3 only"
+                    ],
+        "answer":  "a",
+        "explanation":  "The original BrahMos had a range of about 290 km (1) and flies at about Mach 2.8 — nearly three times the speed of sound (2), making it one of the fastest cruise missiles in the world. Its cruising altitude is up to about 15 km, not 30 km — so statement 3 is wrong. Hence 1 and 2.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-II-q112",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  112,
+        "ref":  "CDS 2023-II, Q.112",
+        "stem":  "From which country has India procured the S-400 Triumf air-defence missile system?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "United Kingdom",
+                        "U.S.A.",
+                        "Russia",
+                        "France"
+                    ],
+        "answer":  "c",
+        "explanation":  "India contracted to buy the S-400 Triumf — a long-range, mobile surface-to-air missile (air-defence) system capable of engaging aircraft, drones and missiles at up to 400 km — from Russia, despite the risk of US sanctions (CAATSA).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2016-II-q86",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Strategic systems \u0026 MTCR",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  86,
+        "ref":  "CDS 2016-II, Q.86",
+        "stem":  "Which statement about the Missile Technology Control Regime is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It is an informal, voluntary partnership initially formed among the G-7 countries.",
+                        "Members prevent proliferation of missile/UAV technology capable of carrying above 500 kg payload more than 300 km.",
+                        "China applied to join but members did not offer membership.",
+                        "No other country outside the membership follows the Regime rules."
+                    ],
+        "answer":  "d",
+        "explanation":  "The MTCR (1987) is an informal, voluntary export-control regime (founded by the G-7) to curb the spread of missiles/UAVs able to deliver a ≥500 kg payload over 300 km (a, b correct), and China\u0027s bid was indeed not accepted (c). Statement d is false — some non-member states voluntarily adhere to MTCR guidelines. (A current-affairs/strategic item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q54",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Strategic systems \u0026 MTCR",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  54,
+        "ref":  "CDS 2017-I, Q.54",
+        "stem":  "India became a member of which grouping in 2016?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Non-Proliferation Treaty",
+                        "Missile Technology Control Regime",
+                        "Nuclear Suppliers Group",
+                        "Wassenaar Arrangement"
+                    ],
+        "answer":  "b",
+        "explanation":  "India joined the MTCR in 2016 as a full member — a step that eased access to advanced missile/UAV technology. (India joined the Wassenaar Arrangement in 2017 and the Australia Group in 2018; it is still not a member of the NSG, and is not part of the NPT.) (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-II-q29",
+        "subject":  "Defence",
+        "topic":  "Missiles \u0026 Defence Technology",
+        "subtopic":  "Strategic systems \u0026 MTCR",
+        "topicOriginal":  "Missiles \u0026 Defence Technology",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  29,
+        "ref":  "CDS 2024-II, Q.29",
+        "stem":  "Mission Shakti of DRDO is related to which of the following?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Launch of multiple satellites using a single rocket",
+                        "Launch of heavy satellites",
+                        "Use of high-power rockets for launching satellites",
+                        "Use of a rocket to destroy an orbiting satellite"
+                    ],
+        "answer":  "d",
+        "explanation":  "Mission Shakti (March 2019) was India\u0027s Anti-Satellite (ASAT) weapon test — a DRDO missile destroyed a live satellite in low-Earth orbit, making India the fourth nation (after the US, Russia and China) with proven ASAT capability. (A current-affairs/strategic item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-II-q51",
+        "subject":  "Defence",
+        "topic":  "Defence PSUs \u0026 Industry",
+        "subtopic":  "HAL / BEL / BEML / BDL / Ordnance Factories",
+        "topicOriginal":  "Defence PSUs \u0026 Industry",
+        "year":  2017,
+        "session":  "II",
+        "paper":  "CDS 2017-II",
+        "qno":  51,
+        "ref":  "CDS 2017-II, Q.51",
+        "stem":  "Match: A. TISCO B. BALCO C. BPCL D. BEL |",
+        "subs":  [
+                     "1. Chemicals",
+                     "2. Iron \u0026 Steel",
+                     "3. Electronics",
+                     "4. Aluminium."
+                 ],
+        "options":  [
+                        "2, 4, 1, 3",
+                        "2, 1, 4, 3",
+                        "3, 4, 1, 2",
+                        "3, 1, 4, 2"
+                    ],
+        "answer":  "a",
+        "explanation":  "TISCO (Tata Iron and Steel Co.) → Iron \u0026 Steel (2); BALCO (Bharat Aluminium Co.) → Aluminium (4); BPCL (Bharat Petroleum) → Chemicals/petroleum (1); BEL (Bharat Electronics Ltd, a key defence PSU) → Electronics (3). Hence A-2, B-4, C-1, D-3.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-I-q66",
+        "subject":  "Defence",
+        "topic":  "Defence PSUs \u0026 Industry",
+        "subtopic":  "HAL / BEL / BEML / BDL / Ordnance Factories",
+        "topicOriginal":  "Defence PSUs \u0026 Industry",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  66,
+        "ref":  "CDS 2021-I, Q.66",
+        "stem":  "Which mega public-sector undertaking is designated with Navratna status?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Indian Oil Corporation Limited",
+                        "Gas Authority of India Limited",
+                        "Bharat Petroleum Corporation Limited",
+                        "Bharat Electronics Limited"
+                    ],
+        "answer":  "d",
+        "explanation":  "CPSEs are graded Maharatna, Navratna and Miniratna by their size and autonomy. IOC, GAIL and BPCL are all Maharatnas (the top tier). Bharat Electronics Limited (BEL) — the defence-electronics PSU — held Navratna status (it gives greater financial autonomy than Miniratna but below Maharatna). Hence d.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q86",
+        "subject":  "Defence",
+        "topic":  "Defence PSUs \u0026 Industry",
+        "subtopic":  "DRDO \u0026 Defence Corridors",
+        "topicOriginal":  "Defence PSUs \u0026 Industry",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  86,
+        "ref":  "CDS 2018-II, Q.86",
+        "stem":  "In which State was DEFEXPO 2018 held in April 2018?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Goa",
+                        "Karnataka",
+                        "Tamil Nadu",
+                        "Andhra Pradesh"
+                    ],
+        "answer":  "c",
+        "explanation":  "DefExpo 2018, the biennial defence-exhibition, was held at Thiruvidanthai near Chennai, Tamil Nadu in April 2018. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-I-q109",
+        "subject":  "Defence",
+        "topic":  "Defence PSUs \u0026 Industry",
+        "subtopic":  "DRDO \u0026 Defence Corridors",
+        "topicOriginal":  "Defence PSUs \u0026 Industry",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  109,
+        "ref":  "CDS 2024-I, Q.109",
+        "stem":  "Which is an indigenous assault rifle developed by DRDO?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Heckler",
+                        "T91",
+                        "Tikka",
+                        "Ugram"
+                    ],
+        "answer":  "d",
+        "explanation":  "Ugram (\"ferocious\") is an indigenous 7.62×51 mm assault rifle developed by DRDO\u0027s Armament Research and Development Establishment (ARDE) with industry, aimed at meeting the services\u0027 and paramilitary\u0027s requirement for a modern, locally made rifle. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-II-q49",
+        "subject":  "Defence",
+        "topic":  "Defence PSUs \u0026 Industry",
+        "subtopic":  "DRDO \u0026 Defence Corridors",
+        "topicOriginal":  "Defence PSUs \u0026 Industry",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  49,
+        "ref":  "CDS 2024-II, Q.49",
+        "stem":  "The Research Design and Standards Organization (RDSO) is the R\u0026D wing of",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Bhabha Atomic Research Centre",
+                        "Indian Space Research Organization",
+                        "Indian Railways",
+                        "Defence Research and Development Organization"
+                    ],
+        "answer":  "c",
+        "explanation":  "The RDSO (Lucknow) is the sole research, design and standards organisation of the Indian Railways, setting technical standards and designs for railway equipment. (Despite being placed under \"DRDO \u0026 Defence Corridors,\" it belongs to the Railways, not DRDO.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-I-q111",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2018,
+        "session":  "I",
+        "paper":  "CDS 2018-I",
+        "qno":  111,
+        "ref":  "CDS 2018-I, Q.111",
+        "stem":  "SAMPRITI-2017 is a joint military exercise between India and",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Bhutan",
+                        "Bangladesh",
+                        "Pakistan",
+                        "Myanmar"
+                    ],
+        "answer":  "b",
+        "explanation":  "\"Sampriti\" (\"goodwill/togetherness\") is the annual joint military (Army) exercise between India and Bangladesh, conducted alternately in the two countries to build interoperability. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2021-I-q83",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  83,
+        "ref":  "CDS 2021-I, Q.83",
+        "stem":  "The first phase of Exercise Malabar, 2020 was conducted at",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Port Blair",
+                        "Mumbai",
+                        "Visakhapatnam",
+                        "Kochi"
+                    ],
+        "answer":  "c",
+        "explanation":  "Malabar is the major naval exercise of the Quad navies (India, USA, Japan and — from 2020 — Australia). The first phase of Malabar 2020 was held in the Bay of Bengal off Visakhapatnam, with the second phase in the Arabian Sea. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-I-q64",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  64,
+        "ref":  "CDS 2023-I, Q.64",
+        "stem":  "The eighth edition of Exercise Garuda Shakti, a bilateral special-forces exercise, was conducted between the special forces of India and",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Japan",
+                        "Indonesia",
+                        "Bhutan",
+                        "Myanmar"
+                    ],
+        "answer":  "b",
+        "explanation":  "\"Garuda Shakti\" is the joint special-forces exercise between India and Indonesia (the \"Garuda\" being a shared mythological symbol of both nations). (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-I-q86",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  86,
+        "ref":  "CDS 2023-I, Q.86",
+        "stem":  "The 16th edition of the Indo-Nepal annual joint training exercise in jungle warfare and counter-terrorism, held in December 2022 at the Nepal Army Battle School, Saljhandi, is named",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Sampriti",
+                        "Mitra Shakti",
+                        "Yudh Abhyas",
+                        "Surya Kiran"
+                    ],
+        "answer":  "d",
+        "explanation":  "\"Surya Kiran\" is the annual joint India-Nepal Army exercise focused on jungle warfare, counter-terrorism and disaster relief. (Sampriti is with Bangladesh, Mitra Shakti with Sri Lanka, and Yudh Abhyas with the USA.) (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-II-q103",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  103,
+        "ref":  "CDS 2023-II, Q.103",
+        "stem":  "The joint multinational maritime exercise IBSAMAR is conducted by the navies of which countries?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "India, Bangladesh, Sri Lanka and Maldives",
+                        "India, Bangladesh and South Africa",
+                        "India, Bangladesh, Sri Lanka and Mauritius",
+                        "India, Brazil and South Africa"
+                    ],
+        "answer":  "d",
+        "explanation":  "IBSAMAR is the trilateral maritime exercise of the IBSA grouping — India, Brazil and South Africa (the name combines \"IBSA\" + \"MAR,\" Spanish/Portuguese for \"sea\"). (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-I-q118",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  118,
+        "ref":  "CDS 2025-I, Q.118",
+        "stem":  "Surya Kiran is a joint military exercise between India and",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Bangladesh",
+                        "Bhutan",
+                        "Singapore",
+                        "Nepal"
+                    ],
+        "answer":  "d",
+        "explanation":  "As noted, \"Surya Kiran\" is the India-Nepal joint Army exercise. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q18",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "India-led / bilateral exercises",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  18,
+        "ref":  "CDS 2025-II, Q.18",
+        "stem":  "Maitree is a joint military exercise between India and",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Bangladesh",
+                        "Thailand",
+                        "Malaysia",
+                        "Sri Lanka"
+                    ],
+        "answer":  "b",
+        "explanation":  "\"Maitree\" (\"friendship\") is the joint military exercise between India and Thailand, focused on counter-terrorism and joint operations in a jungle/semi-urban setting. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2019-I-q103",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  103,
+        "ref":  "CDS 2019-I, Q.103",
+        "stem":  "Which statement about India\u0027s surgical-strike mission inside Pakistan-Occupied Kashmir is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It was conducted in 2018.",
+                        "It was led by the Indian Air Force.",
+                        "It was not given any name.",
+                        "It was sanctioned by the United Nations."
+                    ],
+        "answer":  "c",
+        "explanation":  "The 2016 cross-LoC surgical strikes were carried out by the Indian Army\u0027s special forces (not the Air Force), in 2016 (not 2018), and without any UN sanction. They were not given a special public operation name at the time. Hence c. (Worth confirming against the official key.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-I-q71",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  71,
+        "ref":  "CDS 2023-I, Q.71",
+        "stem":  "India was the first country to deploy an all-woman contingent to a UN Peacekeeping Mission. In which country did this mission operate?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Liberia",
+                        "Sudan",
+                        "Burundi",
+                        "Croatia"
+                    ],
+        "answer":  "a",
+        "explanation":  "In 2007 India sent the world\u0027s first all-woman Formed Police Unit to a UN peacekeeping mission, deployed in Liberia (UNMIL) — widely praised for improving security and encouraging local women to join the police. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-II-q77",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  77,
+        "ref":  "CDS 2023-II, Q.77",
+        "stem":  "About Operation Sadbhavana in Ladakh:",
+        "subs":  [
+                     "1. The Indian Army undertakes welfare activities such as running Army Goodwill Schools in remote areas of Ladakh.",
+                     "2. It aims at building harmonious relationships between religious communities in Ladakh."
+                 ],
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "answer":  "c",
+        "explanation":  "Operation Sadbhavana (\"goodwill\") is the Indian Army\u0027s hearts-and-minds initiative in border regions — it runs Army Goodwill Schools, healthcare and infrastructure projects in remote areas (1) and seeks to foster harmony and goodwill among local communities (2), strengthening the bond between the Army and border populations. Both statements are correct.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-I-q107",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  107,
+        "ref":  "CDS 2024-I, Q.107",
+        "stem":  "The Indian Army launched Operation Sarvashakti to flush out terrorists in",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Myanmar",
+                        "Manipur",
+                        "Jammu and Kashmir",
+                        "Chhattisgarh"
+                    ],
+        "answer":  "c",
+        "explanation":  "Operation Sarvashakti was launched by the Army in the Rajouri-Poonch (Pir Panjal) region of Jammu and Kashmir to flush out terrorists following a series of attacks there. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-II-q26",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  26,
+        "ref":  "CDS 2024-II, Q.26",
+        "stem":  "Why are aircraft equipped with conducting tyres?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "To transfer charge accumulated during lightning",
+                        "To transfer charge accumulated on their surfaces by friction with air particles",
+                        "To transfer charge accumulated due to in-flight operation of gadgets",
+                        "To prevent sparks while landing"
+                    ],
+        "answer":  "b",
+        "explanation":  "As an aircraft flies, friction between its body and air particles builds up static electric charge. Conducting tyres provide a path for this accumulated static charge to safely flow to the ground when the aircraft lands, preventing dangerous sparks. (A physics item, mis-filed here.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q111",
+        "subject":  "Defence",
+        "topic":  "Joint Military Exercises \u0026 Operations",
+        "subtopic":  "Indian military operations \u0026 wars",
+        "topicOriginal":  "Joint Military Exercises \u0026 Operations",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  111,
+        "ref":  "CDS 2025-II, Q.111",
+        "stem":  "Which military operation was not undertaken by India?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Operation Ablaze",
+                        "Operation Spider\u0027s Web",
+                        "Operation Trident",
+                        "Operation Bandar"
+                    ],
+        "answer":  "b",
+        "explanation":  "Operation Ablaze (Indian mobilisation, 1965), Operation Trident (the Indian Navy\u0027s 1971 missile attack on Karachi) and Operation Bandar (the 2019 Balakot air strike) were all Indian operations. \"Operation Spider\u0027s Web\" was a Ukrainian drone operation against Russian airbases (2025), not an Indian operation. Hence b. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q78",
+        "subject":  "Defence",
+        "topic":  "Defence Training Institutions",
+        "subtopic":  "NDA / IMA / OTA / Naval \u0026 Air Academies",
+        "topicOriginal":  "Defence Training Institutions",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  78,
+        "ref":  "CDS 2017-I, Q.78",
+        "stem":  "Which is not an Inter-Services Establishment?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Officers Training Academy",
+                        "National Defence Academy",
+                        "National Defence College",
+                        "Armed Forces Medical College"
+                    ],
+        "answer":  "a",
+        "explanation":  "Inter-services (tri-service/joint) establishments train or serve all three services together — the NDA (Khadakwasla), the NDC (New Delhi) and the AFMC (Pune) are inter-services. The Officers Training Academy (Chennai) trains officers for the Army (short-service commission) and is a single-service establishment. Hence a.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2019-I-q116",
+        "subject":  "Defence",
+        "topic":  "Defence Training Institutions",
+        "subtopic":  "NDC / DSSC / Service Colleges",
+        "topicOriginal":  "Defence Training Institutions",
+        "year":  2019,
+        "session":  "I",
+        "paper":  "CDS 2019-I",
+        "qno":  116,
+        "ref":  "CDS 2019-I, Q.116",
+        "stem":  "Which pair of military training institute and location is not correctly matched?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Army War College - Mhow",
+                        "High Altitude Warfare School - Gulmarg",
+                        "Army Air Defence College - Pune",
+                        "Rashtriya Indian Military College - Dehradun"
+                    ],
+        "answer":  "c",
+        "explanation":  "The Army Air Defence College is at Gopalpur (Odisha), not Pune — so pair c is wrongly matched. The others are correct: the Army War College is at Mhow (MP), the High Altitude Warfare School at Gulmarg (J\u0026K), and the RIMC at Dehradun.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2019-II-q1",
+        "subject":  "Defence",
+        "topic":  "Defence Training Institutions",
+        "subtopic":  "RIMC / RMS / Sainik Schools / NCC",
+        "topicOriginal":  "Defence Training Institutions",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  1,
+        "ref":  "CDS 2019-II, Q.1",
+        "stem":  "Which is the motto of the NCC?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Unity and Discipline",
+                        "Unity and Integrity",
+                        "Unity and Command",
+                        "Unity and Service"
+                    ],
+        "answer":  "a",
+        "explanation":  "The motto of the National Cadet Corps (NCC) is \"Unity and Discipline\" (Ekta aur Anushasan) — reflecting its aim of developing character, discipline and a spirit of national unity among the youth.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q79",
+        "subject":  "Defence",
+        "topic":  "Defence Awards \u0026 Honours",
+        "subtopic":  "Gallantry awards (PVC, Ashoka Chakra, MVC, etc.)",
+        "topicOriginal":  "Defence Awards \u0026 Honours",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  79,
+        "ref":  "CDS 2017-I, Q.79",
+        "stem":  "Which is a Peacetime Gallantry Award?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Shaurya Chakra",
+                        "Vir Chakra",
+                        "Yudh Seva Medal",
+                        "Param Vir Chakra"
+                    ],
+        "answer":  "a",
+        "explanation":  "India\u0027s gallantry awards come in two series — wartime (Param Vir Chakra, Maha Vir Chakra, Vir Chakra) and peacetime (Ashoka Chakra, Kirti Chakra, Shaurya Chakra). So the Shaurya Chakra is a peacetime gallantry award (the peacetime equivalent of the Vir Chakra). The Yudh Seva Medal is a distinguished-service (not gallantry) award.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-I-q106",
+        "subject":  "Defence",
+        "topic":  "Defence Personnel \u0026 Personalities",
+        "subtopic":  "Service Chiefs \u0026 key figures",
+        "topicOriginal":  "Defence Personnel \u0026 Personalities",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  106,
+        "ref":  "CDS 2024-I, Q.106",
+        "stem":  "Who is the author of \"Four Stars of Destiny: An Autobiography\"?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Sam Manekshaw",
+                        "K. J. S. Dhillon",
+                        "Bipin Rawat",
+                        "Manoj Mukund Naravane"
+                    ],
+        "answer":  "d",
+        "explanation":  "\"Four Stars of Destiny\" is the autobiography of General Manoj Mukund Naravane, a former Chief of the Army Staff — the \"four stars\" being the rank insignia of a full general. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-I-q112",
+        "subject":  "Defence",
+        "topic":  "Defence Personnel \u0026 Personalities",
+        "subtopic":  "Service Chiefs \u0026 key figures",
+        "topicOriginal":  "Defence Personnel \u0026 Personalities",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  112,
+        "ref":  "CDS 2024-I, Q.112",
+        "stem":  "Who was the first Indian Commander-in-Chief of the Indian Army of independent India?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "S. M. Srinagesh",
+                        "K. M. Cariappa",
+                        "K. S. Thimayya",
+                        "K. S. Rajendrasinhji"
+                    ],
+        "answer":  "b",
+        "explanation":  "Field Marshal K. M. Cariappa became the first Indian Commander-in-Chief of the Indian Army in 1949, taking over from the last British C-in-C, General Roy Bucher. (He was later, in 1986, made a Field Marshal.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q55",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  55,
+        "ref":  "CDS 2017-I, Q.55",
+        "stem":  "India signed an agreement in 2016 to develop a strategic port in one of its neighbouring/regional countries. The port is",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Chabahar",
+                        "Gwadar",
+                        "Hambantota",
+                        "Mongla"
+                    ],
+        "answer":  "a",
+        "explanation":  "In 2016 India signed an agreement to develop the Chabahar port in Iran — a strategic gateway to Afghanistan and Central Asia that bypasses Pakistan, and India\u0027s answer to the Chinese-developed Gwadar port nearby. (Hambantota is in Sri Lanka, Mongla in Bangladesh — both with Chinese involvement.) (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-I-q105",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  105,
+        "ref":  "CDS 2017-I, Q.105",
+        "stem":  "Which statement about the Indian Air Force is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It has bases in many friendly countries.",
+                        "It does not carry out joint exercises with any country.",
+                        "It has a separate Maintenance Command.",
+                        "No officer has ever been elevated to Marshal of the IAF."
+                    ],
+        "answer":  "c",
+        "explanation":  "The IAF has a dedicated Maintenance Command (Nagpur) for the upkeep of aircraft, equipment and logistics. The others are wrong: the IAF does conduct many joint exercises, does not maintain bases across many foreign countries, and Arjan Singh was elevated to Marshal of the Indian Air Force (the only officer so honoured).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2017-II-q111",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2017,
+        "session":  "II",
+        "paper":  "CDS 2017-II",
+        "qno":  111,
+        "ref":  "CDS 2017-II, Q.111",
+        "stem":  "The all-women Indian Navy circumnavigation on INSV Tarini was scheduled to have four stopovers. Which is not one of them?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Fremantle",
+                        "Lyttelton",
+                        "Port Stanley",
+                        "Durban"
+                    ],
+        "answer":  "d",
+        "explanation":  "Navika Sagar Parikrama — the all-woman crew circumnavigating the globe on INSV Tarini (2017-18) — had four planned stopovers: Fremantle (Australia), Lyttelton (New Zealand), Port Stanley (Falklands) and Cape Town (South Africa). Durban was not one of them. Hence d. (A current-affairs item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2018-II-q41",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  41,
+        "ref":  "CDS 2018-II, Q.41",
+        "stem":  "Match: A. Industrial Town B. Transport Town C. Mining Town D. Garrison/Cantonment Town |",
+        "subs":  [
+                     "1. Vishakhapatnam",
+                     "2. Bhilai",
+                     "3. Singrauli",
+                     "4. Ambala."
+                 ],
+        "options":  [
+                        "2, 1, 3, 4",
+                        "2, 3, 1, 4",
+                        "4, 3, 1, 2",
+                        "4, 1, 3, 2"
+                    ],
+        "answer":  "a",
+        "explanation":  "Towns are classified by their dominant function: Bhilai (steel plant) → Industrial Town (2); Vishakhapatnam (major port) → Transport Town (1); Singrauli (coal/power) → Mining Town (3); Ambala (a major military cantonment) → Garrison/Cantonment Town (4). Hence A-2, B-1, C-3, D-4. (A geography item, mis-filed here.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2020-I-q99",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  99,
+        "ref":  "CDS 2020-I, Q.99",
+        "stem":  "The Vijaynagar Advanced Landing Ground of the IAF, recently reopened, is located in",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Jammu and Kashmir",
+                        "Arunachal Pradesh",
+                        "Karnataka",
+                        "Himachal Pradesh"
+                    ],
+        "answer":  "b",
+        "explanation":  "The Vijaynagar Advanced Landing Ground (ALG) is in Arunachal Pradesh, near the India-Myanmar border. Reactivating such ALGs in the north-east boosts the IAF\u0027s logistics and reach along the China frontier. (A current-affairs/geography item.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-II-q76",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  76,
+        "ref":  "CDS 2023-II, Q.76",
+        "stem":  "What does India\u0027s \"Blue Growth\" refer to?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Upgradation of the Indian Air Force",
+                        "Discouraging farmers from using pesticides",
+                        "A long-term strategy to support sustainable growth in the marine and maritime sectors",
+                        "Empowerment of blue-collar workers"
+                    ],
+        "answer":  "c",
+        "explanation":  "\"Blue Growth\" / the Blue Economy is a strategy for the sustainable use and development of ocean and maritime resources — fisheries, aquaculture, shipping, coastal tourism and marine biotechnology — for economic growth while preserving ocean health. (An economics item, mis-filed here.)",
+        "defective":  false
+    },
+    {
+        "id":  "def-2023-II-q95",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  95,
+        "ref":  "CDS 2023-II, Q.95",
+        "stem":  "Which statement about the Indian Maritime University (IMU) is not correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "It was established through an Act of Parliament as a Central University.",
+                        "It was established primarily to support the Indian Navy.",
+                        "It is located in Chennai.",
+                        "It was established to extend the benefits of knowledge and skill for development of individuals and society."
+                    ],
+        "answer":  "b",
+        "explanation":  "The Indian Maritime University (IMU) — a Central University set up by an Act of Parliament (2008), headquartered in Chennai — was created to develop maritime education, training and research (for the merchant navy/shipping sector and the wider blue economy), not \"primarily to support the Indian Navy.\" Hence b is the incorrect statement.",
+        "defective":  false
+    },
+    {
+        "id":  "def-2024-I-q104",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  104,
+        "ref":  "CDS 2024-I, Q.104",
+        "stem":  "The 7th edition of the Indian Ocean Conference was held at",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Dhaka",
+                        "New Delhi",
+                        "Male",
+                        "Perth"
+                    ],
+        "answer":  "d",
+        "explanation":  "The 7th Indian Ocean Conference was held in Perth, Australia, on 9-10 February 2024. Dhaka had hosted the 6th edition in May 2023. So the correct venue is Perth (option d).",
+        "defective":  false
+    },
+    {
+        "id":  "def-2025-II-q110",
+        "subject":  "Defence",
+        "topic":  "Miscellaneous Defence",
+        "subtopic":  "Other",
+        "topicOriginal":  "Miscellaneous Defence",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  110,
+        "ref":  "CDS 2025-II, Q.110",
+        "stem":  "The book \"The Art of War\" was written by",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Niccolo Machiavelli",
+                        "Thucydides",
+                        "Thomas Hobbes",
+                        "J.S. Mill"
+                    ],
+        "answer":  "a",
+        "explanation":  "Among the European thinkers listed, Niccolo Machiavelli wrote a treatise titled \"The Art of War\" (Dell\u0027arte della guerra, 1521) on military organisation and strategy. (The famous ancient Chinese classic of the same name is by Sun Tzu, who is not an option here.) (A political-thought item.)",
+        "defective":  false
+    }
+]

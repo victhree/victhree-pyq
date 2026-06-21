@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  2019,
-                   "answered":  1989,
-                   "subjects":  6,
+                   "questions":  2101,
+                   "answered":  2070,
+                   "subjects":  7,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -1476,6 +1476,261 @@
                                         {
                                             "name":  "CDS 2025-II",
                                             "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "defence",
+                         "name":  "Defence",
+                         "file":  "data/defence.json",
+                         "count":  82,
+                         "answered":  81,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Defence Awards \u0026 Honours",
+                                            "count":  1
+                                        },
+                                        {
+                                            "name":  "Defence Personnel \u0026 Personalities",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Defence PSUs \u0026 Industry",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Defence Training Institutions",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Indian Air Force",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Indian Army",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "Indian Navy",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "Joint Commands \u0026 Higher Defence Structure",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Joint Military Exercises \u0026 Operations",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Defence",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Missiles \u0026 Defence Technology",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Paramilitary \u0026 Central Armed Police Forces",
+                                            "count":  3
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Defence Training Institutions":  [
+                                                                                 {
+                                                                                     "name":  "NDA / IMA / OTA / Naval \u0026 Air Academies",
+                                                                                     "count":  1
+                                                                                 },
+                                                                                 {
+                                                                                     "name":  "NDC / DSSC / Service Colleges",
+                                                                                     "count":  1
+                                                                                 },
+                                                                                 {
+                                                                                     "name":  "RIMC / RMS / Sainik Schools / NCC",
+                                                                                     "count":  1
+                                                                                 }
+                                                                             ],
+                                           "Indian Air Force":  [
+                                                                    {
+                                                                        "name":  "Aircraft \u0026 Squadrons",
+                                                                        "count":  4
+                                                                    }
+                                                                ],
+                                           "Defence Personnel \u0026 Personalities":  [
+                                                                                          {
+                                                                                              "name":  "Service Chiefs \u0026 key figures",
+                                                                                              "count":  2
+                                                                                          }
+                                                                                      ],
+                                           "Paramilitary \u0026 Central Armed Police Forces":  [
+                                                                                                   {
+                                                                                                       "name":  "Assam Rifles \u0026 NSG / SPG",
+                                                                                                       "count":  1
+                                                                                                   },
+                                                                                                   {
+                                                                                                       "name":  "BSF / CRPF / ITBP / SSB / CISF",
+                                                                                                       "count":  2
+                                                                                                   }
+                                                                                               ],
+                                           "Joint Military Exercises \u0026 Operations":  [
+                                                                                              {
+                                                                                                  "name":  "India-led / bilateral exercises",
+                                                                                                  "count":  7
+                                                                                              },
+                                                                                              {
+                                                                                                  "name":  "Indian military operations \u0026 wars",
+                                                                                                  "count":  6
+                                                                                              }
+                                                                                          ],
+                                           "Miscellaneous Defence":  [
+                                                                         {
+                                                                             "name":  "Other",
+                                                                             "count":  9
+                                                                         }
+                                                                     ],
+                                           "Missiles \u0026 Defence Technology":  [
+                                                                                      {
+                                                                                          "name":  "Missiles (Agni, Prithvi, BrahMos, Akash)",
+                                                                                          "count":  5
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Strategic systems \u0026 MTCR",
+                                                                                          "count":  3
+                                                                                      }
+                                                                                  ],
+                                           "Defence PSUs \u0026 Industry":  [
+                                                                                {
+                                                                                    "name":  "DRDO \u0026 Defence Corridors",
+                                                                                    "count":  3
+                                                                                },
+                                                                                {
+                                                                                    "name":  "HAL / BEL / BEML / BDL / Ordnance Factories",
+                                                                                    "count":  2
+                                                                                }
+                                                                            ],
+                                           "Joint Commands \u0026 Higher Defence Structure":  [
+                                                                                                  {
+                                                                                                      "name":  "CDS, COSC \u0026 MoD",
+                                                                                                      "count":  2
+                                                                                                  }
+                                                                                              ],
+                                           "Indian Navy":  [
+                                                               {
+                                                                   "name":  "Indian Coast Guard",
+                                                                   "count":  1
+                                                               },
+                                                               {
+                                                                   "name":  "Naval Commands \u0026 Headquarters",
+                                                                   "count":  1
+                                                               },
+                                                               {
+                                                                   "name":  "Naval Ranks \u0026 Operations",
+                                                                   "count":  2
+                                                               },
+                                                               {
+                                                                   "name":  "Naval Ships, Submarines \u0026 Carriers",
+                                                                   "count":  12
+                                                               }
+                                                           ],
+                                           "Indian Army":  [
+                                                               {
+                                                                   "name":  "Army Commands \u0026 Theatre",
+                                                                   "count":  2
+                                                               },
+                                                               {
+                                                                   "name":  "Army equipment (Tanks, Artillery, APCs)",
+                                                                   "count":  7
+                                                               },
+                                                               {
+                                                                   "name":  "Ranks \u0026 Hierarchy",
+                                                                   "count":  5
+                                                               },
+                                                               {
+                                                                   "name":  "Regiments \u0026 Corps",
+                                                                   "count":  2
+                                                               }
+                                                           ],
+                                           "Defence Awards \u0026 Honours":  [
+                                                                                 {
+                                                                                     "name":  "Gallantry awards (PVC, Ashoka Chakra, MVC, etc.)",
+                                                                                     "count":  1
+                                                                                 }
+                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  6
                                         }
                                     ]
                      },
