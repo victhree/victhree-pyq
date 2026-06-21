@@ -149,6 +149,13 @@ select:focus,input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
 .opt.correct .ol{color:var(--good)}
 .opt.chosen-wrong{background:var(--bad-bg);border-color:#f2c9c4}
 .opt.chosen-wrong .ol{color:var(--bad)}
+.opt.clickable{cursor:pointer;transition:background .12s,border-color .12s}
+.opt.clickable:hover{background:var(--paper);border-color:var(--gold-soft)}
+.qcard.answered .opt.clickable{cursor:default}
+.qcard.answered .opt:hover{background:#fff;border-color:var(--line)}
+.qcard.answered .opt.correct,.qcard.answered .opt.correct:hover{background:var(--good-bg);border-color:#bfe3cd}
+.qcard.answered .opt.chosen-wrong,.qcard.answered .opt.chosen-wrong:hover{background:var(--bad-bg);border-color:#f2c9c4}
+.reveal .ans.wrong{color:var(--bad)}
 .reveal{border-top:1px dashed var(--line);padding-top:10px;margin-top:2px}
 .reveal .ans{font-weight:800;color:var(--good);margin-bottom:4px}
 .reveal .ans.none{color:var(--gold-dim)}

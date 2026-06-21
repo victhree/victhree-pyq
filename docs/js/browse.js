@@ -1,4 +1,4 @@
-/* Browse page: subject/topic/paper filters + search + sort + show-answer. */
+/* Browse page: subject/topic/subtopic/paper filters + search + sort + interactive answers. */
 const els = {};
 function $(id){ return document.getElementById(id); }
 
@@ -29,7 +29,6 @@ function refreshDependentFilters(keepTopic, keepPaper) {
     topics = s.topics.map(t => ({ value: t.name, label: `${t.name} (${t.count})` }));
     papers = s.papers.map(p => ({ value: p.name, label: `${p.name} (${p.count})` }));
   } else {
-    // All subjects: union of topics & papers across the pool
     const tcount = {}, pcount = {}, pmeta = {};
     VT.questions.forEach(q => {
       tcount[q.topic] = (tcount[q.topic] || 0) + 1;
@@ -102,15 +101,17 @@ function questionCard(item) {
   const subsHtml = (item.subs && item.subs.length)
     ? `<ul class="subs">${item.subs.map(s => `<li>${esc(s)}</li>`).join('')}</ul>` : '';
 
+  const hasAns = item.answer && LETTERS.includes(item.answer);
   const optsHtml = `<div class="opts">${
     (item.options || []).map((o, i) =>
       o === '' ? '' :
-      `<div class="opt" data-letter="${LETTERS[i]}"><span class="ol">${LETTERS[i]})</span><span>${esc(o)}</span></div>`
+      `<div class="opt${hasAns ? ' clickable' : ''}" data-letter="${LETTERS[i]}"><span class="ol">${LETTERS[i]})</span><span>${esc(o)}</span></div>`
     ).join('')
   }</div>`;
 
   const topicTag = `<span class="tag topic">${esc(item.topic)}${item.subtopic ? ' · ' + esc(item.subtopic) : ''}</span>`;
   const warnTag = item.defective ? `<span class="tag warn">⚠ Verify vs original</span>` : '';
+  const hint = hasAns ? `<div class="opt-hint">Tap an option to check it, or </div>` : '';
 
   return `<article class="qcard" data-id="${esc(item.id)}">
     <div class="qtop">
@@ -120,20 +121,31 @@ function questionCard(item) {
     <div class="qstem">${esc(item.stem)}</div>
     ${subsHtml}
     ${optsHtml}
-    <button class="btn show-btn" data-act="show">Show answer</button>
+    <button class="btn ghost show-btn" data-act="show">Show answer</button>
     <div class="reveal" hidden></div>
   </article>`;
 }
 
-function revealAnswer(card, item) {
+/* Reveal the answer. If `chosen` is given, grade that option (green/right, red/wrong). */
+function revealAnswer(card, item, chosen) {
+  if (card.classList.contains('answered')) return;
+  card.classList.add('answered');
   const reveal = card.querySelector('.reveal');
   const hasLetter = item.answer && LETTERS.includes(item.answer);
   let html = '';
   if (hasLetter) {
     const idx = LETTERS.indexOf(item.answer);
-    html += `<div class="ans">Correct answer: ${item.answer}) ${esc(item.options[idx] || '')}</div>`;
-    const optEl = card.querySelector(`.opt[data-letter="${item.answer}"]`);
-    if (optEl) optEl.classList.add('correct');
+    const correctEl = card.querySelector(`.opt[data-letter="${item.answer}"]`);
+    if (correctEl) correctEl.classList.add('correct');
+    if (chosen && chosen !== item.answer) {
+      const wrongEl = card.querySelector(`.opt[data-letter="${chosen}"]`);
+      if (wrongEl) wrongEl.classList.add('chosen-wrong');
+      html += `<div class="ans wrong">✗ You chose ${chosen}) — correct answer is ${item.answer}) ${esc(item.options[idx] || '')}</div>`;
+    } else if (chosen) {
+      html += `<div class="ans">✓ Correct — ${item.answer}) ${esc(item.options[idx] || '')}</div>`;
+    } else {
+      html += `<div class="ans">Correct answer: ${item.answer}) ${esc(item.options[idx] || '')}</div>`;
+    }
   } else {
     html += `<div class="ans none">Answer not available for this question</div>`;
   }
@@ -142,11 +154,10 @@ function revealAnswer(card, item) {
   reveal.innerHTML = html;
   reveal.hidden = false;
   const btn = card.querySelector('[data-act="show"]');
-  btn.textContent = 'Hide answer';
-  btn.dataset.act = 'hide';
+  if (btn) { btn.textContent = 'Reset'; btn.dataset.act = 'hide'; }
 }
 
-const RENDER_CAP = 120;   // keep the DOM light on phones; pool grows with more subjects
+const RENDER_CAP = 120;
 let expanded = false;
 
 function render() {
@@ -170,16 +181,25 @@ function render() {
 function applyFilters() { expanded = false; render(); }
 
 function onResultsClick(e) {
+  // clicking an option → grade it instantly
+  const opt = e.target.closest('.opt.clickable');
+  const oc = e.target.closest('.qcard');
+  if (opt && oc && !oc.classList.contains('answered')) {
+    const item = els.results._byId[oc.dataset.id];
+    revealAnswer(oc, item, opt.dataset.letter);
+    return;
+  }
   const btn = e.target.closest('[data-act]');
   if (!btn) return;
   if (btn.dataset.act === 'expand') { expanded = true; render(); return; }
   const card = btn.closest('.qcard');
   const item = els.results._byId[card.dataset.id];
   if (btn.dataset.act === 'show') {
-    revealAnswer(card, item);
+    revealAnswer(card, item, null);
   } else {
+    card.classList.remove('answered');
     card.querySelector('.reveal').hidden = true;
-    card.querySelectorAll('.opt.correct').forEach(o => o.classList.remove('correct'));
+    card.querySelectorAll('.opt.correct, .opt.chosen-wrong').forEach(o => o.classList.remove('correct', 'chosen-wrong'));
     btn.textContent = 'Show answer';
     btn.dataset.act = 'show';
   }
@@ -222,12 +242,10 @@ async function init() {
     els.results.innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
     return;
   }
-  renderHeaderStats('stats');
 
   const subs = VT.manifest.subjects.map(s => ({ value: s.name, label: `${s.name} (${s.count})` }));
   fillSelect(els.subject, subs, 'All subjects');
 
-  // subject scope from ?subject= : lock the subject + hide its dropdown
   const param = new URLSearchParams(location.search).get('subject');
   const locked = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
   if (locked) {
