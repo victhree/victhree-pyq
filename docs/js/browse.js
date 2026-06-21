@@ -71,7 +71,9 @@ function getFiltered() {
   const paper = els.paper.value;
   const q = els.search.value.trim().toLowerCase();
 
+  const bmOnly = els.bookmarked && els.bookmarked.checked;
   let list = VT.questions.filter(item => {
+    if (bmOnly && !BM.has(item.id)) return false;
     if (subjName && item.subject !== subjName) return false;
     if (topic !== '__all__' && item.topic !== topic) return false;
     if (subtopic !== '__all__' && item.subtopic !== subtopic) return false;
@@ -111,12 +113,15 @@ function questionCard(item) {
 
   const topicTag = `<span class="tag topic">${esc(item.topic)}${item.subtopic ? ' · ' + esc(item.subtopic) : ''}</span>`;
   const warnTag = item.defective ? `<span class="tag warn">⚠ Verify vs original</span>` : '';
-  const hint = hasAns ? `<div class="opt-hint">Tap an option to check it, or </div>` : '';
+  const bm = BM.has(item.id);
+  const prog = PROG[item.id];
+  const pbadge = prog === 'correct' ? `<span class="pbadge ok">✓ got it</span>`
+               : prog === 'wrong' ? `<span class="pbadge bad">✗ missed</span>` : '';
 
-  return `<article class="qcard" data-id="${esc(item.id)}">
+  return `<article class="qcard${prog ? ' attempted' : ''}" data-id="${esc(item.id)}">
     <div class="qtop">
-      <span class="tag">★ ${esc(item.ref)}</span>
-      <span class="qmeta">${warnTag}${topicTag}</span>
+      <span class="tag">${esc(item.ref)}</span>
+      <span class="qmeta">${pbadge}${warnTag}${topicTag}<button class="bm${bm ? ' on' : ''}" data-act="bm" title="Bookmark this question" aria-label="Bookmark">${bm ? '★' : '☆'}</button></span>
     </div>
     <div class="qstem">${esc(item.stem)}</div>
     ${subsHtml}
@@ -153,14 +158,31 @@ function revealAnswer(card, item, chosen) {
   if (item.answerNote) html += `<div class="note">Source note: ${esc(item.answerNote)}</div>`;
   reveal.innerHTML = html;
   reveal.hidden = false;
+  if (chosen && hasLetter) {
+    const okp = chosen === item.answer ? 'correct' : 'wrong';
+    setProgress(item.id, okp); PROG[item.id] = okp;
+    addProgBadge(card, okp);
+  }
   const btn = card.querySelector('[data-act="show"]');
   if (btn) { btn.textContent = 'Reset'; btn.dataset.act = 'hide'; }
 }
 
 const RENDER_CAP = 120;
 let expanded = false;
+let BM = new Set(), PROG = {};
+
+function addProgBadge(card, val) {
+  const meta = card.querySelector('.qmeta');
+  if (!meta) return;
+  let b = meta.querySelector('.pbadge');
+  if (!b) { b = document.createElement('span'); meta.insertBefore(b, meta.firstChild); }
+  b.className = 'pbadge ' + (val === 'correct' ? 'ok' : 'bad');
+  b.textContent = val === 'correct' ? '✓ got it' : '✗ missed';
+  card.classList.add('attempted');
+}
 
 function render() {
+  BM = getBookmarks(); PROG = getProgress();
   const list = getFiltered();
   els.rcount.textContent = `${list.length} question${list.length === 1 ? '' : 's'}`;
   if (!list.length) {
@@ -194,6 +216,14 @@ function onResultsClick(e) {
   if (btn.dataset.act === 'expand') { expanded = true; render(); return; }
   const card = btn.closest('.qcard');
   const item = els.results._byId[card.dataset.id];
+  if (btn.dataset.act === 'bm') {
+    const on = toggleBookmark(item.id);
+    BM = getBookmarks();
+    btn.classList.toggle('on', on);
+    btn.textContent = on ? '★' : '☆';
+    if (els.bookmarked && els.bookmarked.checked && !on) render();
+    return;
+  }
   if (btn.dataset.act === 'show') {
     revealAnswer(card, item, null);
   } else {
@@ -230,7 +260,7 @@ async function init() {
   els.subject = $('f-subject'); els.topic = $('f-topic'); els.subtopic = $('f-subtopic');
   els.paper = $('f-paper');
   els.sort = $('f-sort'); els.search = $('f-search'); els.results = $('results');
-  els.rcount = $('rcount');
+  els.rcount = $('rcount'); els.bookmarked = $('f-bookmarked');
   initBanner();
   let locked = null;
   try {
@@ -259,6 +289,7 @@ async function init() {
   els.paper.addEventListener('change', applyFilters);
   els.sort.addEventListener('change', applyFilters);
   els.search.addEventListener('input', debounce(applyFilters, 180));
+  if (els.bookmarked) els.bookmarked.addEventListener('change', applyFilters);
   els.results.addEventListener('click', onResultsClick);
   $('f-reset').addEventListener('click', () => {
     if (!locked) els.subject.value = '__all__';

@@ -157,6 +157,15 @@ select:focus,input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
 .qcard.answered .opt.correct,.qcard.answered .opt.correct:hover{background:var(--good-bg);border-color:#bfe3cd}
 .qcard.answered .opt.chosen-wrong,.qcard.answered .opt.chosen-wrong:hover{background:var(--bad-bg);border-color:#f2c9c4}
 .reveal .ans.wrong{color:var(--bad)}
+/* bookmarks + progress */
+.bm{background:none;border:none;cursor:pointer;font-size:20px;line-height:1;color:var(--gold-dim);padding:0 2px}
+.bm.on{color:var(--gold)}
+.pbadge{font-size:11px;font-weight:800;padding:3px 8px;border-radius:999px}
+.pbadge.ok{background:var(--good-bg);color:var(--good)}
+.pbadge.bad{background:var(--bad-bg);color:var(--bad)}
+.qcard.attempted{border-left:3px solid var(--line)}
+.bm-filter{display:inline-flex;align-items:center;gap:5px;font-size:13px;font-weight:700;color:var(--navy);cursor:pointer}
+.bm-filter input{accent-color:var(--gold)}
 .reveal{border-top:1px dashed var(--line);padding-top:10px;margin-top:2px}
 .reveal .ans{font-weight:800;color:var(--good);margin-bottom:4px}
 .reveal .ans.none{color:var(--gold-dim)}
