@@ -4,8 +4,8 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  2169,
-                   "answered":  2138,
+                   "questions":  2246,
+                   "answered":  2215,
                    "subjects":  9,
                    "yearMin":  2016,
                    "yearMax":  2025
@@ -2094,26 +2094,34 @@
                          "key":  "miscellaneous",
                          "name":  "Miscellaneous",
                          "file":  "data/miscellaneous.json",
-                         "count":  44,
-                         "answered":  44,
-                         "yearMin":  2017,
+                         "count":  121,
+                         "answered":  121,
+                         "yearMin":  2016,
                          "yearMax":  2025,
                          "topics":  [
                                         {
                                             "name":  "Awards \u0026 Honours",
-                                            "count":  4
+                                            "count":  8
                                         },
                                         {
                                             "name":  "Books \u0026 Authors",
-                                            "count":  2
+                                            "count":  9
                                         },
                                         {
                                             "name":  "Days, Themes \u0026 Observances",
                                             "count":  6
                                         },
                                         {
+                                            "name":  "General Knowledge",
+                                            "count":  34
+                                        },
+                                        {
                                             "name":  "Government Schemes \u0026 Initiatives",
                                             "count":  4
+                                        },
+                                        {
+                                            "name":  "History \u0026 Static GK",
+                                            "count":  15
                                         },
                                         {
                                             "name":  "National Symbols \u0026 Miscellaneous GK",
@@ -2121,7 +2129,7 @@
                                         },
                                         {
                                             "name":  "Persons in News",
-                                            "count":  2
+                                            "count":  5
                                         },
                                         {
                                             "name":  "Reports \u0026 Indices",
@@ -2129,7 +2137,7 @@
                                         },
                                         {
                                             "name":  "Sports",
-                                            "count":  13
+                                            "count":  27
                                         }
                                     ],
                          "subtopics":  {
@@ -2139,13 +2147,27 @@
                                                                                              "count":  4
                                                                                          }
                                                                                      ],
+                                           "General Knowledge":  [
+                                                                     {
+                                                                         "name":  "",
+                                                                         "count":  34
+                                                                     }
+                                                                 ],
                                            "Books \u0026 Authors":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  7
+                                                                        },
                                                                         {
                                                                             "name":  "Recent books \u0026 autobiographies",
                                                                             "count":  2
                                                                         }
                                                                     ],
                                            "Awards \u0026 Honours":  [
+                                                                         {
+                                                                             "name":  "",
+                                                                             "count":  4
+                                                                         },
                                                                          {
                                                                              "name":  "Civilian Awards (Bharat Ratna, Padma)",
                                                                              "count":  3
@@ -2156,6 +2178,10 @@
                                                                          }
                                                                      ],
                                            "Persons in News":  [
+                                                                   {
+                                                                       "name":  "",
+                                                                       "count":  3
+                                                                   },
                                                                    {
                                                                        "name":  "Heads of State \u0026 Government",
                                                                        "count":  1
@@ -2183,6 +2209,10 @@
                                                                       ],
                                            "Sports":  [
                                                           {
+                                                              "name":  "",
+                                                              "count":  14
+                                                          },
+                                                          {
                                                               "name":  "Athletics, Boxing \u0026 individual sports",
                                                               "count":  2
                                                           },
@@ -2207,6 +2237,12 @@
                                                               "count":  1
                                                           }
                                                       ],
+                                           "History \u0026 Static GK":  [
+                                                                            {
+                                                                                "name":  "",
+                                                                                "count":  15
+                                                                            }
+                                                                        ],
                                            "Days, Themes \u0026 Observances":  [
                                                                                    {
                                                                                        "name":  "International Days \u0026 UN observances",
@@ -2220,64 +2256,80 @@
                                        },
                          "papers":  [
                                         {
+                                            "name":  "CDS 2016-II",
+                                            "count":  3
+                                        },
+                                        {
                                             "name":  "CDS 2017-I",
-                                            "count":  4
-                                        },
-                                        {
-                                            "name":  "CDS 2017-II",
-                                            "count":  3
-                                        },
-                                        {
-                                            "name":  "CDS 2018-I",
-                                            "count":  4
-                                        },
-                                        {
-                                            "name":  "CDS 2018-II",
-                                            "count":  2
-                                        },
-                                        {
-                                            "name":  "CDS 2019-I",
-                                            "count":  4
-                                        },
-                                        {
-                                            "name":  "CDS 2019-II",
-                                            "count":  1
-                                        },
-                                        {
-                                            "name":  "CDS 2020-I",
-                                            "count":  1
-                                        },
-                                        {
-                                            "name":  "CDS 2020-II",
-                                            "count":  2
-                                        },
-                                        {
-                                            "name":  "CDS 2021-II",
-                                            "count":  3
-                                        },
-                                        {
-                                            "name":  "CDS 2022-II",
-                                            "count":  1
-                                        },
-                                        {
-                                            "name":  "CDS 2023-I",
                                             "count":  5
                                         },
                                         {
+                                            "name":  "CDS 2017-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  10
+                                        },
+                                        {
                                             "name":  "CDS 2023-II",
-                                            "count":  3
+                                            "count":  6
                                         },
                                         {
                                             "name":  "CDS 2024-I",
-                                            "count":  4
+                                            "count":  6
                                         },
                                         {
-                                            "name":  "CDS 2025-I",
+                                            "name":  "CDS 2024-II",
                                             "count":  3
                                         },
                                         {
+                                            "name":  "CDS 2025-I",
+                                            "count":  6
+                                        },
+                                        {
                                             "name":  "CDS 2025-II",
-                                            "count":  4
+                                            "count":  5
                                         }
                                     ]
                      },
