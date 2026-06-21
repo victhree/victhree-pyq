@@ -4,8 +4,8 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  2246,
-                   "answered":  2215,
+                   "questions":  2169,
+                   "answered":  2138,
                    "subjects":  9,
                    "yearMin":  2016,
                    "yearMax":  2025
@@ -1979,130 +1979,114 @@
                          "key":  "international-relations",
                          "name":  "International Relations",
                          "file":  "data/international-relations.json",
-                         "count":  101,
-                         "answered":  101,
-                         "yearMin":  2016,
+                         "count":  24,
+                         "answered":  24,
+                         "yearMin":  2017,
                          "yearMax":  2025,
                          "topics":  [
                                         {
-                                            "name":  "India\u0027s bilateral relations",
-                                            "count":  4
+                                            "name":  "Bilateral, Summits \u0026 Diplomacy",
+                                            "count":  3
                                         },
                                         {
-                                            "name":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+                                            "name":  "Multilateral Groupings",
                                             "count":  8
                                         },
                                         {
-                                            "name":  "Regional \u0026 sub-regional bodies",
+                                            "name":  "Regional Organizations",
                                             "count":  2
                                         },
                                         {
-                                            "name":  "UN \u0026 international agencies",
-                                            "count":  87
+                                            "name":  "UN \u0026 International Agencies",
+                                            "count":  11
                                         }
                                     ],
                          "subtopics":  {
-                                           "UN \u0026 international agencies":  [
-                                                                                    {
-                                                                                        "name":  "",
-                                                                                        "count":  87
-                                                                                    }
-                                                                                ],
-                                           "Regional \u0026 sub-regional bodies":  [
+                                           "Bilateral, Summits \u0026 Diplomacy":  [
                                                                                        {
                                                                                            "name":  "",
-                                                                                           "count":  2
+                                                                                           "count":  3
                                                                                        }
                                                                                    ],
-                                           "India\u0027s bilateral relations":  [
+                                           "Regional Organizations":  [
+                                                                          {
+                                                                              "name":  "",
+                                                                              "count":  2
+                                                                          }
+                                                                      ],
+                                           "Multilateral Groupings":  [
+                                                                          {
+                                                                              "name":  "",
+                                                                              "count":  8
+                                                                          }
+                                                                      ],
+                                           "UN \u0026 International Agencies":  [
                                                                                     {
                                                                                         "name":  "",
-                                                                                        "count":  4
+                                                                                        "count":  11
                                                                                     }
-                                                                                ],
-                                           "Multilateral groupings (BRICS, G20, SCO, Quad)":  [
-                                                                                                  {
-                                                                                                      "name":  "",
-                                                                                                      "count":  8
-                                                                                                  }
-                                                                                              ]
+                                                                                ]
                                        },
                          "papers":  [
                                         {
-                                            "name":  "CDS 2016-II",
-                                            "count":  3
-                                        },
-                                        {
                                             "name":  "CDS 2017-I",
-                                            "count":  4
-                                        },
-                                        {
-                                            "name":  "CDS 2017-II",
-                                            "count":  4
+                                            "count":  3
                                         },
                                         {
                                             "name":  "CDS 2018-I",
-                                            "count":  2
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2018-II",
-                                            "count":  3
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2019-I",
-                                            "count":  10
+                                            "count":  2
                                         },
                                         {
                                             "name":  "CDS 2019-II",
-                                            "count":  8
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2020-I",
-                                            "count":  8
-                                        },
-                                        {
-                                            "name":  "CDS 2020-II",
-                                            "count":  7
+                                            "count":  2
                                         },
                                         {
                                             "name":  "CDS 2021-I",
-                                            "count":  9
+                                            "count":  2
                                         },
                                         {
                                             "name":  "CDS 2021-II",
-                                            "count":  7
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2022-I",
-                                            "count":  8
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2022-II",
-                                            "count":  2
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2023-I",
-                                            "count":  7
+                                            "count":  2
                                         },
                                         {
                                             "name":  "CDS 2023-II",
-                                            "count":  4
-                                        },
-                                        {
-                                            "name":  "CDS 2024-I",
-                                            "count":  2
+                                            "count":  1
                                         },
                                         {
                                             "name":  "CDS 2024-II",
-                                            "count":  6
+                                            "count":  3
                                         },
                                         {
                                             "name":  "CDS 2025-I",
-                                            "count":  5
+                                            "count":  2
                                         },
                                         {
                                             "name":  "CDS 2025-II",
-                                            "count":  2
+                                            "count":  1
                                         }
                                     ]
                      },

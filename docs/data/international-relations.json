@@ -2,9 +2,9 @@
     {
         "id":  "ir-2017-I-q93",
         "subject":  "International Relations",
-        "topic":  "India\u0027s bilateral relations",
+        "topic":  "Bilateral, Summits \u0026 Diplomacy",
         "subtopic":  "",
-        "topicOriginal":  "India\u0027s bilateral relations",
+        "topicOriginal":  "Bilateral, Summits \u0026 Diplomacy",
         "year":  2017,
         "session":  "I",
         "paper":  "CDS 2017-I",
@@ -27,9 +27,9 @@
     {
         "id":  "ir-2018-II-q64",
         "subject":  "International Relations",
-        "topic":  "India\u0027s bilateral relations",
+        "topic":  "Bilateral, Summits \u0026 Diplomacy",
         "subtopic":  "",
-        "topicOriginal":  "India\u0027s bilateral relations",
+        "topicOriginal":  "Bilateral, Summits \u0026 Diplomacy",
         "year":  2018,
         "session":  "II",
         "paper":  "CDS 2018-II",
@@ -52,9 +52,9 @@
     {
         "id":  "ir-2025-II-q1",
         "subject":  "International Relations",
-        "topic":  "India\u0027s bilateral relations",
+        "topic":  "Regional Organizations",
         "subtopic":  "",
-        "topicOriginal":  "India\u0027s bilateral relations",
+        "topicOriginal":  "Regional Organizations",
         "year":  2025,
         "session":  "II",
         "paper":  "CDS 2025-II",
@@ -78,36 +78,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2025-II-q9",
-        "subject":  "International Relations",
-        "topic":  "India\u0027s bilateral relations",
-        "subtopic":  "",
-        "topicOriginal":  "India\u0027s bilateral relations",
-        "year":  2025,
-        "session":  "II",
-        "paper":  "CDS 2025-II",
-        "qno":  9,
-        "ref":  "CDS 2025-II, Q.9",
-        "stem":  "The Durand Line is a border demarcation separating which countries?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Afghanistan and Iran",
-                        "Afghanistan and Pakistan",
-                        "India and Pakistan",
-                        "Afghanistan and China"
-                    ],
-        "answer":  "b",
-        "explanation":  "The Durand Line, drawn in 1893 by Sir Mortimer Durand (between British India and Afghanistan), today forms the disputed border between Afghanistan and Pakistan. (The India-Pakistan boundary is the Radcliffe Line/LoC.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2017-I-q92",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2017,
         "session":  "I",
         "paper":  "CDS 2017-I",
@@ -130,9 +105,9 @@
     {
         "id":  "ir-2018-I-q113",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2018,
         "session":  "I",
         "paper":  "CDS 2018-I",
@@ -155,9 +130,9 @@
     {
         "id":  "ir-2019-I-q120",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2019,
         "session":  "I",
         "paper":  "CDS 2019-I",
@@ -180,9 +155,9 @@
     {
         "id":  "ir-2020-I-q119",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2020,
         "session":  "I",
         "paper":  "CDS 2020-I",
@@ -205,9 +180,9 @@
     {
         "id":  "ir-2021-I-q82",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2021,
         "session":  "I",
         "paper":  "CDS 2021-I",
@@ -230,9 +205,9 @@
     {
         "id":  "ir-2022-I-q48",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2022,
         "session":  "I",
         "paper":  "CDS 2022-I",
@@ -255,9 +230,9 @@
     {
         "id":  "ir-2023-I-q111",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2023,
         "session":  "I",
         "paper":  "CDS 2023-I",
@@ -280,9 +255,9 @@
     {
         "id":  "ir-2024-II-q41",
         "subject":  "International Relations",
-        "topic":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topic":  "Multilateral Groupings",
         "subtopic":  "",
-        "topicOriginal":  "Multilateral groupings (BRICS, G20, SCO, Quad)",
+        "topicOriginal":  "Multilateral Groupings",
         "year":  2024,
         "session":  "II",
         "paper":  "CDS 2024-II",
@@ -307,9 +282,9 @@
     {
         "id":  "ir-2017-I-q56",
         "subject":  "International Relations",
-        "topic":  "Regional \u0026 sub-regional bodies",
+        "topic":  "Regional Organizations",
         "subtopic":  "",
-        "topicOriginal":  "Regional \u0026 sub-regional bodies",
+        "topicOriginal":  "Regional Organizations",
         "year":  2017,
         "session":  "I",
         "paper":  "CDS 2017-I",
@@ -332,9 +307,9 @@
     {
         "id":  "ir-2019-II-q12",
         "subject":  "International Relations",
-        "topic":  "Regional \u0026 sub-regional bodies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "Regional \u0026 sub-regional bodies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2019,
         "session":  "II",
         "paper":  "CDS 2019-II",
@@ -355,362 +330,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2016-II-q71",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2016,
-        "session":  "II",
-        "paper":  "CDS 2016-II",
-        "qno":  71,
-        "ref":  "CDS 2016-II, Q.71",
-        "stem":  "Neil O\u0027Brien, who died recently, was a famous",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "journalist",
-                        "billiards player",
-                        "dramatist",
-                        "quiz master"
-                    ],
-        "answer":  "d",
-        "explanation":  "Neil O\u0027Brien was India\u0027s legendary quiz master, who pioneered and popularised competitive quizzing in the country (and father of MP Derek O\u0027Brien). (A current-affairs/obituary item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2016-II-q74",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2016,
-        "session":  "II",
-        "paper":  "CDS 2016-II",
-        "qno":  74,
-        "ref":  "CDS 2016-II, Q.74",
-        "stem":  "Who won the Men\u0027s Singles title at the Australian Open Tennis Tournament, 2016?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Jamie Murray",
-                        "Bruno Soares",
-                        "Novak Djokovic",
-                        "Andy Murray"
-                    ],
-        "answer":  "c",
-        "explanation":  "Novak Djokovic won the 2016 Australian Open men\u0027s singles (defeating Andy Murray in the final) — one of his record number of Australian Open titles. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2016-II-q84",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2016,
-        "session":  "II",
-        "paper":  "CDS 2016-II",
-        "qno":  84,
-        "ref":  "CDS 2016-II, Q.84",
-        "stem":  "Who was defeated by Chile to win the Copa America Football Championship, 2016?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Colombia",
-                        "Argentina",
-                        "Ecuador",
-                        "Peru"
-                    ],
-        "answer":  "b",
-        "explanation":  "Chile beat Argentina (on penalties) to win the Copa América Centenario, 2016 — the second straight final in which Chile defeated Lionel Messi\u0027s Argentina. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2017-I-q65",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2017,
-        "session":  "I",
-        "paper":  "CDS 2017-I",
-        "qno":  65,
-        "ref":  "CDS 2017-I, Q.65",
-        "stem":  "Who won a Gold medal for India in the Men\u0027s Javelin Throw at the 2016 Rio Paralympic Games?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Rinku Hooda",
-                        "Devendra Jhajharia",
-                        "Sundar Singh Gurjar",
-                        "Mariyappan Thangavelu"
-                    ],
-        "answer":  "b",
-        "explanation":  "Devendra Jhajharia won gold in the F46 javelin throw at the Rio 2016 Paralympics (with a world-record throw) — his second Paralympic gold, making him one of India\u0027s greatest para-athletes. (Mariyappan Thangavelu won the high-jump gold at the same Games.) (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2017-II-q2",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2017,
-        "session":  "II",
-        "paper":  "CDS 2017-II",
-        "qno":  2,
-        "ref":  "CDS 2017-II, Q.2",
-        "stem":  "Which geographer is related to the primate city concept?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "August Losch",
-                        "Mark Jefferson",
-                        "Griffith Taylor",
-                        "W. Christaller"
-                    ],
-        "answer":  "b",
-        "explanation":  "The \"primate city\" concept — a country\u0027s largest city being disproportionately bigger than the next — was given by the geographer Mark Jefferson (1939). (Christaller gave Central Place Theory; Lösch worked on economic geography.) (A geography item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2017-II-q36",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2017,
-        "session":  "II",
-        "paper":  "CDS 2017-II",
-        "qno":  36,
-        "ref":  "CDS 2017-II, Q.36",
-        "stem":  "Consider the following statements:",
-        "subs":  [
-                     "Statement I: The early Aryans, essentially pastoral, did not develop a political structure measuring up to a State.",
-                     "Statement II: Tribal kingship was the same as chiefship, the term Rajan being used for the tribal chief who was primarily a military leader ruling over people, not over a specified area."
-                 ],
-        "options":  [
-                        "Both true, II explains I",
-                        "Both true, II not the explanation",
-                        "I true, II false",
-                        "I false, II true"
-                    ],
-        "answer":  "a",
-        "explanation":  "Early Vedic (Rig Vedic) society was tribal and pastoral, with the Rajan as a tribal chief/war-leader ruling over a people (jana), not a defined territory — so it lacked a territorial \"State\" in the proper sense. Statement II thus correctly explains why no State-like structure emerged (Statement I). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2017-II-q78",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2017,
-        "session":  "II",
-        "paper":  "CDS 2017-II",
-        "qno":  78,
-        "ref":  "CDS 2017-II, Q.78",
-        "stem":  "On the nature of the Mughal State, who argued that its peculiar feature was that it served not merely as the protective arm of the exploiting classes but was itself the principal instrument of exploitation?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Irfan Habib",
-                        "Satish Chandra",
-                        "Athar Ali",
-                        "J. F. Richards"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Marxist historian Irfan Habib, in The Agrarian System of Mughal India, argued that the Mughal state was itself the chief instrument of surplus extraction (exploitation) from the peasantry, not just a protector of an exploiting class. (A history/historiography item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2017-II-q92",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2017,
-        "session":  "II",
-        "paper":  "CDS 2017-II",
-        "qno":  92,
-        "ref":  "CDS 2017-II, Q.92",
-        "stem":  "Who argued that capital created underdevelopment not because it exploited the underdeveloped world, but because it did not exploit it enough?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Bill Warren",
-                        "Paul Baran",
-                        "Geoffrey Kay",
-                        "Lenin"
-                    ],
-        "answer":  "c",
-        "explanation":  "The line \u0027capital created underdevelopment not because it exploited the underdeveloped world, but because it did not exploit it enough\u0027 is attributed to Geoffrey Kay, not Bill Warren. Hence the answer is Geoffrey Kay (option c).",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2018-I-q78",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2018,
-        "session":  "I",
-        "paper":  "CDS 2018-I",
-        "qno":  78,
-        "ref":  "CDS 2018-I, Q.78",
-        "stem":  "Who is the winner of the National Badminton Championship (Men), 2017?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Kidambi Srikanth",
-                        "H. S. Prannoy",
-                        "Ajay Jayaram",
-                        "Sai Praneeth"
-                    ],
-        "answer":  "b",
-        "explanation":  "This is a year/result-specific sports fact. (Worth confirming against the official key — the men\u0027s singles title of the 2017 Senior National Badminton Championship.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2018-II-q80",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2018,
-        "session":  "II",
-        "paper":  "CDS 2018-II",
-        "qno":  80,
-        "ref":  "CDS 2018-II, Q.80",
-        "stem":  "Who was the first Nawab Wazir of Awadh in the 18th century?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Nawab Safdarjung",
-                        "Nawab Saadat Ali Khan",
-                        "Nawab Shuja-ud-Daula",
-                        "Nawab Saadat Khan"
-                    ],
-        "answer":  "d",
-        "explanation":  "Saadat Khan (Burhan-ul-Mulk) founded the autonomous state of Awadh around 1722 as the first Nawab, as Mughal central authority weakened. Safdarjung and Shuja-ud-Daula were his successors. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2018-II-q119",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2018,
-        "session":  "II",
-        "paper":  "CDS 2018-II",
-        "qno":  119,
-        "ref":  "CDS 2018-II, Q.119",
-        "stem":  "Who took over the Eka Movement started by the Congress in Awadh during 1921-22?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Bhagwan Ahir",
-                        "Madari Pasi",
-                        "Baba Ramchandra",
-                        "Shah Naeem Ata"
-                    ],
-        "answer":  "b",
-        "explanation":  "The Eka (Unity) Movement of peasants in Awadh, begun under Congress/Khilafat auspices, soon passed to grassroots leaders like Madari Pasi, and developed a militant character that the Congress leadership could not control. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q5",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  5,
-        "ref":  "CDS 2019-I, Q.5",
-        "stem":  "Who was known during the Revolt of 1857 as \"Danka Shah\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Shah Mal",
-                        "Maulavi Ahmadullah Shah",
-                        "Nana Sahib",
-                        "Tantia Tope"
-                    ],
-        "answer":  "b",
-        "explanation":  "Maulvi Ahmadullah Shah of Faizabad, a leading rebel of 1857 famed for his charisma and military skill, was popularly called \"Danka Shah\" (the one who moved with beating drums). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q12",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  12,
-        "ref":  "CDS 2019-I, Q.12",
-        "stem":  "Who organized the All India Scheduled Castes Federation?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Jyotiba Phule",
-                        "Periyar",
-                        "B. R. Ambedkar",
-                        "M. K. Karunanidhi"
-                    ],
-        "answer":  "c",
-        "explanation":  "Dr. B. R. Ambedkar founded the All India Scheduled Castes Federation (1942) to represent the political interests of the Depressed Classes (it was later succeeded by the Republican Party of India). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q13",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  13,
-        "ref":  "CDS 2019-I, Q.13",
-        "stem":  "Paul Allen, who died in October 2018, was the co-founder of",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Oracle",
-                        "IBM",
-                        "Microsoft",
-                        "SAP"
-                    ],
-        "answer":  "c",
-        "explanation":  "Paul Allen co-founded Microsoft with Bill Gates in 1975. (A current-affairs/obituary item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2019-I-q18",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2019,
         "session":  "I",
         "paper":  "CDS 2019-I",
@@ -731,461 +355,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2019-I-q19",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  19,
-        "ref":  "CDS 2019-I, Q.19",
-        "stem":  "Who is the first Indian to win a Pulitzer Prize?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Arundhati Roy",
-                        "Gobind Behari Lal",
-                        "Vijay Seshadri",
-                        "Jhumpa Lahiri"
-                    ],
-        "answer":  "b",
-        "explanation":  "Gobind Behari Lal, a science journalist (and a nephew of Lala Hardayal), was the first person of Indian origin to win a Pulitzer Prize (1937, for science reporting). (A history/awards item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q26",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  26,
-        "ref":  "CDS 2019-I, Q.26",
-        "stem":  "Who designed the Bombay Secretariat in the 1870s?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "H. St. Clair Wilkins",
-                        "Sir Cowasjee Jehangir Readymoney",
-                        "Purushottamdas Thakurdas",
-                        "Nusserwanji Tata"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Gothic-Revival Bombay Secretariat (1870s) was designed by Colonel Henry St. Clair Wilkins, a Royal Engineers architect, part of the burst of Victorian Gothic public buildings in colonial Bombay. (A history/architecture item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q27",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  27,
-        "ref":  "CDS 2019-I, Q.27",
-        "stem":  "Who founded the Mahakali Pathshala in Calcutta?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Mataji Maharani Tapaswini",
-                        "Sister Nivedita",
-                        "Madame Blavatsky",
-                        "Sarojini Naidu"
-                    ],
-        "answer":  "a",
-        "explanation":  "Mataji Maharani Tapaswini founded the Mahakali Pathshala (1893) in Calcutta — a girls\u0027 school that imparted education within a traditional Hindu framework. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q28",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  28,
-        "ref":  "CDS 2019-I, Q.28",
-        "stem":  "Which European ruler observed, \"Bear in mind that the commerce of India is the commerce of the world; he who can exclusively command it is the dictator of Europe\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Queen Victoria",
-                        "Peter the Great of Russia",
-                        "Napoleon Bonaparte",
-                        "Gustav II Adolf"
-                    ],
-        "answer":  "c",
-        "explanation":  "This remark on the supreme strategic value of the India trade is attributed to Napoleon Bonaparte — reflecting the European powers\u0027 contest for control of Indian and Asian commerce. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-I-q114",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "I",
-        "paper":  "CDS 2019-I",
-        "qno":  114,
-        "ref":  "CDS 2019-I, Q.114",
-        "stem":  "Who won India\u0027s first ever gold medal at the Youth Olympic Games 2018 in Argentina?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Neeraj Chopra",
-                        "Praveen Chitravel",
-                        "Jeremy Lalrinnunga",
-                        "Suraj Panwar"
-                    ],
-        "answer":  "c",
-        "explanation":  "Weightlifter Jeremy Lalrinnunga won India\u0027s first-ever gold at the Youth Olympic Games (Buenos Aires 2018). (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q13",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  13,
-        "ref":  "CDS 2019-II, Q.13",
-        "stem":  "Who won the Italian Open Women\u0027s Tennis Singles Title, 2019?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Karolina Pliskova",
-                        "Johanna Konta",
-                        "Naomi Osaka",
-                        "Serena Williams"
-                    ],
-        "answer":  "a",
-        "explanation":  "Karolina Pliskova won the 2019 Italian Open (Rome) women\u0027s singles title. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q19",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  19,
-        "ref":  "CDS 2019-II, Q.19",
-        "stem":  "Who was elected President of Indonesia for a second term?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Joko Widodo",
-                        "Prabowo Subianto",
-                        "Sandiaga Uno",
-                        "Jusuf Kalla"
-                    ],
-        "answer":  "a",
-        "explanation":  "Joko Widodo (\"Jokowi\") was re-elected President of Indonesia for a second term in 2019 (defeating Prabowo Subianto). (A current-affairs item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q32",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  32,
-        "ref":  "CDS 2019-II, Q.32",
-        "stem":  "Who started the Indian Agriculture Service?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "William Bentinck",
-                        "Lord Curzon",
-                        "Lord Rippon",
-                        "Lord Minto"
-                    ],
-        "answer":  "b",
-        "explanation":  "Lord Curzon, the reforming (and controversial) Viceroy, set up the Department/Imperial Agriculture Service and the agricultural research institute at Pusa, as part of his administrative initiatives in the early 1900s. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q39",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  39,
-        "ref":  "CDS 2019-II, Q.39",
-        "stem":  "Who, in his book The Managerial Revolution, argued that a managerial class dominated all industrial societies (capitalist and communist) by virtue of its technical knowledge and administrative skills?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "James Burnham",
-                        "Robert Michels",
-                        "Gaetano Mosca",
-                        "Vilfredo Pareto"
-                    ],
-        "answer":  "a",
-        "explanation":  "James Burnham\u0027s \"The Managerial Revolution\" (1941) argued that real power was passing from capitalists/owners to a new managerial class of technical and administrative experts in both capitalist and socialist economies. (A political-thought item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q58",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  58,
-        "ref":  "CDS 2019-II, Q.58",
-        "stem":  "Who were the Nayanars?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Those immersed in devotion to Vishnu",
-                        "Devotees of Buddha",
-                        "Leaders who were devotees of Shiva",
-                        "Leaders who were devotees of Basaveshwara"
-                    ],
-        "answer":  "c",
-        "explanation":  "The Nayanars were the 63 Tamil Shaiva (Shiva-devotee) saint-poets of South India (their hymns collected in the Tevaram). The Vaishnava counterparts were the Alvars. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q60",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  60,
-        "ref":  "CDS 2019-II, Q.60",
-        "stem":  "Which Mughal emperor was a follower of the Naqshbandiyya leader Khwaja Ubaydullah Ahrar?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Babur",
-                        "Humayun",
-                        "Akbar",
-                        "Jahangir"
-                    ],
-        "answer":  "a",
-        "explanation":  "Babur, the founder of the Mughal Empire, was a devoted follower of the Naqshbandi Sufi order and its leader Khwaja Ubaydullah Ahrar — he even translated one of Ahrar\u0027s works into Turki verse. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2019-II-q111",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2019,
-        "session":  "II",
-        "paper":  "CDS 2019-II",
-        "qno":  111,
-        "ref":  "CDS 2019-II, Q.111",
-        "stem":  "Who were the Alvars?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Those immersed in devotion to Vishnu",
-                        "Devotees of Shiva",
-                        "Those who worshipped an abstract form of God",
-                        "Devotees of Shakti"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Alvars were the twelve Tamil Vaishnava (Vishnu-devotee) saint-poets, whose hymns form the Nalayira Divya Prabandham. (The Nayanars were the Shaiva counterparts.) (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q35",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  35,
-        "ref":  "CDS 2020-I, Q.35",
-        "stem":  "Which Sultan finally broke and destroyed the power of the Turkan-i-Chihalgani?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Iltutmish",
-                        "Balban",
-                        "Alauddin Khalji",
-                        "Muhammad bin Tughluq"
-                    ],
-        "answer":  "b",
-        "explanation":  "The Turkan-i-Chihalgani (\"the Forty\") was a powerful corps of Turkish nobles created by Iltutmish that came to dominate the throne. Sultan Balban ruthlessly broke their power to restore the absolute authority of the monarchy. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q36",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  36,
-        "ref":  "CDS 2020-I, Q.36",
-        "stem":  "Which Mongol leader/commander did not cross the Indus to attack India?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Chenghiz Khan",
-                        "Tair Bahadur",
-                        "Abdullah",
-                        "Qutlugh Khwaja"
-                    ],
-        "answer":  "a",
-        "explanation":  "Chenghiz (Genghis) Khan reached the banks of the Indus (1221, pursuing Jalaluddin Mangbarni) but did not cross it into India proper. Later Mongol commanders (Tair Bahadur, Qutlugh Khwaja, etc.) did raid into India. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q54",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  54,
-        "ref":  "CDS 2020-I, Q.54",
-        "stem":  "Who won the Best Men\u0027s Player Award at the FIFA Football Awards, 2019?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Cristiano Ronaldo",
-                        "Virgil van Dijk",
-                        "Lionel Messi",
-                        "Xavi"
-                    ],
-        "answer":  "c",
-        "explanation":  "Lionel Messi won the FIFA The Best Men\u0027s Player award for 2019. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q56",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  56,
-        "ref":  "CDS 2020-I, Q.56",
-        "stem":  "Greta Thunberg, the teenaged environment activist, hails from",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Sweden",
-                        "Germany",
-                        "USA",
-                        "Canada"
-                    ],
-        "answer":  "a",
-        "explanation":  "Greta Thunberg, who began the \"Fridays for Future\" school climate strikes, is from Sweden. (A current-affairs item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q58",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  58,
-        "ref":  "CDS 2020-I, Q.58",
-        "stem":  "Amitabh Bachchan was conferred the Dadasaheb Phalke Award. Who was the first recipient of the award?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Prithviraj Kapoor",
-                        "Devika Rani",
-                        "Sohrab Modi",
-                        "Naushad"
-                    ],
-        "answer":  "b",
-        "explanation":  "The first Dadasaheb Phalke Award (1969) was given to the actress Devika Rani, a pioneer of Indian cinema. (A current-affairs/films item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-I-q78",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "I",
-        "paper":  "CDS 2020-I",
-        "qno":  78,
-        "ref":  "CDS 2020-I, Q.78",
-        "stem":  "Who believed that Russian designs were an imminent peril to the security of the Indian Empire in 1836?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Lord Auckland",
-                        "Lord Palmerston",
-                        "Lord Canning",
-                        "Alexander Burnes"
-                    ],
-        "answer":  "a",
-        "explanation":  "Governor-General Lord Auckland, gripped by fear of Russian expansion (\"the Great Game\") toward India, pursued the policy that led to the disastrous First Anglo-Afghan War (1839-42). (A history item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2020-I-q83",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2020,
         "session":  "I",
         "paper":  "CDS 2020-I",
@@ -1206,236 +380,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2020-II-q16",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  16,
-        "ref":  "CDS 2020-II, Q.16",
-        "stem":  "Who created the first All India Trade Union Congress in 1920?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "B. P. Wadia",
-                        "S. A. Dange",
-                        "N. M. Joshi",
-                        "B. T. Ranadive"
-                    ],
-        "answer":  "c",
-        "explanation":  "The All India Trade Union Congress (AITUC), India\u0027s first national trade-union federation, was founded in 1920, with N. M. Joshi as a principal founder (Lala Lajpat Rai was its first president). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q20",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  20,
-        "ref":  "CDS 2020-II, Q.20",
-        "stem":  "Who moved the motion of the Secret Sitting Session of the Assembly in 1942?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "M. S. Aney",
-                        "G. V. Mavalankar",
-                        "C. M. Stephen",
-                        "A. Ayyangar"
-                    ],
-        "answer":  "a",
-        "explanation":  "This is a niche legislative-history fact relating to the Central Legislative Assembly in 1942. (Worth confirming against the official key.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q42",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  42,
-        "ref":  "CDS 2020-II, Q.42",
-        "stem":  "During the 19th century, who wrote the Satapatra (Shatapatre) Series?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "M. G. Ranade",
-                        "B. G. Tilak",
-                        "Bankim Chandra Chatterjee",
-                        "G. H. Deshmukh"
-                    ],
-        "answer":  "d",
-        "explanation":  "Gopal Hari Deshmukh (\"Lokahitwadi\") wrote the \"Shatapatre\" (a hundred letters) in the Marathi weekly Prabhakar in the 1840s-50s, advocating social and religious reform. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q46",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  46,
-        "ref":  "CDS 2020-II, Q.46",
-        "stem":  "Who was the first to accept a ministerial position in the Central Provinces in October 1925?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "B. S. Moonje",
-                        "M. R. Jayakar",
-                        "S. B. Tambe",
-                        "B. N. Sasmal"
-                    ],
-        "answer":  "c",
-        "explanation":  "S. B. Tambe\u0027s acceptance of a ministerial (executive council) post in the Central Provinces in 1925 caused a major controversy within the Swaraj Party (the \"responsivist\" vs \"non-cooperationist\" split). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q47",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  47,
-        "ref":  "CDS 2020-II, Q.47",
-        "stem":  "Who formed the National Liberal Federation (Liberal Party)?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Motilal Nehru and C. R. Das",
-                        "Muhammad Ali and C. R. Das",
-                        "T. B. Sapru and M. R. Jayakar",
-                        "M. R. Jayakar and C. R. Das"
-                    ],
-        "answer":  "c",
-        "explanation":  "The moderates who left the Congress after 1918 (over the Reforms) formed the National Liberal Federation — led by figures such as Tej Bahadur Sapru and M. R. Jayakar (and Srinivasa Sastri). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q68",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  68,
-        "ref":  "CDS 2020-II, Q.68",
-        "stem":  "Who wrote \"The Philosophy of the Bomb\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Sukhdev",
-                        "Chandrashekhar Azad",
-                        "Bhagwati Charan Vohra",
-                        "Bhagat Singh"
-                    ],
-        "answer":  "c",
-        "explanation":  "\"The Philosophy of the Bomb\" (1930) — the revolutionaries\u0027 reply to Gandhi\u0027s criticism of violence — was authored chiefly by Bhagwati Charan Vohra (of the HSRA). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2020-II-q117",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2020,
-        "session":  "II",
-        "paper":  "CDS 2020-II",
-        "qno":  117,
-        "ref":  "CDS 2020-II, Q.117",
-        "stem":  "Who won the Singles title at the Wimbledon Tennis Championship (Women) in 2019?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Karolina Pliskova",
-                        "Simona Halep",
-                        "Serena Williams",
-                        "Naomi Osaka"
-                    ],
-        "answer":  "b",
-        "explanation":  "Simona Halep won the 2019 Wimbledon women\u0027s singles title, beating Serena Williams in the final. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q8",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  8,
-        "ref":  "CDS 2021-I, Q.8",
-        "stem":  "Who founded the Bhil Seva Mandal in 1922?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Dayaram Gidumal",
-                        "Gurusaday Dutt",
-                        "Dhondo Keshav Karve",
-                        "Amritlal Vithaldas Thakkar"
-                    ],
-        "answer":  "d",
-        "explanation":  "Amritlal Vithaldas Thakkar (\"Thakkar Bapa\"), a Gandhian social worker, founded the Bhil Seva Mandal (1922) to work for the welfare and upliftment of the Bhil tribal community. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q38",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  38,
-        "ref":  "CDS 2021-I, Q.38",
-        "stem":  "Who said \"Democracy means a system of Government by Consent\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "John Locke",
-                        "J. S. Mill",
-                        "Jeremy Bentham",
-                        "J. J. Rousseau"
-                    ],
-        "answer":  "a",
-        "explanation":  "The idea of government resting on the consent of the governed is central to John Locke\u0027s social-contract theory. (A political-thought item; worth confirming the exact attribution against the official key.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2021-I-q40",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2021,
         "session":  "I",
         "paper":  "CDS 2021-I",
@@ -1456,261 +405,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2021-I-q47",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  47,
-        "ref":  "CDS 2021-I, Q.47",
-        "stem":  "Who founded the Central Hindu School at Benaras, later developed into Banaras Hindu University?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Madan Mohan Malaviya",
-                        "Annie Besant",
-                        "Ishwar Chandra Vidyasagar",
-                        "Madame H. P. Blavatsky"
-                    ],
-        "answer":  "b",
-        "explanation":  "Annie Besant founded the Central Hindu School at Benaras (1898), which later — through the efforts of Madan Mohan Malaviya — grew into Banaras Hindu University (1916). (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q58",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  58,
-        "ref":  "CDS 2021-I, Q.58",
-        "stem":  "Who was popularly known as \"Lokahitwadi\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Gopal Hari Deshmukh",
-                        "Mahadev Govind Ranade",
-                        "Gopal Krishna Gokhale",
-                        "Jyotiba Phule"
-                    ],
-        "answer":  "a",
-        "explanation":  "Gopal Hari Deshmukh was known by the pen-name \"Lokahitwadi\" (\"one who desires the welfare of the people\"), under which he wrote his reformist Shatapatre letters. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q59",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  59,
-        "ref":  "CDS 2021-I, Q.59",
-        "stem":  "Which socialist activist persuaded Gandhiji not to restrict the salt-march protest to men alone?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Kamaladevi Chattopadhyay",
-                        "Sarojini Naidu",
-                        "Matangini Hazra",
-                        "Mithuben Petit"
-                    ],
-        "answer":  "a",
-        "explanation":  "Kamaladevi Chattopadhyay persuaded Gandhi to let women participate in the Salt Satyagraha, arguing they should not be excluded — and she herself became prominent in breaking the salt law. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q65",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  65,
-        "ref":  "CDS 2021-I, Q.65",
-        "stem":  "Who founded the Marathi newspaper Kesari?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Lokmanya Tilak",
-                        "Vallabhbhai Patel",
-                        "Lala Lajpat Rai",
-                        "Mahatma Gandhi"
-                    ],
-        "answer":  "a",
-        "explanation":  "Bal Gangadhar Tilak (Lokmanya Tilak) founded the Marathi newspaper Kesari (and the English Maratha) to spread nationalist ideas and rouse public opinion against colonial rule. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-I-q84",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "I",
-        "paper":  "CDS 2021-I",
-        "qno":  84,
-        "ref":  "CDS 2021-I, Q.84",
-        "stem":  "Hollywood actor Sir Sean Connery, who died recently, was popularly known for the role of",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Rocky",
-                        "Captain Jack Sparrow",
-                        "Terminator",
-                        "James Bond"
-                    ],
-        "answer":  "d",
-        "explanation":  "Sir Sean Connery was the first and most iconic screen James Bond (007). (A current-affairs/obituary item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-II-q32",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  32,
-        "ref":  "CDS 2021-II, Q.32",
-        "stem":  "Who is the author of the famous essay \"The End of History and the Last Man\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Francis Fukuyama",
-                        "Daniel Bell",
-                        "Abraham Lincoln",
-                        "Anthony Giddens"
-                    ],
-        "answer":  "a",
-        "explanation":  "Francis Fukuyama wrote \"The End of History and the Last Man\" (1992), arguing that liberal democracy might represent the final form of human government after the Cold War. (A political-thought item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-II-q41",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  41,
-        "ref":  "CDS 2021-II, Q.41",
-        "stem":  "Which ancient Indian king was praised in glowing terms in the Prayaga Prashasti?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Ashoka",
-                        "Harshavardhana",
-                        "Samudragupta",
-                        "Bindusara"
-                    ],
-        "answer":  "c",
-        "explanation":  "The Prayaga Prashasti (Allahabad Pillar Inscription), composed by the court poet Harisena, is a panegyric praising the conquests and qualities of the Gupta emperor Samudragupta. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-II-q44",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  44,
-        "ref":  "CDS 2021-II, Q.44",
-        "stem":  "Who was not a Jain Acharya?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Bhadrabahu",
-                        "Khema",
-                        "Haribhadra",
-                        "Siddhasena Divakara"
-                    ],
-        "answer":  "b",
-        "explanation":  "Khema was a renowned Buddhist nun (theri) — one of the Buddha\u0027s chief female disciples — not a Jain Acharya. Bhadrabahu, Haribhadra and Siddhasena Divakara were all eminent Jain teachers. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-II-q101",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  101,
-        "ref":  "CDS 2021-II, Q.101",
-        "stem":  "Who was chosen for the Kuvempu Award 2020?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Dr. Rajendra Kishore Panda",
-                        "Amitav Ghosh",
-                        "Vikram Seth",
-                        "Chetan Bhagat"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Kuvempu Rashtriya Puraskar (a literary award instituted in Karnataka) for 2020 was given to the Odia poet Rajendra Kishore Panda. (A current-affairs/awards item; worth confirming against the official key.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2021-II-q111",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  111,
-        "ref":  "CDS 2021-II, Q.111",
-        "stem":  "President Jovenel Moise, assassinated recently, was the President of which country?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Dominican Republic",
-                        "Haiti",
-                        "Guatemala",
-                        "Cuba"
-                    ],
-        "answer":  "b",
-        "explanation":  "Jovenel Moïse, President of Haiti, was assassinated at his residence in July 2021. (A current-affairs item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2021-II-q114",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2021,
         "session":  "II",
         "paper":  "CDS 2021-II",
@@ -1731,214 +430,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2021-II-q115",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2021,
-        "session":  "II",
-        "paper":  "CDS 2021-II",
-        "qno":  115,
-        "ref":  "CDS 2021-II, Q.115",
-        "stem":  "Who was honoured with the Gandhi Peace Prize for 2020?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Qaboos bin Said Al Said",
-                        "Sheikh Mujibur Rahman",
-                        "Ekal Abhiyan Trust",
-                        "Sulabh International"
-                    ],
-        "answer":  "b",
-        "explanation":  "The Gandhi Peace Prize for 2020 was awarded (posthumously) to Bangabandhu Sheikh Mujibur Rahman, the founding father of Bangladesh. (The 2019 prize went to Oman\u0027s Sultan Qaboos.) (A current-affairs item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q39",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  39,
-        "ref":  "CDS 2022-I, Q.39",
-        "stem":  "Who formulated the concept of poverty as a measurable development indicator in the Indian subcontinent?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Dadabhai Naoroji",
-                        "Romesh Chandra Dutt",
-                        "V.K.R.V. Rao",
-                        "M. Ranade"
-                    ],
-        "answer":  "a",
-        "explanation":  "Dadabhai Naoroji, the \"Grand Old Man of India,\" in Poverty and Un-British Rule in India, made the first systematic estimates of India\u0027s per-capita income and poverty and developed the \"drain of wealth\" theory — pioneering poverty as a measurable indicator of the colonial economy. (A history/economics item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q52",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  52,
-        "ref":  "CDS 2022-I, Q.52",
-        "stem":  "Who was the founder of the Virashaiva Movement in Karnataka?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Basavanna",
-                        "Sambandar",
-                        "Appar",
-                        "Sundarar"
-                    ],
-        "answer":  "a",
-        "explanation":  "Basavanna (Basava), a 12th-century statesman and reformer, founded the Virashaiva (Lingayat) movement in Karnataka — rejecting caste, ritual and temple-priesthood in favour of devotion to Shiva and social equality. (Appar, Sambandar and Sundarar were Tamil Nayanar saints.) (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q68",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  68,
-        "ref":  "CDS 2022-I, Q.68",
-        "stem":  "Which pioneering Bengali woman serialised her autobiography \"Amar Katha\" between 1910 and 1913?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Binodini Dasi",
-                        "Rashsundari Debi",
-                        "Begum Rokeya Sakhawat Hossain",
-                        "Kailashbashini Debi"
-                    ],
-        "answer":  "a",
-        "explanation":  "Binodini Dasi (\"Nati Binodini\"), the celebrated actress of the 19th-century Bengali stage, serialised her autobiography \"Amar Katha\" (My Story) — a rare, candid memoir by a woman performer of her time. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q80",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  80,
-        "ref":  "CDS 2022-I, Q.80",
-        "stem":  "Who belonged to the Serampore Mission?",
-        "subs":  [
-                     "1. William Carey",
-                     "2. Joshua Marshman",
-                     "3. William Ward",
-                     "4. David Hare."
-                 ],
-        "options":  [
-                        "1 and 2 only",
-                        "1 and 3 only",
-                        "1, 2 and 3 only",
-                        "2, 3 and 4 only"
-                    ],
-        "answer":  "c",
-        "explanation":  "The famous \"Serampore Trio\" — William Carey, Joshua Marshman and William Ward — were the Baptist missionaries who pioneered printing, education and Bengali prose at Serampore. David Hare (4) was a separate, secular philanthropist of education in Calcutta, not part of the Serampore Mission. Hence 1, 2 and 3 only. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q96",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  96,
-        "ref":  "CDS 2022-I, Q.96",
-        "stem":  "Who did not belong to the group of \"No-Changers\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "M.A. Ansari",
-                        "Vithalbhai Patel",
-                        "Chakravarti Rajagopalachari",
-                        "Kasturi Ranga Iyengar"
-                    ],
-        "answer":  "b",
-        "explanation":  "After the Non-Cooperation Movement\u0027s suspension, Congress split into \"Pro-Changers\" (Swarajists, who wanted to enter the councils) and \"No-Changers\" (who wanted to continue the constructive boycott programme). Vithalbhai Patel was a Swarajist (Pro-Changer) — he became Speaker of the Central Assembly — so he did not belong to the No-Changers. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q110",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  110,
-        "ref":  "CDS 2022-I, Q.110",
-        "stem":  "In December 2021, who succeeded Angela Merkel as Chancellor of Germany?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Olaf Scholz",
-                        "Annalena Baerbock",
-                        "Armin Laschet",
-                        "Jana Puglierin"
-                    ],
-        "answer":  "a",
-        "explanation":  "Olaf Scholz (of the Social Democratic Party) became Chancellor of Germany in December 2021, ending Angela Merkel\u0027s 16-year tenure. (A current-affairs item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2022-I-q117",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "I",
-        "paper":  "CDS 2022-I",
-        "qno":  117,
-        "ref":  "CDS 2022-I, Q.117",
-        "stem":  "Who won the FIDE World Chess Championship, 2021?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Nepomniachtchi",
-                        "Magnus Carlsen",
-                        "Ding Liren",
-                        "Anish Giri"
-                    ],
-        "answer":  "b",
-        "explanation":  "Magnus Carlsen of Norway retained the World Chess Championship in 2021, beating Ian Nepomniachtchi. (A sports item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2022-II-q113",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "Bilateral, Summits \u0026 Diplomacy",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "Bilateral, Summits \u0026 Diplomacy",
         "year":  2022,
         "session":  "II",
         "paper":  "CDS 2022-II",
@@ -1959,86 +455,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2022-II-q116",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2022,
-        "session":  "II",
-        "paper":  "CDS 2022-II",
-        "qno":  116,
-        "ref":  "CDS 2022-II, Q.116",
-        "stem":  "Who was not a woman labour leader who organised workers in the strikes of the 1920s?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Sarala Devi Chaudhurani",
-                        "Ushabai Dange",
-                        "Prabhabati Devi",
-                        "Anasuya Behn"
-                    ],
-        "answer":  "a",
-        "explanation":  "Ushabai Dange, Prabhabati Devi and Anasuya Behn (Sarabhai) were associated with organising workers/labour in the 1920s (Anasuya Sarabhai founded the Ahmedabad textile-labour union). Sarala Devi Chaudhurani was a nationalist and women\u0027s-organisation pioneer (she founded the Bharat Stree Mahamandal), not a labour leader. Hence a. (A history item; worth confirming against the official key.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-I-q28",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "I",
-        "paper":  "CDS 2023-I",
-        "qno":  28,
-        "ref":  "CDS 2023-I, Q.28",
-        "stem":  "Which Chief Justice of India ordered the constitution of a special \"Social Justice Bench\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Justice H. L. Dattu",
-                        "Justice K. G. Balakrishnan",
-                        "Justice R. M. Lodha",
-                        "Justice Y. K. Sabharwal"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Supreme Court\u0027s Social Justice Bench — to deal specifically with matters relating to social welfare and the marginalized — was constituted in 2014 under CJI H. L. Dattu. (A polity item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-I-q83",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "I",
-        "paper":  "CDS 2023-I",
-        "qno":  83,
-        "ref":  "CDS 2023-I, Q.83",
-        "stem":  "Who is the author of the famous novel \"City of Joy\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Larry Collins",
-                        "Dominique Lapierre",
-                        "Rudyard Kipling",
-                        "Mark Tully"
-                    ],
-        "answer":  "b",
-        "explanation":  "\"The City of Joy\" (1985), set in a Kolkata slum, was written by the French author Dominique Lapierre. (He co-authored other works, like Freedom at Midnight, with Larry Collins.) (A books item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2023-I-q84",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2023,
         "session":  "I",
         "paper":  "CDS 2023-I",
@@ -2059,86 +480,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2023-I-q114",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "I",
-        "paper":  "CDS 2023-I",
-        "qno":  114,
-        "ref":  "CDS 2023-I, Q.114",
-        "stem":  "Who is the author of \"Maze Vidyapeeth\", the famous poem about the working class of Bombay?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Narayan Surve",
-                        "Amol Palekar",
-                        "Bhalchandra Nemade",
-                        "Narendra Jadhav"
-                    ],
-        "answer":  "a",
-        "explanation":  "Narayan Surve, the Marathi \"poet of the working class,\" who himself grew up among mill workers, wrote of the lives and struggles of Bombay\u0027s labourers — \"Maze Vidyapeeth\" (\"My University\") being one of his celebrated poems. (A literature item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-I-q117",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "I",
-        "paper":  "CDS 2023-I",
-        "qno":  117,
-        "ref":  "CDS 2023-I, Q.117",
-        "stem":  "Karthik Meiyappan, who took a hat-trick in the ICC Men\u0027s T20 World Cup 2022, represents",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Zimbabwe",
-                        "United Arab Emirates",
-                        "Sri Lanka",
-                        "Namibia"
-                    ],
-        "answer":  "b",
-        "explanation":  "Karthik Meiyappan, an India-born leg-spinner, took a hat-trick playing for the United Arab Emirates at the 2022 T20 World Cup. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-I-q119",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "I",
-        "paper":  "CDS 2023-I",
-        "qno":  119,
-        "ref":  "CDS 2023-I, Q.119",
-        "stem":  "Who is known as the \"Payyoli Express\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Hima Das",
-                        "Dutee Chand",
-                        "P. T. Usha",
-                        "Shiny Abraham"
-                    ],
-        "answer":  "c",
-        "explanation":  "The legendary sprinter P. T. Usha — from Payyoli in Kerala — is nicknamed the \"Payyoli Express.\" (A sports item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2023-II-q78",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2023,
         "session":  "II",
         "paper":  "CDS 2023-II",
@@ -2159,136 +505,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2023-II-q87",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "II",
-        "paper":  "CDS 2023-II",
-        "qno":  87,
-        "ref":  "CDS 2023-II, Q.87",
-        "stem":  "Who was the author of the Gwalior Prashasti of Mihira Bhoja?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Nagabhata",
-                        "Vatsaraja",
-                        "Baladitya",
-                        "Kakkuka"
-                    ],
-        "answer":  "c",
-        "explanation":  "For CDS answer-key purposes, the composer of the Gwalior Prashasti of Mihira Bhoja is taken as Baladitya (option c). Caveat: some secondary sources instead name Kakkuka, so verify for deep academic use - but Baladitya is the expected exam answer.",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-II-q116",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "II",
-        "paper":  "CDS 2023-II",
-        "qno":  116,
-        "ref":  "CDS 2023-II, Q.116",
-        "stem":  "Which set of Indian players have either won or finished runner-up at the All England Badminton Tournament?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Prakash Padukone, P.V. Sindhu, Parupalli Kashyap",
-                        "Pullela Gopichand, Saina Nehwal, Lakshya Sen",
-                        "Prakash Padukone, Pullela Gopichand, Srikanth Kidambi",
-                        "Lakshya Sen, Saina Nehwal, P.V. Sindhu"
-                    ],
-        "answer":  "b",
-        "explanation":  "At the prestigious All England Open, Pullela Gopichand won (2001), Saina Nehwal was runner-up (2015) and Lakshya Sen was runner-up (2022) — all three reached the final. (Prakash Padukone also won, in 1980, but the options pairing him with Sindhu/Kashyap/Srikanth — who did not reach the All England final — are wrong.) Hence b. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2023-II-q117",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2023,
-        "session":  "II",
-        "paper":  "CDS 2023-II",
-        "qno":  117,
-        "ref":  "CDS 2023-II, Q.117",
-        "stem":  "Who recently won the election to the office of President of Turkey?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Recep Tayyip Erdoğan",
-                        "Kemal Kılıçdaroğlu",
-                        "Ahmet Necdet Sezer",
-                        "Abdullah Gül"
-                    ],
-        "answer":  "a",
-        "explanation":  "Recep Tayyip Erdoğan won the 2023 Turkish presidential election (defeating Kemal Kılıçdaroğlu in a run-off), extending his long rule. (A current-affairs item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2024-I-q92",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2024,
-        "session":  "I",
-        "paper":  "CDS 2024-I",
-        "qno":  92,
-        "ref":  "CDS 2024-I, Q.92",
-        "stem":  "Which Chola king encouraged the Sailendra ruler of Sri Vijaya to build a Buddhist Vihara at Negapatnam (Nagapattinam)?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Parantaka I",
-                        "Rajaraja I",
-                        "Rajendra I",
-                        "Kulottunga I"
-                    ],
-        "answer":  "b",
-        "explanation":  "Rajaraja I, the great Chola emperor, permitted and supported the Sailendra (Srivijaya) king to build the Chudamani Vihara, a Buddhist monastery, at Nagapattinam — reflecting the close maritime and cultural ties between the Cholas and Southeast Asia. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2024-I-q110",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2024,
-        "session":  "I",
-        "paper":  "CDS 2024-I",
-        "qno":  110,
-        "ref":  "CDS 2024-I, Q.110",
-        "stem":  "With which sport is Yogesh Singh, who won a Gold Medal at an Asian Championship in 2024, associated?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Badminton",
-                        "Shooting",
-                        "Archery",
-                        "Wrestling"
-                    ],
-        "answer":  "b",
-        "explanation":  "Yogesh Singh\u0027s 2024 Asian Championship gold is associated with shooting. (A sports/current-affairs item; worth confirming against the official key.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2024-II-q36",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2024,
         "session":  "II",
         "paper":  "CDS 2024-II",
@@ -2309,36 +530,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2024-II-q38",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2024,
-        "session":  "II",
-        "paper":  "CDS 2024-II",
-        "qno":  38,
-        "ref":  "CDS 2024-II, Q.38",
-        "stem":  "Who stated that \"A just society is that society in which the ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society\"?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Vinoba Bhave",
-                        "Bhimrao Ramji Ambedkar",
-                        "Rammanohar Lohia",
-                        "Jayaprakash Narayan"
-                    ],
-        "answer":  "b",
-        "explanation":  "The image of caste as a system of graded inequality — an \"ascending scale of reverence and descending scale of contempt\" — is famously B. R. Ambedkar\u0027s analysis; the call to dissolve it into a \"compassionate society\" is in keeping with his vision of social justice. (A political-thought item; worth confirming the exact attribution against the official key.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2024-II-q43",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2024,
         "session":  "II",
         "paper":  "CDS 2024-II",
@@ -2361,86 +557,11 @@
         "defective":  false
     },
     {
-        "id":  "ir-2024-II-q60",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2024,
-        "session":  "II",
-        "paper":  "CDS 2024-II",
-        "qno":  60,
-        "ref":  "CDS 2024-II, Q.60",
-        "stem":  "Who were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Marathas",
-                        "Rajputs",
-                        "Ahoms",
-                        "Gonds"
-                    ],
-        "answer":  "c",
-        "explanation":  "The Ahoms of Assam were noted for their skilled metallurgy and gun-making — casting fine matchlocks (firearms) and cannon — which helped them resist Mughal invasions. (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2024-II-q106",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2024,
-        "session":  "II",
-        "paper":  "CDS 2024-II",
-        "qno":  106,
-        "ref":  "CDS 2024-II, Q.106",
-        "stem":  "India\u0027s women\u0027s badminton team won the Badminton Asia Team Championship 2024. Who was not part of the team?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "P.V. Sindhu",
-                        "Treesa Jolly",
-                        "Anmol Kharb",
-                        "Saina Nehwal"
-                    ],
-        "answer":  "d",
-        "explanation":  "India\u0027s historic 2024 Badminton Asia Team Championship win featured players like P.V. Sindhu, Treesa Jolly and the young Anmol Kharb (who clinched the final). Saina Nehwal was not part of the squad. Hence d. (A sports item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2025-I-q47",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2025,
-        "session":  "I",
-        "paper":  "CDS 2025-I",
-        "qno":  47,
-        "ref":  "CDS 2025-I, Q.47",
-        "stem":  "Who composed Zainavilas, a history of the rulers of Kashmir, in the time of Zainul Abidin?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Bhattavatara",
-                        "Jonaraja",
-                        "Shrivara",
-                        "Vachaspati"
-                    ],
-        "answer":  "c",
-        "explanation":  "Continuing Kalhana\u0027s Rajatarangini tradition, Shrivara wrote the Jaina-Rajatarangini (Zaina-vilasa), chronicling the reign of Sultan Zain-ul-Abidin of Kashmir. (Jonaraja wrote the second Rajatarangini, covering the period just before.) (A history item.)",
-        "defective":  false
-    },
-    {
         "id":  "ir-2025-I-q82",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2025,
         "session":  "I",
         "paper":  "CDS 2025-I",
@@ -2463,9 +584,9 @@
     {
         "id":  "ir-2025-I-q84",
         "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
+        "topic":  "UN \u0026 International Agencies",
         "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
+        "topicOriginal":  "UN \u0026 International Agencies",
         "year":  2025,
         "session":  "I",
         "paper":  "CDS 2025-I",
@@ -2483,59 +604,6 @@
                     ],
         "answer":  "c",
         "explanation":  "The UN observes the International Day of Democracy on 15 September each year, to review the state of democracy worldwide. (A days/observances item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2025-I-q95",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2025,
-        "session":  "I",
-        "paper":  "CDS 2025-I",
-        "qno":  95,
-        "ref":  "CDS 2025-I, Q.95",
-        "stem":  "Who was responsible for demarcating the borders between India and Pakistan during the Partition in 1947?",
-        "subs":  [
-
-                 ],
-        "options":  [
-                        "Cyril Radcliffe",
-                        "Mortimer Durand",
-                        "Henry McMahon",
-                        "Arthur Balfour"
-                    ],
-        "answer":  "a",
-        "explanation":  "Sir Cyril Radcliffe chaired the Boundary Commissions that drew the partition line (\"Radcliffe Line\") between India and Pakistan in 1947, despite never having visited India before. (Durand drew the Afghanistan-Pakistan line; McMahon the India-Tibet line.) (A history item.)",
-        "defective":  false
-    },
-    {
-        "id":  "ir-2025-I-q114",
-        "subject":  "International Relations",
-        "topic":  "UN \u0026 international agencies",
-        "subtopic":  "",
-        "topicOriginal":  "UN \u0026 international agencies",
-        "year":  2025,
-        "session":  "I",
-        "paper":  "CDS 2025-I",
-        "qno":  114,
-        "ref":  "CDS 2025-I, Q.114",
-        "stem":  "Who were awarded the Major Dhyan Chand Khel Ratna Award 2024?",
-        "subs":  [
-                     "1. Gukesh D",
-                     "2. Harmanpreet Singh",
-                     "3. Praveen Kumar",
-                     "4. Manu Bhaker."
-                 ],
-        "options":  [
-                        "1, 2, 3 and 4",
-                        "1 and 4 only",
-                        "1, 2 and 4 only",
-                        "2 and 3 only"
-                    ],
-        "answer":  "a",
-        "explanation":  "The Khel Ratna 2024 (India\u0027s highest sporting honour) was conferred on four athletes — chess world champion Gukesh D, hockey captain Harmanpreet Singh, para-athlete (high-jumper) Praveen Kumar, and shooter Manu Bhaker. Hence all four. (A sports/current-affairs item.)",
         "defective":  false
     }
 ]
