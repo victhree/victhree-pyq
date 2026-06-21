@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  1248,
-                   "answered":  1227,
-                   "subjects":  4,
+                   "questions":  1851,
+                   "answered":  1822,
+                   "subjects":  5,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -1448,6 +1448,281 @@
                                         {
                                             "name":  "CDS 2025-II",
                                             "count":  12
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "science",
+                         "name":  "Science",
+                         "file":  "data/science.json",
+                         "count":  603,
+                         "answered":  595,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Applied Science \u0026 Miscellaneous",
+                                            "count":  107
+                                        },
+                                        {
+                                            "name":  "Biology",
+                                            "count":  115
+                                        },
+                                        {
+                                            "name":  "Chemistry",
+                                            "count":  99
+                                        },
+                                        {
+                                            "name":  "Environment \u0026 Ecology",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Physics",
+                                            "count":  163
+                                        },
+                                        {
+                                            "name":  "Science \u0026 Technology",
+                                            "count":  67
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Biology":  [
+                                                           {
+                                                               "name":  "Biotechnology",
+                                                               "count":  2
+                                                           },
+                                                           {
+                                                               "name":  "Cell Biology",
+                                                               "count":  27
+                                                           },
+                                                           {
+                                                               "name":  "Diseases \u0026 Immunity",
+                                                               "count":  20
+                                                           },
+                                                           {
+                                                               "name":  "Genetics \u0026 Evolution",
+                                                               "count":  13
+                                                           },
+                                                           {
+                                                               "name":  "Human Physiology",
+                                                               "count":  31
+                                                           },
+                                                           {
+                                                               "name":  "Nutrition",
+                                                               "count":  7
+                                                           },
+                                                           {
+                                                               "name":  "Plant Physiology",
+                                                               "count":  15
+                                                           }
+                                                       ],
+                                           "Chemistry":  [
+                                                             {
+                                                                 "name":  "Acids, Bases \u0026 Salts",
+                                                                 "count":  36
+                                                             },
+                                                             {
+                                                                 "name":  "Atomic Structure \u0026 Periodic Table",
+                                                                 "count":  4
+                                                             },
+                                                             {
+                                                                 "name":  "Chemical Bonding \u0026 Reactions",
+                                                                 "count":  23
+                                                             },
+                                                             {
+                                                                 "name":  "Environmental Chemistry",
+                                                                 "count":  5
+                                                             },
+                                                             {
+                                                                 "name":  "Everyday Chemistry",
+                                                                 "count":  7
+                                                             },
+                                                             {
+                                                                 "name":  "Metals \u0026 Non-metals",
+                                                                 "count":  21
+                                                             },
+                                                             {
+                                                                 "name":  "Organic Chemistry \u0026 Polymers",
+                                                                 "count":  3
+                                                             }
+                                                         ],
+                                           "Science \u0026 Technology":  [
+                                                                             {
+                                                                                 "name":  "Computer \u0026 IT",
+                                                                                 "count":  19
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Defence Technology",
+                                                                                 "count":  23
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Energy Resources",
+                                                                                 "count":  6
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Indian Scientific Institutions",
+                                                                                 "count":  2
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Nuclear Technology",
+                                                                                 "count":  1
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Scientific Instruments",
+                                                                                 "count":  1
+                                                                             },
+                                                                             {
+                                                                                 "name":  "Space Technology",
+                                                                                 "count":  15
+                                                                             }
+                                                                         ],
+                                           "Physics":  [
+                                                           {
+                                                               "name":  "Electricity \u0026 Magnetism",
+                                                               "count":  33
+                                                           },
+                                                           {
+                                                               "name":  "Heat \u0026 Thermodynamics",
+                                                               "count":  13
+                                                           },
+                                                           {
+                                                               "name":  "Light \u0026 Optics",
+                                                               "count":  50
+                                                           },
+                                                           {
+                                                               "name":  "Mechanics",
+                                                               "count":  37
+                                                           },
+                                                           {
+                                                               "name":  "Modern Physics \u0026 Nuclear",
+                                                               "count":  12
+                                                           },
+                                                           {
+                                                               "name":  "Units, Measurements \u0026 Instruments",
+                                                               "count":  7
+                                                           },
+                                                           {
+                                                               "name":  "Waves \u0026 Sound",
+                                                               "count":  11
+                                                           }
+                                                       ],
+                                           "Applied Science \u0026 Miscellaneous":  [
+                                                                                        {
+                                                                                            "name":  "Agriculture Science",
+                                                                                            "count":  4
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "Everyday Science",
+                                                                                            "count":  7
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "Interdisciplinary Science Questions",
+                                                                                            "count":  91
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "Scientific Discoveries \u0026 Inventors",
+                                                                                            "count":  5
+                                                                                        }
+                                                                                    ],
+                                           "Environment \u0026 Ecology":  [
+                                                                              {
+                                                                                  "name":  "Biodiversity",
+                                                                                  "count":  18
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Climate Change",
+                                                                                  "count":  13
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Conservation",
+                                                                                  "count":  14
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Ecosystems",
+                                                                                  "count":  4
+                                                                              },
+                                                                              {
+                                                                                  "name":  "Pollution",
+                                                                                  "count":  3
+                                                                              }
+                                                                          ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  34
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  36
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  36
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  34
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  29
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  25
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  35
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  35
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  31
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  36
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  34
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  38
                                         }
                                     ]
                      }
