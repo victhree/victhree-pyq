@@ -4,9 +4,9 @@
     "tagline":  "CDS Previous Year Questions â€” Topic-wise",
     "updated":  "",
     "totals":  {
-                   "questions":  1035,
-                   "answered":  1019,
-                   "subjects":  3,
+                   "questions":  1248,
+                   "answered":  1226,
+                   "subjects":  4,
                    "yearMin":  2016,
                    "yearMax":  2025
                },
@@ -1207,6 +1207,247 @@
                                         {
                                             "name":  "CDS 2025-II",
                                             "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "economy",
+                         "name":  "Economy",
+                         "file":  "data/economy.json",
+                         "count":  213,
+                         "answered":  207,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Agriculture \u0026 Rural Economy",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Banking \u0026 Financial Sector",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Fiscal Policy \u0026 Budget",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Industry \u0026 Infrastructure",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "Inflation, Money \u0026 Prices",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Economy",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "National Income \u0026 Macroeconomics",
+                                            "count":  45
+                                        },
+                                        {
+                                            "name":  "Planning, Poverty \u0026 Employment",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "Trade, FDI \u0026 International Economy",
+                                            "count":  18
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Agriculture \u0026 Rural Economy":  [
+                                                                                    {
+                                                                                        "name":  "Crop Insurance \u0026 Kisan Schemes",
+                                                                                        "count":  3
+                                                                                    },
+                                                                                    {
+                                                                                        "name":  "Green/White/Blue Revolution \u0026 Agri-policy",
+                                                                                        "count":  2
+                                                                                    },
+                                                                                    {
+                                                                                        "name":  "MSP, PDS \u0026 FCI",
+                                                                                        "count":  3
+                                                                                    },
+                                                                                    {
+                                                                                        "name":  "Rural Employment \u0026 Welfare schemes",
+                                                                                        "count":  2
+                                                                                    }
+                                                                                ],
+                                           "Miscellaneous Economy":  [
+                                                                         {
+                                                                             "name":  "Other",
+                                                                             "count":  33
+                                                                         }
+                                                                     ],
+                                           "Banking \u0026 Financial Sector":  [
+                                                                                   {
+                                                                                       "name":  "Banks, NPAs \u0026 Credit",
+                                                                                       "count":  11
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Capital Markets, Securities \u0026 Regulators",
+                                                                                       "count":  2
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Financial Inclusion \u0026 Digital Finance",
+                                                                                       "count":  2
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "RBI \u0026 Monetary Policy",
+                                                                                       "count":  11
+                                                                                   }
+                                                                               ],
+                                           "National Income \u0026 Macroeconomics":  [
+                                                                                         {
+                                                                                             "name":  "GDP, GNP \u0026 National Income",
+                                                                                             "count":  19
+                                                                                         },
+                                                                                         {
+                                                                                             "name":  "Theories \u0026 Indicators of Growth",
+                                                                                             "count":  26
+                                                                                         }
+                                                                                     ],
+                                           "Trade, FDI \u0026 International Economy":  [
+                                                                                           {
+                                                                                               "name":  "Foreign Investment (FDI / FII / FPI)",
+                                                                                               "count":  2
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "IMF, World Bank \u0026 Global Reports",
+                                                                                               "count":  8
+                                                                                           },
+                                                                                           {
+                                                                                               "name":  "WTO, FTAs, SEZ \u0026 Trade Bodies",
+                                                                                               "count":  8
+                                                                                           }
+                                                                                       ],
+                                           "Industry \u0026 Infrastructure":  [
+                                                                                  {
+                                                                                      "name":  "Industrial Policy \u0026 Core Industries",
+                                                                                      "count":  7
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Infrastructure \u0026 Government schemes",
+                                                                                      "count":  9
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "MSMEs \u0026 Startups",
+                                                                                      "count":  2
+                                                                                  }
+                                                                              ],
+                                           "Inflation, Money \u0026 Prices":  [
+                                                                                  {
+                                                                                      "name":  "Foreign Exchange \u0026 Currency",
+                                                                                      "count":  7
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "WPI, CPI \u0026 Inflation",
+                                                                                      "count":  10
+                                                                                  }
+                                                                              ],
+                                           "Fiscal Policy \u0026 Budget":  [
+                                                                               {
+                                                                                   "name":  "Taxation (Direct, Indirect, GST)",
+                                                                                   "count":  16
+                                                                               },
+                                                                               {
+                                                                                   "name":  "Union Budget \u0026 Deficits",
+                                                                                   "count":  10
+                                                                               }
+                                                                           ],
+                                           "Planning, Poverty \u0026 Employment":  [
+                                                                                       {
+                                                                                           "name":  "Employment \u0026 Labour Force",
+                                                                                           "count":  5
+                                                                                       },
+                                                                                       {
+                                                                                           "name":  "Five-Year Plans \u0026 NITI Aayog",
+                                                                                           "count":  3
+                                                                                       },
+                                                                                       {
+                                                                                           "name":  "Poverty Measurement \u0026 MPI/HDI",
+                                                                                           "count":  12
+                                                                                       }
+                                                                                   ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  12
                                         }
                                     ]
                      }
