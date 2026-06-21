@@ -216,17 +216,13 @@ function renderSubjectHead(name) {
     document.title = `${name} — VicThree Defence CDS PYQ`;
     el.innerHTML =
       `<a class="back" href="index.html">← All subjects</a>
-       <div class="sh-row">
-         <h2 class="sh-title">${esc(name)} <span class="sh-count">${s ? s.count : ''} Qs</span></h2>
-         <a class="btn quizbtn" href="quiz.html?subject=${encodeURIComponent(name)}">🎲 Random 50 — ${esc(name)}</a>
-       </div>`;
+       <h2 class="sh-title">${esc(name)} <span class="sh-count">${s ? s.count : ''} Qs</span></h2>
+       <div class="quiz-cta"><a class="btn quizbtn" href="quiz.html?subject=${encodeURIComponent(name)}">🎲 Random 50 Quiz — ${esc(name)}</a></div>`;
   } else {
     el.innerHTML =
       `<a class="back" href="index.html">← Home</a>
-       <div class="sh-row">
-         <h2 class="sh-title">All PYQs</h2>
-         <a class="btn quizbtn" href="quiz.html">🎲 Random 50 — all subjects</a>
-       </div>`;
+       <h2 class="sh-title">All PYQs</h2>
+       <div class="quiz-cta"><a class="btn quizbtn" href="quiz.html">🎲 Random 50 Quiz — all subjects</a></div>`;
   }
 }
 

@@ -95,7 +95,8 @@ img{max-width:100%;display:block}
 .sh-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .sh-title{margin:0;font-size:22px;color:var(--navy)}
 .sh-count{font-size:13px;color:var(--muted);font-weight:700}
-.btn.quizbtn{text-decoration:none;display:inline-block}
+.btn.quizbtn{text-decoration:none;display:inline-block;font-size:16px;padding:12px 24px;border-radius:12px}
+.quiz-cta{text-align:center;margin:12px 0 6px}
 .quiz-intro .back{margin-bottom:12px}
 
 /* ---------- Filters ---------- */
