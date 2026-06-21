@@ -120,7 +120,7 @@ function questionCard(item) {
 
   return `<article class="qcard${prog ? ' attempted' : ''}" data-id="${esc(item.id)}">
     <div class="qtop">
-      <span class="tag">${esc(item.ref)}</span>
+      <span class="tag">${esc(item.paper)}</span>
       <span class="qmeta">${pbadge}${warnTag}${topicTag}<button class="bm${bm ? ' on' : ''}" data-act="bm" title="Bookmark this question" aria-label="Bookmark">${bm ? '★' : '☆'}</button></span>
     </div>
     <div class="qstem">${esc(item.stem)}</div>

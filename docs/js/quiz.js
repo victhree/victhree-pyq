@@ -121,7 +121,7 @@ function submitQuiz() {
     let html = `<div class="ans">Correct: ${right}) ${esc(item.options[idx] || '')}</div>`;
     if (!chosen) html += `<div class="note">You did not answer this question.</div>`;
     if (item.explanation) html += `<div class="expl">${esc(item.explanation)}</div>`;
-    html += `<div class="expl" style="margin-top:6px;color:#6b7585">${esc(item.ref)}</div>`;
+    html += `<div class="expl" style="margin-top:6px;color:#6b7585">${esc(item.paper)}</div>`;
     reveal.innerHTML = html;
     reveal.hidden = false;
   });
