@@ -26,7 +26,7 @@ function wideCard(href, icon, title, accent) {
 async function init() {
   initBanner();
   try {
-    await loadAll();
+    await loadManifest();
   } catch (err) {
     $('hub').innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
     return;

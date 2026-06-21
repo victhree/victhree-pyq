@@ -232,8 +232,12 @@ async function init() {
   els.sort = $('f-sort'); els.search = $('f-search'); els.results = $('results');
   els.rcount = $('rcount');
   initBanner();
+  let locked = null;
   try {
-    await loadAll();
+    await loadManifest();
+    const param = new URLSearchParams(location.search).get('subject');
+    locked = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
+    await loadSubjects(locked ? [locked] : VT.manifest.subjects.map(s => s.name));
   } catch (err) {
     els.results.innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
     return;
@@ -242,8 +246,6 @@ async function init() {
   const subs = VT.manifest.subjects.map(s => ({ value: s.name, label: `${s.name} (${s.count})` }));
   fillSelect(els.subject, subs, 'All subjects');
 
-  const param = new URLSearchParams(location.search).get('subject');
-  const locked = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
   if (locked) {
     els.subject.value = locked;
     const fld = $('field-subject'); if (fld) fld.style.display = 'none';

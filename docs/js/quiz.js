@@ -153,13 +153,14 @@ function cssEsc(s) {
 async function init() {
   initBanner();
   try {
-    await loadAll();
+    await loadManifest();
+    const param = new URLSearchParams(location.search).get('subject');
+    quizSubject = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
+    await loadSubjects(quizSubject ? [quizSubject] : VT.manifest.subjects.map(s => s.name));
   } catch (err) {
     $('quiz').innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
     return;
   }
-  const param = new URLSearchParams(location.search).get('subject');
-  quizSubject = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
   pool = gradeablePool();
   if (!pool.length) {
     $('quiz').innerHTML = `<div class="empty">No answerable questions available yet.</div>`;

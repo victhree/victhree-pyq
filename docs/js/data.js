@@ -1,32 +1,50 @@
-/* Shared data layer: loads the manifest + subject files, exposes helpers. */
+/* Shared data layer: lazy-loads the manifest + only the subject files a page needs. */
 const VT = {
   manifest: null,
-  questions: [],     // flat pool of all questions across subjects
+  questions: [],     // flat pool of currently-loaded questions
   bySubject: {},     // subjectName -> array
+  _loaded: {},       // subjectName -> true once its file is loaded
   ready: false,
 };
 
-async function loadAll() {
+async function loadManifest() {
+  if (VT.manifest) return VT.manifest;
   const res = await fetch('data/index.json', { cache: 'no-cache' });
   if (!res.ok) throw new Error('Could not load index.json');
   VT.manifest = await res.json();
+  return VT.manifest;
+}
 
-  const files = VT.manifest.subjects.map(s => s.file);
-  const arrays = await Promise.all(files.map(async f => {
-    const r = await fetch(f, { cache: 'no-cache' });
-    if (!r.ok) throw new Error('Could not load ' + f);
-    return r.json();
-  }));
-
-  VT.questions = [];
-  VT.bySubject = {};
-  arrays.forEach((arr) => {
-    arr.forEach(q => VT.questions.push(q));
+/* Load specific subject files (by name). Skips any already loaded. */
+async function loadSubjects(names) {
+  if (!VT.manifest) await loadManifest();
+  const toLoad = [];
+  names.forEach(n => {
+    const s = VT.manifest.subjects.find(x => x.name === n);
+    if (s && !VT._loaded[n]) toLoad.push(s);
   });
-  VT.questions.forEach(q => {
-    (VT.bySubject[q.subject] = VT.bySubject[q.subject] || []).push(q);
-  });
+  if (toLoad.length) {
+    const arrays = await Promise.all(toLoad.map(async s => {
+      const r = await fetch(s.file, { cache: 'no-cache' });
+      if (!r.ok) throw new Error('Could not load ' + s.file);
+      return { name: s.name, arr: await r.json() };
+    }));
+    arrays.forEach(({ name, arr }) => {
+      VT._loaded[name] = true;
+      arr.forEach(q => {
+        VT.questions.push(q);
+        (VT.bySubject[q.subject] = VT.bySubject[q.subject] || []).push(q);
+      });
+    });
+  }
   VT.ready = true;
+  return VT;
+}
+
+/* Load everything (used by the All-PYQs browse and the all-subjects quiz). */
+async function loadAll() {
+  await loadManifest();
+  await loadSubjects(VT.manifest.subjects.map(s => s.name));
   return VT;
 }
 
@@ -35,7 +53,7 @@ function paperOrder(q) {
   return (q.year || 0) * 10 + (q.session === 'II' ? 2 : 1);
 }
 
-/* fill the brand header + stats from manifest */
+/* fill the brand header + stats from manifest (no-op if the element is absent) */
 function renderHeaderStats(elId) {
   const t = VT.manifest.totals;
   const el = document.getElementById(elId);
@@ -72,4 +90,34 @@ function shuffle(arr) {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
+}
+
+/* ---------- bookmarks & progress (saved on the device) ---------- */
+function getBookmarks() {
+  try { return new Set(JSON.parse(localStorage.getItem('vt_bookmarks') || '[]')); }
+  catch (e) { return new Set(); }
+}
+function saveBookmarks(set) {
+  try { localStorage.setItem('vt_bookmarks', JSON.stringify([...set])); } catch (e) {}
+}
+function toggleBookmark(id) {
+  const s = getBookmarks();
+  if (s.has(id)) s.delete(id); else s.add(id);
+  saveBookmarks(s);
+  return s.has(id);
+}
+function getProgress() {
+  try { return JSON.parse(localStorage.getItem('vt_progress') || '{}'); }
+  catch (e) { return {}; }
+}
+function setProgress(id, val) {
+  try { const p = getProgress(); p[id] = val; localStorage.setItem('vt_progress', JSON.stringify(p)); }
+  catch (e) {}
+}
+
+/* register the service worker for offline / installable use (no-op if unsupported) */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
 }
