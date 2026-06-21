@@ -1640,14 +1640,14 @@
 
                  ],
         "options":  [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
                     ],
-        "answer":  "",
-        "explanation":  "The overall fiscal deficit of the States in 2017-18 fell below the 3% FRBM threshold, so Statement I is false. Special Category States did run a higher fiscal deficit in 2017-18 than in 2016-17, so Statement II is true. Hence Statement I false, Statement II true.",
-        "defective":  true
+        "answer":  "d",
+        "explanation":  "The overall fiscal deficit of the States in 2017-18 fell below the 3% FRBM threshold, so Statement I is false. Special Category States did run a higher fiscal deficit in 2017-18 than in 2016-17, so Statement II is true. Hence Statement I is false but Statement II is true.",
+        "defective":  false
     },
     {
         "id":  "eco-2019-I-q48",

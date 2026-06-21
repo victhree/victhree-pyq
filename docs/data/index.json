@@ -5,7 +5,7 @@
     "updated":  "",
     "totals":  {
                    "questions":  1248,
-                   "answered":  1226,
+                   "answered":  1227,
                    "subjects":  4,
                    "yearMin":  2016,
                    "yearMax":  2025
@@ -1215,7 +1215,7 @@
                          "name":  "Economy",
                          "file":  "data/economy.json",
                          "count":  213,
-                         "answered":  207,
+                         "answered":  208,
                          "yearMin":  2016,
                          "yearMax":  2025,
                          "topics":  [
