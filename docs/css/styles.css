@@ -208,3 +208,15 @@ select:focus,input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
 }
 footer{text-align:center;color:var(--muted);font-size:12px;padding:18px 12px 30px}
 footer .gold{color:var(--gold-dim);font-weight:700}
+
+/* ---------- Social / mentorship CTA ---------- */
+.cta{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;text-align:center;
+  background:linear-gradient(135deg,#0B1F3A,#12294b);color:#fff;border-radius:14px;padding:14px 18px;margin:16px 0}
+.cta-text{font-size:15px;font-weight:600;color:#fff;line-height:1.4}
+.cta-social{display:flex;gap:16px;align-items:center}
+.cta-social a{color:#e0bd6a;display:inline-flex;line-height:0;transition:color .12s,transform .12s}
+.cta-social a:hover{color:#fff;transform:translateY(-2px)}
+.join-label{text-align:center;font-weight:800;color:#0B1F3A;font-size:16px;margin:26px 0 0}
+.foot-social{display:flex;justify-content:center;gap:24px;margin:10px 0 6px}
+.foot-social a{color:#0B1F3A;display:inline-flex;line-height:0;transition:color .12s,transform .12s}
+.foot-social a:hover{color:#C9A24B;transform:translateY(-2px)}
