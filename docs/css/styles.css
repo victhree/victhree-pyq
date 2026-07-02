@@ -220,3 +220,5 @@ footer .gold{color:var(--gold-dim);font-weight:700}
 .foot-social{display:flex;justify-content:center;gap:24px;margin:10px 0 6px}
 .foot-social a{color:#0B1F3A;display:inline-flex;line-height:0;transition:color .12s,transform .12s}
 .foot-social a:hover{color:#C9A24B;transform:translateY(-2px)}
+.m-br{display:none}
+@media(max-width:600px){.m-br{display:inline}}
