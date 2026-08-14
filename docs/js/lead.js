@@ -26,6 +26,28 @@
     });
   }
 
+  // Keep the overlay pinned to the region the on-screen keyboard leaves visible
+  // (mobile). Returns a cleanup function to call when the popup closes.
+  function fitToViewport(overlay) {
+    var vv = window.visualViewport;
+    if (!vv) return function () {};
+    function apply() {
+      overlay.style.height = vv.height + "px";
+      overlay.style.top = vv.offsetTop + "px";
+      overlay.style.bottom = "auto";
+    }
+    apply();
+    vv.addEventListener("resize", apply);
+    vv.addEventListener("scroll", apply);
+    return function () {
+      vv.removeEventListener("resize", apply);
+      vv.removeEventListener("scroll", apply);
+      overlay.style.height = "";
+      overlay.style.top = "";
+      overlay.style.bottom = "";
+    };
+  }
+
   // Personalised motivating lines shown on the homepage to returning visitors.
   // [big line with {name}, smaller line below]. Rotated one per visit.
   var GREETINGS = [
@@ -186,8 +208,21 @@
     var btn = overlay.querySelector(".lead-btn");
     var nameEl = form.name, phoneEl = form.phone, emailEl = form.email;
 
-    // focus first field shortly after paint
-    setTimeout(function () { try { nameEl.focus(); } catch (e) {} }, 60);
+    // Keep the card in the space the keyboard leaves (mobile); cleanup on close.
+    var releaseViewport = fitToViewport(overlay);
+
+    // Only auto-focus on desktop / fine-pointer devices. On touch this would
+    // force the on-screen keyboard up immediately and hide the submit button;
+    // there the keyboard should appear only when the user taps a field.
+    var finePointer = window.matchMedia && window.matchMedia("(pointer: fine)").matches;
+    if (finePointer) setTimeout(function () { try { nameEl.focus(); } catch (e) {} }, 60);
+
+    // Ease a tapped field into view above the keyboard.
+    overlay.addEventListener("focusin", function (e) {
+      setTimeout(function () {
+        try { e.target.scrollIntoView({ block: "center", behavior: "smooth" }); } catch (x) {}
+      }, 260);
+    });
 
     function fail(msg, field) {
       errBox.textContent = msg;
@@ -219,6 +254,7 @@
       post(data).then(function () {
         try { localStorage.setItem(KEY, "1"); } catch (e) {}
         overlay.classList.add("lead-closing");
+        releaseViewport(); // stop pinning to the keyboard viewport
         setTimeout(function () {
           overlay.remove();
           document.documentElement.classList.remove("lead-open");
