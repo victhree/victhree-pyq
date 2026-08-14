@@ -222,3 +222,46 @@ footer .gold{color:var(--gold-dim);font-weight:700}
 .foot-social a:hover{color:#C9A24B;transform:translateY(-2px)}
 .m-br{display:none}
 @media(max-width:600px){.m-br{display:inline}}
+
+/* ---- Welcome popup / lead capture ---- */
+html.lead-open{overflow:hidden}
+.lead-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px;
+  background:rgba(11,31,58,.72);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
+  animation:leadFade .25s ease both}
+.lead-overlay.lead-closing{animation:leadFade .25s ease reverse both}
+@keyframes leadFade{from{opacity:0}to{opacity:1}}
+.lead-card{width:100%;max-width:430px;background:var(--paper);border-radius:16px;overflow:hidden;
+  box-shadow:0 24px 60px rgba(11,31,58,.45);
+  animation:leadPop .28s cubic-bezier(.2,.9,.3,1.2) both}
+@keyframes leadPop{from{opacity:0;transform:translateY(14px) scale(.97)}to{opacity:1;transform:none}}
+.lead-banner{background:var(--navy);border-bottom:3px solid var(--gold);padding:0;font-size:0;line-height:0}
+.lead-banner img{display:block;width:100%;height:auto}
+.lead-body{padding:24px 28px 26px}
+.lead-title{font-size:clamp(1rem,4.6vw,1.5rem);text-align:center;color:var(--navy);margin:0 0 18px;white-space:nowrap}
+.lead-form{display:flex;flex-direction:column;gap:13px}
+.lead-field{display:flex;flex-direction:column;gap:5px}
+.lead-field span{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;font-weight:700;font-size:.74rem;text-transform:uppercase;letter-spacing:.08em;color:var(--navy)}
+.lead-field input{font-family:Georgia,'Times New Roman',serif;font-size:1rem;padding:11px 13px;border:1.5px solid var(--line);border-radius:9px;background:#fff;color:var(--ink);transition:border-color .15s,box-shadow .15s}
+.lead-field input:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,162,75,.2)}
+.lead-error{min-height:1em;margin:2px 0 0;color:var(--bad);font-size:.85rem;font-weight:600}
+.lead-btn{margin-top:4px;background:var(--gold);color:var(--navy);font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;font-weight:700;font-size:1rem;letter-spacing:.01em;border:none;padding:13px 18px;border-radius:10px;cursor:pointer;transition:background .15s,transform .1s}
+.lead-btn:hover{background:#b58f34}
+.lead-btn:active{transform:translateY(1px)}
+.lead-btn:disabled{opacity:.7;cursor:default}
+@media (max-width:480px){
+  .lead-card{border-radius:14px}
+  .lead-body{padding:20px 18px 20px}
+}
+
+/* ---- Personalised greeting (returning visitor, homepage) ---- */
+.greet{max-width:640px;margin:26px auto 2px;padding:16px 22px;text-align:center;
+  background:linear-gradient(135deg,#ffffff,#eef1f5);border:1px solid var(--line);
+  border-radius:14px;box-shadow:0 6px 18px rgba(11,31,58,.06)}
+.greet-big{margin:0;font-family:Georgia,'Times New Roman',serif;font-weight:700;color:var(--navy);
+  font-size:clamp(1.12rem,4.4vw,1.5rem);line-height:1.28;text-wrap:balance}
+.greet-name{color:var(--gold-dim)}
+.greet-small{margin:5px 0 0;font-family:Georgia,'Times New Roman',serif;color:var(--muted);
+  font-size:clamp(.92rem,3.2vw,1.02rem);line-height:1.45}
+.greet-caret{display:inline-block;width:2px;height:1em;margin-left:2px;background:var(--gold-dim);
+  vertical-align:-0.12em;animation:greetBlink .8s step-end infinite}
+@keyframes greetBlink{50%{opacity:0}}
