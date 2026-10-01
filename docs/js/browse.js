@@ -242,10 +242,8 @@ function debounce(fn, ms) { let t; return () => { clearTimeout(t); t = setTimeou
 function renderSubjectHead(name) {
   const el = $('subjecthead');
   if (!el) return;
-  const isCourse = !!window.__isCourse;
-  const quizCta = (href, label) => isCourse
-    ? `<div class="quiz-cta"><a class="btn quizbtn" href="${href}">🎲 ${label}</a></div>`
-    : '';
+  const quizCta = (href, label) =>
+    `<div class="quiz-cta"><a class="btn quizbtn" href="${href}">🎲 ${label}</a></div>`;
   if (name) {
     const s = VT.manifest.subjects.find(x => x.name === name);
     document.title = `${name} — VicThree Defence CDS PYQ`;
@@ -258,15 +256,6 @@ function renderSubjectHead(name) {
       `<a class="back" href="index.html">← Home</a>
        <h2 class="sh-title">All PYQs</h2>
        ${quizCta('quiz.html', 'Random 50 Quiz — all subjects')}`;
-  }
-  if (!isCourse) {
-    const url = (window.V3 && window.V3.courseUrl) || 'https://victhreedefence.com';
-    const note = document.createElement('div');
-    note.className = 'free-note';
-    note.innerHTML = `Showing the last 5 years (${freeMinYear()}–${latestYear()}). ` +
-      `The full question bank and the practice quiz are in the course. ` +
-      `<a href="${esc(url)}">See the course →</a>`;
-    el.appendChild(note);
   }
 }
 

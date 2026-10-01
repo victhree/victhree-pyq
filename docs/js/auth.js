@@ -342,19 +342,16 @@
   /* ---- 5) the persistent strip ---- */
   function renderStrip() {
     var old = document.querySelector(".v3-strip"); if (old) old.remove();
-    var strip = el("div", "v3-strip");
+    var strip = el("div", "v3-strip in");
     if (tier === "course") {
-      strip.className = "v3-strip in";
+      // Minimal, no access-level messaging: just who is signed in + sign out.
       strip.innerHTML = '<span class="v3-msg">Signed in as ' + esc(student && (student.name || student.email) || "cadet") +
-        ' &middot; Course access: all years and the quiz are unlocked. ' +
-        '<button type="button" class="v3-link" data-v3out>Sign out</button></span>';
+        ' &middot; <button type="button" class="v3-link" data-v3out>Sign out</button></span>';
       strip.addEventListener("click", function (e) { if (e.target && e.target.hasAttribute("data-v3out")) signOut(); });
     } else if (tier === "free") {
-      strip.className = "v3-strip free";
-      strip.innerHTML = '<span class="v3-msg">Free access: last 5 years of PYQs. ' +
-        'The full library and the practice quiz open up in the course. ' +
-        '<a class="v3-link" href="' + esc(COURSE_URL) + '">See the course &rarr;</a>' +
-        ' &middot; <button type="button" class="v3-link" data-v3signin>Course student? Sign in</button></span>';
+      // No mention of the free limits; only keep the course sign-in option.
+      strip.innerHTML = '<span class="v3-msg">VicThree Defence course student? ' +
+        '<button type="button" class="v3-link" data-v3signin>Sign in</button></span>';
       strip.addEventListener("click", function (e) { if (e.target && e.target.hasAttribute("data-v3signin")) openSignin(); });
     } else {
       return; // unregistered: no strip (the gate is up)

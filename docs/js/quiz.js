@@ -156,16 +156,14 @@ function quizLocked() {
     <div class="quiz-intro locked">
       <a class="back" href="index.html">← Home</a>
       <div class="lock-ico">🔒</div>
-      <h2>The practice quiz is a course feature</h2>
-      <p>Free access lets you browse the last 5 years of PYQs with answers and explanations.
-         The Random-50 practice quiz, the full question bank and your saved progress are part of
-         the VicThree Defence course.</p>
-      <a class="btn block" href="${esc(url)}">See the course →</a>
-      <p class="quiz-signin">Already a course student?
-        <button type="button" class="link-btn" id="q-signin">Sign in</button></p>
+      <h2>The practice quiz is for VicThree Defence course students</h2>
+      <p>Sign in with your VicThree Defence course account to start the Random-50 practice quiz,
+         or enrol to unlock it.</p>
+      <button class="btn block" id="q-signin-main">Sign in</button>
+      <p class="quiz-signin"><a href="${esc(url)}">Not enrolled yet? See the course →</a></p>
     </div>`;
-  const b = $('q-signin');
-  if (b && window.V3 && window.V3.openSignin) b.addEventListener('click', () => window.V3.openSignin());
+  const mainBtn = $('q-signin-main');
+  if (mainBtn && window.V3 && window.V3.openSignin) mainBtn.addEventListener('click', () => window.V3.openSignin());
 }
 
 async function init() {

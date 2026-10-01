@@ -23,16 +23,6 @@ function wideCard(href, icon, title, accent) {
   </a>`;
 }
 
-function upgradeCard(line) {
-  const url = (window.V3 && window.V3.courseUrl) || 'https://victhreedefence.com';
-  return `<a class="hub-card wide locked" href="${esc(url)}">
-    <div class="hub-ico">🔒</div>
-    <div class="hub-body"><div class="hub-title">Random 50 Quiz</div>
-      <div class="hub-sub">${line}</div></div>
-    <div class="hub-go">›</div>
-  </a>`;
-}
-
 async function init() {
   initBanner();
   try {
@@ -41,15 +31,12 @@ async function init() {
     $('hub').innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
     return;
   }
-  if (window.V3 && window.V3.ready) { try { await window.V3.ready; } catch (e) {} }
-  const isCourse = !!(window.V3 && window.V3.isCourse());
-
   renderHeaderStats('stats');
+  // The quiz card is shown to everyone; the quiz page itself handles the
+  // course-only gate when a non-course visitor opens it.
   $('hub').innerHTML =
     wideCard('browse.html', '📚', 'All PYQs', false) +
     `<div class="subj-grid">${VT.manifest.subjects.map(subjectTile).join('')}</div>` +
-    (isCourse
-      ? wideCard('quiz.html', '🎲', 'Random 50 Quiz', true)
-      : upgradeCard('Unlock the practice quiz in the course &rarr;'));
+    wideCard('quiz.html', '🎲', 'Random 50 Quiz', true);
 }
 document.addEventListener('DOMContentLoaded', init);
