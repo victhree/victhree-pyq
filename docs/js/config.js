@@ -1,6 +1,13 @@
 /* VicThree Defence — CDS PYQ Library: site config. */
 window.VTPYQ_CONFIG = {
-  /* LEAD CAPTURE (welcome popup -> Google Form -> linked Google Sheet).
+  /* PORTAL LOGIN (shared across all VicThree sites).
+     The portal Worker issues a signed bearer token on course login. The same
+     token works here via the "#vt=<token>" handoff from the dashboard, or a
+     student can sign in on this site directly. It also backs the free tier. */
+  portalEndpoint: "https://victhree-portal.anmolxsharma.workers.dev",
+  courseUrl: "https://victhreedefence.com",
+
+  /* LEAD CAPTURE (free registration also posts here -> linked Google Sheet).
      The three "entry.xxxx" ids and the form action URL come from the Form's
      "Get pre-filled link". Leave ids blank to keep the popup working without
      recording. */

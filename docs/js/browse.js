@@ -24,13 +24,14 @@ function refreshDependentFilters(keepTopic, keepPaper) {
   const subjName = currentSubject();
   let topics = [], papers = [];
 
-  if (subjName) {
+  if (subjName && window.__isCourse) {
     const s = VT.manifest.subjects.find(x => x.name === subjName);
     topics = s.topics.map(t => ({ value: t.name, label: `${t.name} (${t.count})` }));
     papers = s.papers.map(p => ({ value: p.name, label: `${p.name} (${p.count})` }));
   } else {
     const tcount = {}, pcount = {}, pmeta = {};
     VT.questions.forEach(q => {
+      if (subjName && q.subject !== subjName) return;
       tcount[q.topic] = (tcount[q.topic] || 0) + 1;
       pcount[q.paper] = (pcount[q.paper] || 0) + 1;
       pmeta[q.paper] = paperOrder(q);
@@ -241,18 +242,31 @@ function debounce(fn, ms) { let t; return () => { clearTimeout(t); t = setTimeou
 function renderSubjectHead(name) {
   const el = $('subjecthead');
   if (!el) return;
+  const isCourse = !!window.__isCourse;
+  const quizCta = (href, label) => isCourse
+    ? `<div class="quiz-cta"><a class="btn quizbtn" href="${href}">🎲 ${label}</a></div>`
+    : '';
   if (name) {
     const s = VT.manifest.subjects.find(x => x.name === name);
     document.title = `${name} — VicThree Defence CDS PYQ`;
     el.innerHTML =
       `<a class="back" href="index.html">← All subjects</a>
-       <h2 class="sh-title">${esc(name)} <span class="sh-count">${s ? s.count : ''} Qs</span></h2>
-       <div class="quiz-cta"><a class="btn quizbtn" href="quiz.html?subject=${encodeURIComponent(name)}">🎲 Random 50 Quiz — ${esc(name)}</a></div>`;
+       <h2 class="sh-title">${esc(name)}</h2>
+       ${quizCta(`quiz.html?subject=${encodeURIComponent(name)}`, `Random 50 Quiz — ${esc(name)}`)}`;
   } else {
     el.innerHTML =
       `<a class="back" href="index.html">← Home</a>
        <h2 class="sh-title">All PYQs</h2>
-       <div class="quiz-cta"><a class="btn quizbtn" href="quiz.html">🎲 Random 50 Quiz — all subjects</a></div>`;
+       ${quizCta('quiz.html', 'Random 50 Quiz — all subjects')}`;
+  }
+  if (!isCourse) {
+    const url = (window.V3 && window.V3.courseUrl) || 'https://victhreedefence.com';
+    const note = document.createElement('div');
+    note.className = 'free-note';
+    note.innerHTML = `Showing the last 5 years (${freeMinYear()}–${latestYear()}). ` +
+      `The full question bank and the practice quiz are in the course. ` +
+      `<a href="${esc(url)}">See the course →</a>`;
+    el.appendChild(note);
   }
 }
 
@@ -273,7 +287,14 @@ async function init() {
     return;
   }
 
-  const subs = VT.manifest.subjects.map(s => ({ value: s.name, label: `${s.name} (${s.count})` }));
+  if (window.V3 && window.V3.ready) { try { await window.V3.ready; } catch (e) {} }
+  window.__isCourse = !!(window.V3 && window.V3.isCourse());
+  if (!window.__isCourse) limitToFreeYears();
+
+  const subs = VT.manifest.subjects.map(s => {
+    const n = (VT.bySubject[s.name] && VT.bySubject[s.name].length) || s.count;
+    return { value: s.name, label: `${s.name} (${n})` };
+  });
   fillSelect(els.subject, subs, 'All subjects');
 
   if (locked) {

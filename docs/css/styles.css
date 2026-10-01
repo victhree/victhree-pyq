@@ -266,3 +266,38 @@ html.lead-open{overflow:hidden}
 .greet-caret{display:inline-block;width:2px;height:1em;margin-left:2px;background:var(--gold-dim);
   vertical-align:-0.12em;animation:greetBlink .8s step-end infinite}
 @keyframes greetBlink{50%{opacity:0}}
+
+/* ---- Access gate (course / free / unregistered) ---- */
+#vt-gate .lead-title{white-space:normal}
+.v3-sub-line{text-align:center;color:var(--muted);font-size:.92rem;margin:0 0 16px;line-height:1.45}
+.lead-note{text-align:center;font-size:.85rem;color:var(--muted);margin:14px 0 0}
+.lead-note a{color:var(--navy);font-weight:700}
+.link-btn{background:none;border:none;color:var(--navy);text-decoration:underline;text-underline-offset:3px;
+  font:inherit;font-weight:700;cursor:pointer;padding:0}
+.link-btn:hover{color:var(--gold-dim)}
+
+/* signed-in / free status strip under the header */
+.v3-strip{font-size:13px;text-align:center;padding:8px 14px;line-height:1.4;
+  font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif}
+.v3-strip.in{background:#eef1f5;color:var(--navy);border-bottom:1px solid var(--line)}
+.v3-strip.free{background:#fff7e6;color:#6b5618;border-bottom:1px solid #f0e2bd}
+.v3-msg{display:inline-block;max-width:760px}
+.v3-link{background:none;border:none;color:var(--navy);font:inherit;font-weight:700;
+  text-decoration:underline;text-underline-offset:2px;cursor:pointer;padding:0}
+.v3-link:hover{color:var(--gold-dim)}
+
+/* free-tier note on the browse header */
+.free-note{margin:10px 0 0;padding:10px 14px;background:#fff7e6;border:1px solid #f0e2bd;border-radius:10px;
+  color:#6b5618;font-size:13px;line-height:1.45}
+.free-note a{color:var(--navy);font-weight:700;white-space:nowrap}
+
+/* locked hub card + quiz lock screen */
+.hub-card.locked{opacity:.96}
+.hub-card.locked .hub-ico{filter:grayscale(.2)}
+.quiz-intro.locked{text-align:center;max-width:560px;margin:0 auto;background:var(--card);
+  border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:26px 22px}
+.quiz-intro.locked .back{display:inline-block;float:left}
+.quiz-intro.locked .lock-ico{font-size:40px;margin:6px 0 4px}
+.quiz-intro.locked h2{color:var(--navy);margin:0 0 8px}
+.quiz-intro.locked p{color:var(--muted);line-height:1.55;margin:0 auto 16px;max-width:440px}
+.quiz-signin{font-size:13px;color:var(--muted);margin-top:14px}

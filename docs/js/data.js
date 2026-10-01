@@ -53,6 +53,24 @@ function paperOrder(q) {
   return (q.year || 0) * 10 + (q.session === 'II' ? 2 : 1);
 }
 
+/* The latest exam year present, and the free-tier window (last 5 years). */
+function latestYear() {
+  if (VT.manifest && VT.manifest.totals && VT.manifest.totals.yearMax) return VT.manifest.totals.yearMax;
+  return VT.questions.reduce((m, q) => Math.max(m, q.year || 0), 0);
+}
+function freeMinYear() { return latestYear() - 4; }
+
+/* Free visitors see only the last five exam years. Trims the in-memory pool in
+   place so every downstream consumer (filters, counts, quiz) respects it. This
+   is UX gating only; the raw JSON is public (course content is not secret). */
+function limitToFreeYears() {
+  const min = freeMinYear();
+  VT.questions = VT.questions.filter(q => (q.year || 0) >= min);
+  VT.bySubject = {};
+  VT.questions.forEach(q => { (VT.bySubject[q.subject] = VT.bySubject[q.subject] || []).push(q); });
+  return min;
+}
+
 /* fill the brand header + stats from manifest (no-op if the element is absent) */
 function renderHeaderStats(elId) {
   const t = VT.manifest.totals;

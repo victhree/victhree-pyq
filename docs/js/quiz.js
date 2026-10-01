@@ -150,12 +150,38 @@ function cssEsc(s) {
   return (window.CSS && CSS.escape) ? CSS.escape(s) : s.replace(/[^a-zA-Z0-9_-]/g, '\\$&');
 }
 
+function quizLocked() {
+  const url = (window.V3 && window.V3.courseUrl) || 'https://victhreedefence.com';
+  $('quiz').innerHTML = `
+    <div class="quiz-intro locked">
+      <a class="back" href="index.html">← Home</a>
+      <div class="lock-ico">🔒</div>
+      <h2>The practice quiz is a course feature</h2>
+      <p>Free access lets you browse the last 5 years of PYQs with answers and explanations.
+         The Random-50 practice quiz, the full question bank and your saved progress are part of
+         the VicThree Defence course.</p>
+      <a class="btn block" href="${esc(url)}">See the course →</a>
+      <p class="quiz-signin">Already a course student?
+        <button type="button" class="link-btn" id="q-signin">Sign in</button></p>
+    </div>`;
+  const b = $('q-signin');
+  if (b && window.V3 && window.V3.openSignin) b.addEventListener('click', () => window.V3.openSignin());
+}
+
 async function init() {
   initBanner();
   try {
     await loadManifest();
     const param = new URLSearchParams(location.search).get('subject');
     quizSubject = param && VT.manifest.subjects.some(s => s.name === param) ? param : null;
+  } catch (err) {
+    $('quiz').innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
+    return;
+  }
+  if (window.V3 && window.V3.ready) { try { await window.V3.ready; } catch (e) {} }
+  if (!(window.V3 && window.V3.isCourse())) { quizLocked(); return; }
+
+  try {
     await loadSubjects(quizSubject ? [quizSubject] : VT.manifest.subjects.map(s => s.name));
   } catch (err) {
     $('quiz').innerHTML = `<div class="empty">Failed to load data.<br>${esc(err.message)}</div>`;
