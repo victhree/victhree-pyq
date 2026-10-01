@@ -270,6 +270,9 @@ html.lead-open{overflow:hidden}
 /* ---- Access gate (course / free / unregistered) ---- */
 #vt-gate .lead-title{white-space:normal}
 .v3-sub-line{text-align:center;color:var(--muted);font-size:.92rem;margin:0 0 16px;line-height:1.45}
+.v3-choice{display:flex;flex-direction:column;gap:10px}
+.v3-ghost{background:#fff;color:var(--navy);border:1.5px solid var(--line)}
+.v3-ghost:hover{background:#f6f7f9}
 .lead-note{text-align:center;font-size:.85rem;color:var(--muted);margin:14px 0 0}
 .lead-note a{color:var(--navy);font-weight:700}
 .link-btn{background:none;border:none;color:var(--navy);text-decoration:underline;text-underline-offset:3px;

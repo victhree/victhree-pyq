@@ -128,7 +128,7 @@
   /* ---- 3) the registration / sign-in popup (unregistered only) ---- */
   function openGate(initial, dismissible) {
     if (document.getElementById("vt-gate") && document.querySelector("#vt-gate .lead-card")) {
-      showStep(initial || "free"); return;
+      showStep(initial || "choice"); return;
     }
     removeGate();
     gateEl = el("div"); gateEl.id = "vt-gate";
@@ -138,19 +138,13 @@
         '<div class="lead-banner"><img src="' + BASE + 'assets/banner.jpg" alt="VicThree Defence, by Anmol Sharma"></div>' +
         '<div class="lead-body">' +
 
-          '<div class="v3-step" data-step="free">' +
-            '<h2 class="lead-title">Start free</h2>' +
-            '<p class="v3-sub-line">Enter your details once to browse the PYQ library free.</p>' +
-            '<form class="lead-form" data-form="free" novalidate>' +
-              '<label class="lead-field"><span>Name</span><input type="text" name="f_name" autocomplete="name" required></label>' +
-              '<label class="lead-field"><span>Phone</span><input type="tel" name="f_phone" autocomplete="tel" inputmode="numeric" required></label>' +
-              '<label class="lead-field"><span>Email</span><input type="email" name="f_email" autocomplete="email" required></label>' +
-              '<p class="lead-error" data-err="free"></p>' +
-              '<button type="submit" class="lead-btn">Start browsing</button>' +
-            '</form>' +
-            '<p class="lead-note">Already a VicThree course student? ' +
-              '<button type="button" class="link-btn" data-go="signin">Sign in</button></p>' +
-            '<p class="lead-note">Not enrolled? <a href="' + esc(COURSE_URL) + '">See the course &rarr;</a></p>' +
+          '<div class="v3-step" data-step="choice">' +
+            '<h2 class="lead-title">Welcome to the VicThree Defence PYQ Library</h2>' +
+            '<p class="v3-sub-line">Are you currently a VicThree Defence course student?</p>' +
+            '<div class="v3-choice">' +
+              '<button type="button" class="lead-btn" data-go="signin">Yes, sign in</button>' +
+              '<button type="button" class="lead-btn v3-ghost" data-go="free">No, I\'m new</button>' +
+            '</div>' +
           '</div>' +
 
           '<div class="v3-step" data-step="signin" style="display:none">' +
@@ -165,7 +159,22 @@
               '<p class="lead-error" data-err="s_code"></p>' +
               '<button type="button" class="lead-btn" data-act="verify">Sign in</button>' +
             '</div>' +
-            '<p class="lead-note"><button type="button" class="link-btn" data-go="free">Back</button></p>' +
+            '<p class="lead-note" data-note="noaccount" style="display:none">We couldn\'t find a course account for that email. ' +
+              '<a href="' + esc(COURSE_URL) + '">Not enrolled yet? See the course &rarr;</a></p>' +
+            '<p class="lead-note"><button type="button" class="link-btn" data-go="choice">&larr; Back</button></p>' +
+          '</div>' +
+
+          '<div class="v3-step" data-step="free" style="display:none">' +
+            '<h2 class="lead-title">Start free</h2>' +
+            '<p class="v3-sub-line">Enter your details once to browse the PYQ library free.</p>' +
+            '<form class="lead-form" data-form="free" novalidate>' +
+              '<label class="lead-field"><span>Name</span><input type="text" name="f_name" autocomplete="name" required></label>' +
+              '<label class="lead-field"><span>Phone</span><input type="tel" name="f_phone" autocomplete="tel" inputmode="numeric" required></label>' +
+              '<label class="lead-field"><span>Email</span><input type="email" name="f_email" autocomplete="email" required></label>' +
+              '<p class="lead-error" data-err="free"></p>' +
+              '<button type="submit" class="lead-btn">Start browsing</button>' +
+            '</form>' +
+            '<p class="lead-note"><button type="button" class="link-btn" data-go="choice">&larr; Back</button></p>' +
           '</div>' +
 
         '</div>' +
@@ -174,14 +183,19 @@
 
     var unfit = fitToViewport(gateEl);
     gateEl._unfit = unfit;
-    showStep(initial || "free");
+    showStep(initial || "choice");
 
     gateEl.addEventListener("click", function (e) {
       if (gateEl._dismissible && e.target === gateEl) { closeGate(); return; } // backdrop click
       var go = e.target.getAttribute && e.target.getAttribute("data-go");
       if (go) {
-        if (gateEl._dismissible && go === "free") { closeGate(); return; } // "Back" closes for signed-in users
-        showStep(go); if (go === "signin") focusField('[name="s_email"]'); return;
+        // On a dismissible popup (opened from the strip by a signed-in free user)
+        // there is no choice screen to go back to, so Back closes it.
+        if (gateEl._dismissible && go === "choice") { closeGate(); return; }
+        showStep(go);
+        if (go === "signin") focusField('[name="s_email"]');
+        else if (go === "free") focusFreeField();
+        return;
       }
       var act = e.target.getAttribute && e.target.getAttribute("data-act");
       if (act === "send-code") { onSendCode(e.target); return; }
@@ -193,9 +207,13 @@
     }
     gateEl.querySelector('[data-form="free"]').addEventListener("submit", function (ev) { ev.preventDefault(); onFreeSubmit(); });
 
-    // keyboard-safe: only auto-focus on desktop; ease a tapped field into view.
+    // keyboard-safe: only auto-focus a field on desktop, and only when the popup
+    // opens straight onto a form step (not the choice screen). Ease a tapped
+    // field into view above the keyboard.
     var finePointer = window.matchMedia && window.matchMedia("(pointer: fine)").matches;
-    if (finePointer) focusField('[name="f_name"]');
+    var step = initial || "choice";
+    if (finePointer && step === "signin") focusField('[name="s_email"]');
+    else if (finePointer && step === "free") focusFreeField();
     gateEl.addEventListener("focusin", function (e) {
       setTimeout(function () { try { e.target.scrollIntoView({ block: "center", behavior: "smooth" }); } catch (x) {} }, 260);
     });
@@ -208,6 +226,7 @@
     });
   }
   function focusField(sel) { setTimeout(function () { try { var n = gateEl.querySelector(sel); if (n) n.focus(); } catch (x) {} }, 60); }
+  function focusFreeField() { focusField('[name="f_name"]'); }
 
   function fitToViewport(overlay) {
     var vv = window.visualViewport;
@@ -277,6 +296,7 @@
     var err = gateEl.querySelector('[data-err="s_email"]');
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { err.textContent = "Please enter a valid email."; return; }
     err.textContent = ""; btn.disabled = true; btn.textContent = "Sending...";
+    var na = gateEl.querySelector('[data-note="noaccount"]'); if (na) na.style.display = "none";
     fetch(PORTAL + "/api/request-code", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email: email }) })
       .then(function () {
         gateEl.querySelector('[data-sub="email"]').style.display = "none";
@@ -302,12 +322,21 @@
               // the page already rendered for the previous tier; reload so every
               // view (hub quiz card, all years, quiz) re-renders as course.
               location.reload();
-            } else { lsSet(COURSE_KEY, ""); err.textContent = "This email is not on a course plan yet."; btn.disabled = false; btn.textContent = "Sign in"; }
+            } else {
+              // token issued but not a course account -> not enrolled.
+              lsSet(COURSE_KEY, ""); showNoAccount(); btn.disabled = false; btn.textContent = "Sign in";
+            }
           });
         }
-        err.textContent = "That code is not right or has expired. Request a new one."; btn.disabled = false; btn.textContent = "Sign in";
+        // verify failed: per spec, treat as "no course account for that email".
+        err.textContent = ""; showNoAccount(); btn.disabled = false; btn.textContent = "Sign in";
       })
       .catch(function () { err.textContent = "Something went wrong, please try again."; btn.disabled = false; btn.textContent = "Sign in"; });
+  }
+
+  function showNoAccount() {
+    var n = gateEl && gateEl.querySelector('[data-note="noaccount"]');
+    if (n) n.style.display = "";
   }
 
   /* ---- 5) the persistent strip ---- */
@@ -366,9 +395,9 @@
       // token present but invalid (401) -> drop it.
       if (me.status === 401) { lsSet(COURSE_KEY, ""); lsSet(FREE_KEY, ""); }
       // unregistered: resolve ready as non-course so content renders (hidden)
-      // behind the registration gate, then show the gate.
+      // behind the gate, then show the two-step entry popup (choice first).
       resolveReady(null);
-      openGate("free");
+      openGate("choice");
     });
   }
 
